@@ -1,0 +1,843 @@
+,date,start_time,team1,team2,team1_score,team2_score,first_half_score
+0,2021-02-06,13:00,Gaziantep BB,Galatasaray,68,61,İY 36-30
+1,2021-02-06,15:15,Türk Telekom Basketbol Kulübü,M.Y. Afyon Bld,89,86,İY 46-59
+2,2021-02-06,17:30,Darüşşafaka Spor Kulübü,Pınar Karşıyaka Spor Kulübü,86,77,İY 41-37
+3,2021-02-06,20:00,Bahçeşehir Koleji Spor Kulübü,Büyükçekmece,83,74,İY 38-39
+4,2021-02-06,14:00,Final Spor,Bornova Belediye Spor Kulübü,83,72,İY 41-31
+5,2021-02-06,17:30,Gemlik Basketbol Kulübü,Merkezefendi,47,75,İY 21-37
+6,2021-02-06,14:30,Yalova VIP Gençlik Spor Kulübü,İstanbul Üniversitesi Basketbol Kulübü,87,69,İY 42-28
+7,2021-02-06,15:00,Edremit Belediyesi Gürespor Kulübü,Antalya 07 (K),91,83,İY 43-43
+8,2021-02-06,16:00,Emlak Konut(K),Urla Belediyesi Gençlik Spor Kulübü,57,39,İY 22-26
+9,2021-02-06,17:00,Ceyhan Bld.(K),Bursa Büyükşehir Belediyesi Spor Kulübü,60,74,İY 32-36
+10,2021-02-06,03:00,Indiana,New Orleans,113,114,İY 48-57
+11,2021-02-06,03:00,Orlando,Chicago,123,119,İY 66-56
+12,2021-02-06,03:30,Brooklyn,Toronto,117,123,İY 63-67
+13,2021-02-06,03:30,Cleveland,Milwaukee,105,123,İY 63-60
+14,2021-02-06,04:00,Charlotte,Utah,121,138,İY 54-69
+15,2021-02-06,04:00,Miami,Washington,122,95,İY 71-43
+16,2021-02-06,04:00,Oklahoma,Minnesota,103,106,İY 55-51
+17,2021-02-06,05:00,Phoenix,Detroit,109,92,İY 57-44
+18,2021-02-06,06:00,LA Clippers,Boston,115,119,İY 62-51
+19,2021-02-06,21:00,New York,Portland,110,99,İY 57-51
+20,2021-02-06,19:00,Slovenya K,İzlanda (K),96,59,İY 44-25
+21,2021-02-06,22:00,Bulgaristan K,Yunanistan K,55,73,İY 33-37
+22,2021-02-06,21:00,İsrail K,Karadağ K,52,78,İY 25-38
+23,2021-02-06,14:30,Estonya K,B. Hersek (K),52,78,İY 23-37
+24,2021-02-06,17:30,Rusya K,İsviçre K,103,47,İY 49-23
+25,2021-02-06,15:00,Danimarka (K),Çekya (K),63,84,İY 32-43
+26,2021-02-06,21:00,İtalya K,Romanya (K),81,66,İY 40-35
+27,2021-02-06,03:00,Arnavutluk (K),Türkiye K,,,
+28,2021-02-06,18:00,Sırbistan K,Litvanya K,96,61,İY 60-33
+29,2021-02-06,14:30,Polonya K,Beyaz Rusya K,49,80,İY 29-43
+30,2021-02-06,18:00,Finlandiya K,Ukrayna K,75,91,İY 34-52
+31,2021-02-06,21:00,Belçika K,Portekiz K,69,66,İY 36-35
+32,2021-02-06,19:30,Hollanda K,Slovakya K,50,61,İY 21-29
+33,2021-02-06,17:30,Makedonya K,Hırvatistan K,,,
+34,2021-02-06,20:45,Letonya K,Almanya K,78,57,İY 35-19
+35,2021-02-06,20:00,Zaragoza,Obradoiro,83,70,İY 40-39
+36,2021-02-06,20:00,CB Herbalife Gran Canaria Claret,Manresa,83,77,İY 37-41
+37,2021-02-06,22:45,Valencia,Real Betis,89,81,İY 38-37
+38,2021-02-06,22:45,CB RETAbet Bilbao Berri Basket,FC Barcelona Lassa Bàsquet,73,90,İY 39-45
+39,2021-02-06,22:00,F. Bologna,Dinamo Sassari,79,89,İY 47-43
+40,2021-02-06,20:00,Boulazac,Nanterre,74,96,İY 42-41
+41,2021-02-06,20:00,Levallois,SIG Basket Strasbourg,63,71,İY 27-47
+42,2021-02-06,21:00,Chalons-Reims,Bourg Basket,108,103,İY 51-45
+43,2021-02-06,22:00,Orleans,Gravelines,104,69,İY 54-33
+44,2021-02-06,23:00,Limoges Cercle Saint-Pierre,Pau Orthez,96,87,İY 54-48
+45,2021-02-06,20:00,Giessen 46ers,Crailsheim,82,101,İY 30-61
+46,2021-02-06,20:00,Rasta Vechta,S. Frankfurt,72,96,İY 32-48
+47,2021-02-06,22:30,Würzburg,BG Göttingen,82,87,İY 42-47
+48,2021-02-06,22:30,Mitteldeutsche,Telekom Basket,97,103,İY 30-44
+49,2021-02-06,09:30,Cairns Taipans,Bullets,,,
+50,2021-02-06,09:30,Cairns Taipans,NZ Breakers,79,85,İY 44-41
+51,2021-02-06,12:00,Adelaide 36ers,Sydney Kings,75,94,İY 39-48
+52,2021-02-06,00:00,Terriers,Seahawks,81,84,İY 22-36
+53,2021-02-06,00:00,Merrimack Warriors,Red Flash,59,54,İY 30-23
+54,2021-02-06,01:00,Long Island University Sharks,Knights,62,77,İY 29-37
+55,2021-02-06,01:00,UNC Asheville,Campbell,,,
+56,2021-02-06,01:00,Bobcats,Trojans,57,47,İY 37-24
+57,2021-02-06,01:00,Phoenix,IUPUI,71,80,İY 34-31
+58,2021-02-06,01:00,Red Foxes,Gaels,,,
+59,2021-02-06,02:00,Liberty Flames,Lancaster Bible College Chargers,90,49,İY 45-26
+60,2021-02-06,02:00,Radford,SC Spartans,102,66,İY 50-28
+61,2021-02-06,02:00,Titans,Mastadons,82,72,İY 44-38
+62,2021-02-06,02:00,Panthers,Norse,73,87,İY 43-43
+63,2021-02-06,03:00,Colonials,Saint Louis,,,
+64,2021-02-06,03:00,Stetson,Lipscomb,73,68,İY 29-41
+65,2021-02-06,03:00,Penn State,Maryland,55,50,İY 23-23
+66,2021-02-06,03:00,Dayton Flyers,Richmond,,,
+67,2021-02-06,03:00,Dayton Flyers,George Mason,74,65,İY 36-32
+68,2021-02-06,03:00,Bellarmine Knights,Jacksonville,71,56,İY 38-22
+69,2021-02-06,03:00,Florida Eagles,Lions,86,60,İY 43-23
+70,2021-02-06,03:00,Red Wolves,Ragin Cajuns,95,87,İY 36-38
+71,2021-02-06,03:00,Jaguars,C. Carolina,71,65,İY 32-28
+72,2021-02-06,03:00,CSU Northridge,UC Davis,80,77,İY 36-32
+73,2021-02-06,03:00,UC Irvine,Roadrunners,70,53,İY 36-27
+74,2021-02-06,03:00,Colonials,Penguins,78,84,İY 37-32
+75,2021-02-06,03:00,Old Dominion,Marshall Herd,82,81,İY 28-42
+76,2021-02-06,03:00,Gold. Panthers,Roadrunners,80,87,İY 39-47
+77,2021-02-06,03:00,Trojans,Eagles,68,56,İY 27-20
+78,2021-02-06,03:00,Mavericks,Warhawks,63,56,İY 25-31
+79,2021-02-06,03:00,Flashes,Zips,61,72,İY 18-38
+80,2021-02-06,03:00,Keene State Owls,Zips,,,
+81,2021-02-06,03:00,Waves,Dons,,,
+82,2021-02-06,03:00,Grizzlies,Vikings,72,80,İY 33-46
+83,2021-02-06,03:00,Gaels,Lions,,,
+84,2021-02-06,03:00,Santa Barbara,Long Beach,,,
+85,2021-02-06,03:00,Black Bears,Great Danes,,,
+86,2021-02-06,03:00,Blue Raiders,Charlotte 49ers,66,65,İY 32-29
+87,2021-02-06,03:00,Cougars,Wolverines,,,
+88,2021-02-06,03:00,Mustangs,South Florida,,,
+89,2021-02-06,03:00,Gardner-Webb,Presbyterian,91,64,İY 43-32
+90,2021-02-06,03:30,Blazers,Miners,63,51,İY 32-28
+91,2021-02-06,04:00,CSU Fullerton,UC Riverside,,,
+92,2021-02-06,04:00,Mean Green,Bulldogs,63,68,İY 32-29
+93,2021-02-06,04:00,Vaqueros,Antelopes,,,
+94,2021-02-06,04:00,Tritons,Warriors,,,
+95,2021-02-06,04:00,Flames,Raiders,47,72,İY 23-33
+96,2021-02-06,04:00,Mavericks,Leathernecks,77,85,İY 31-37
+97,2021-02-06,04:30,Jackrabbits,Coyotes,56,64,İY 23-29
+98,2021-02-06,04:30,Bison,Golden Eagles,61,54,İY 28-24
+99,2021-02-06,05:00,Lobos,Aztecs,,,
+100,2021-02-06,05:00,Trailblazers,Redhawks,77,76,İY 31-34
+101,2021-02-06,05:00,Aggies,Lancers,75,85,İY 38-41
+102,2021-02-06,05:00,Wolf Pack,Broncos,74,72,İY 28-33
+103,2021-02-06,05:00,Jaspers,Hawks,65,70,İY 33-37
+104,2021-02-06,07:59,Warriors,Cal Poly,84,68,İY 41-31
+105,2021-02-06,20:00,Connecticut,Seton Hall,73,80,İY 29-38
+106,2021-02-06,20:00,Boston College,Wolfpack,65,81,İY 24-44
+107,2021-02-06,20:00,Bulldogs,Blue Demons,68,58,İY 30-29
+108,2021-02-06,20:00,Hurricanes,Virginia Tech,76,80,İY 28-31
+109,2021-02-06,20:00,Cardinals,Rockets,81,67,İY 34-36
+110,2021-02-06,20:00,Sooners,Iowa State,79,72,İY 40-36
+111,2021-02-06,20:00,Northeastern,Delaware,,,
+112,2021-02-06,20:00,Missouri,Crimson Tide,68,65,İY 44-28
+113,2021-02-06,20:30,Fordham Rams,La Salle,76,68,İY 37-24
+114,2021-02-06,21:00,New Hampshire,River Hawks,74,63,İY 31-31
+115,2021-02-06,21:00,Fordham Rams,Wildcats,,,
+116,2021-02-06,21:00,Cougars,Towson,90,88,İY 32-29
+117,2021-02-06,21:00,Bulldogs,Catamounts,74,63,İY 35-30
+118,2021-02-06,21:30,Cougars,Belmont Bruins,62,94,İY 22-45
+119,2021-02-06,22:00,Valparaiso,Bulldogs,77,80,İY 43-35
+120,2021-02-06,22:00,Saint Louis,Bonaventure,70,59,İY 36-31
+121,2021-02-06,22:00,Chippewas,Broncos,65,67,İY 28-32
+122,2021-02-06,22:00,Thunderbirds,Eagles,110,58,İY 53-33
+123,2021-02-06,22:00,Greyhounds,Bison,,,
+124,2021-02-06,22:00,Providence,SJ Red Storm,81,92,İY 41-49
+125,2021-02-06,22:00,Clemson,Syracuse,78,61,İY 39-19
+126,2021-02-06,22:00,Ramblers,Aces,68,55,İY 36-27
+127,2021-02-06,22:00,Weber State,M. Bobcats,82,74,İY 37-33
+128,2021-02-06,22:00,West Virginia,Kansas,91,79,İY 44-34
+129,2021-02-06,22:00,WM Tribe,JM Dukes,,,
+130,2021-02-06,22:00,Bulls,Redhawks,88,64,İY 47-30
+131,2021-02-06,22:00,Gold. Panthers,Roadrunners,47,90,İY 25-49
+132,2021-02-06,22:00,Memphis Tigers,East Carolina,66,59,İY 35-26
+133,2021-02-06,22:00,Eagles,Governors,75,74,İY 24-30
+134,2021-02-06,22:00,Mean Green,Bulldogs,57,55,İY 38-33
+135,2021-02-06,22:00,Pioneers,Hawks,85,81,İY 37-45
+136,2021-02-06,22:00,Tigers,Gators,,,
+137,2021-02-06,22:00,Hofstra Pride,Drexel Dragons,71,73,İY 27-41
+138,2021-02-06,22:00,Bears,Hornets,74,69,İY 37-32
+139,2021-02-06,22:05,S. Hornets,N. Arizona,,,
+140,2021-02-06,22:30,Illinois,Wisconsin,75,60,İY 36-23
+141,2021-02-06,22:30,NIU,Chippewas,,,
+142,2021-02-06,23:00,Bears,Cowboys,70,80,İY 33-36
+143,2021-02-06,23:00,Redbirds,Bears,67,74,İY 36-36
+144,2021-02-06,23:00,Rice Owls,Southern Miss,76,68,İY 32-27
+145,2021-02-06,23:00,Tritons,S. Hornets,,,
+146,2021-02-06,23:00,H. Cougars,Our Lady of the Lake,112,46,İY 60-22
+147,2021-02-06,23:00,Panthers,Norse,65,79,İY 34-39
+148,2021-02-06,23:00,Cowboys,Longhorns,75,67,İY 35-29
+149,2021-02-06,23:05,W. Eagles,Vandals,90,64,İY 34-28
+150,2021-02-06,23:05,Portland State,M. Grizzlies,61,56,İY 27-28
+151,2021-02-06,23:30,Gamecocks,Mississippi,59,75,İY 30-36
+152,2021-02-06,13:00,Altınel Spor Kulübü,Erzurum Büyükşehir Belediye Gençlik Spor Kulübü,48,67,İY 28-30
+153,2021-02-06,14:00,Seyhan Belediyesi Spor Kulübü,Çözüm Ankara Koleji,95,85,İY 48-46
+154,2021-02-06,14:00,Beylikdüzü,Batı Ege Spor Kulübü,85,63,İY 38-29
+155,2021-02-06,15:00,İstanbul Büyükşehir Belediye Spor Kulübü,Etimesgut Belediye Basketbol,99,67,İY 42-30
+156,2021-02-06,16:00,Anadolu Panterleri,Mersin Gel.(K),67,73,İY 40-54
+157,2021-02-06,16:00,Ege Sportif Basketbol Kulübü,Asya Kartalları Spor Kulübü,59,64,İY 25-28
+158,2021-02-06,16:00,Kastamonu Basketbol Spor Kulübü,High Touch Hedef Takım,88,72,İY 41-41
+159,2021-02-06,16:00,Kadıköy İstanbul Spor Kulübü,EGO Spor Kulübü,61,73,İY 30-32
+160,2021-02-06,19:20,Hapoel Eilat,Hapoel Holon,77,83,İY 31-39
+161,2021-02-06,18:00,Promitheas,Ermis Agias,81,63,İY 38-17
+162,2021-02-06,18:00,C. Rodos,Iraklis,84,61,İY 33-28
+163,2021-02-06,18:00,Aris,Kymis Lavrio,89,94,İY 43-45
+164,2021-02-06,18:00,Ionikos,Charilaos Trikoupis,100,85,İY 51-44
+165,2021-02-06,21:00,AEK,Peristeri,91,59,İY 44-28
+166,2021-02-06,21:00,Partizan,Igokea,75,83,İY 36-42
+167,2021-02-06,19:35,Astoria,KK Anwil,99,96,İY 54-45
+168,2021-02-06,21:30,Gliwice,Trefl Sopot,95,82,İY 53-37
+169,2021-02-06,17:30,BC Nevėžis Kėdainiai,BC Žalgiris Kaunas,53,108,İY 23-58
+170,2021-02-06,18:00,Neptunas,Pieno Pasvalys,99,93,İY 49-45
+171,2021-02-06,18:20,Dzukija Alytus,BC Juventus Utena,76,92,İY 48-44
+172,2021-02-06,21:00,Leyma Coruna,CB Ourense,86,75,İY 32-38
+173,2021-02-06,19:00,Fundacion,Almansa,79,76,İY 35-37
+174,2021-02-06,20:00,Scorchers,Bristol Flyers,87,90,İY 49-47
+175,2021-02-06,20:00,Gries,Rouen Basket,84,67,İY 38-35
+176,2021-02-06,22:00,Poitiers,Paris,72,71,İY 35-47
+177,2021-02-06,07:30,Shanxi Dragons,Tongxi King,94,92,İY 50-48
+178,2021-02-06,10:30,Tianjin,Beijing Ducks,84,101,İY 52-60
+179,2021-02-06,14:35,Xinjiang Tiger,ZJ Gold Bulls,99,93,İY 50-37
+180,2021-02-06,15:00,BF Dragons,SH Leopards,114,106,İY 55-57
+181,2021-02-06,08:00,H. Dragonflies,Shimane SM,77,86,İY 29-46
+182,2021-02-06,09:05,Tochigi Brex,Niigata Abirex,86,48,İY 50-19
+183,2021-02-06,09:05,Toyota Alvark,Shinshu BW,83,73,İY 38-39
+184,2021-02-06,09:05,Kyoto Hannaryz,Yokohama BC,82,69,İY 45-33
+185,2021-02-06,09:05,Osaka Evessa,Sun Rockers,91,72,İY 51-34
+186,2021-02-06,11:05,Shiga L-Stars,Chiba Jets,75,90,İY 35-53
+187,2021-02-06,12:05,Brave Thunders,SeaHorses,93,63,İY 55-36
+188,2021-02-06,12:05,Toyama Grouses,Akita NH,74,64,İY 35-25
+189,2021-02-06,12:05,NeoPhoenix,Dolphins,90,106,İY 51-51
+190,2021-02-06,12:05,Ryukyu,Levanga,93,80,İY 46-33
+191,2021-02-06,05:10,Real Estelí FC,Titanes,79,88,İY 37-42
+192,2021-02-06,02:40,Flamengo,I. Atletico Central Cordoba,,,
+193,2021-02-06,01:00,La Union,Platense,70,80,İY 30-43
+194,2021-02-06,03:30,Obras,Almagro,69,85,İY 33-39
+195,2021-02-06,17:00,Ferro,Atenas,61,68,İY 27-27
+196,2021-02-06,17:00,Cruzes,Corinthians,75,77,İY 41-36
+197,2021-02-06,22:00,Franca,São Paulo Futebol Clube,76,97,İY 34-46
+198,2021-02-06,14:00,Dubrava,Cibona,84,100,İY 39-51
+199,2021-02-06,19:30,Split,Zadar,82,62,İY 37-24
+200,2021-02-06,20:00,Puntamika,Alkar Sinj,84,80,İY 35-41
+201,2021-02-06,20:00,Metalac,Kolubara LA,66,63,İY 35-39
+202,2021-02-06,21:00,Napredak,Sloga,89,92,İY 47-44
+203,2021-02-06,21:00,Podcetrtek,KK Rogaska,70,76,İY 32-34
+204,2021-02-06,21:00,Hopsi Polzela,Sentjur,68,93,İY 34-48
+205,2021-02-06,21:00,Triglav,KK Sencur,83,91,İY 47-36
+206,2021-02-06,20:00,Kralovsti Soko,Olomoucko,103,105,İY 57-59
+207,2021-02-06,20:00,Kolin,Decin,100,84,İY 54-45
+208,2021-02-06,20:00,Turi Svitavy,Brno,77,92,İY 38-53
+209,2021-02-06,20:00,Usti nad Labem,CEZ Nymburk,90,98,İY 51-43
+210,2021-02-06,20:00,USK Praha,Opava,88,87,İY 39-46
+211,2021-02-06,20:00,Ostrava,Pardubice,81,78,İY 44-46
+212,2021-02-06,19:30,Oberwart,Swans Gmunden,95,96,İY 42-50
+213,2021-02-06,21:00,St. Pölten,Kapfenberg,65,84,İY 34-39
+214,2021-02-06,13:00,Novosibirsk,Burevestnik,91,73,İY 49-41
+215,2021-02-06,15:00,Univ Yugra,Runa,69,107,İY 37-53
+216,2021-02-06,15:00,Uralmash,MBA Moskva,92,90,İY 48-53
+217,2021-02-06,16:00,Temp,Kupol Rodniki,84,78,İY 41-35
+218,2021-02-06,20:30,Kortrijk (K),Lummen (K),84,54,İY 36-30
+219,2021-02-06,15:00,Borisfen,Impuls,87,67,İY 38-31
+220,2021-02-06,15:00,Rubon,Tsmoki II,73,74,İY 36-37
+221,2021-02-06,09:00,Ulsan,Dongu Promy,82,86,İY 39-47
+222,2021-02-06,09:00,LG Sakers,Seoul Thunders,64,73,İY 38-33
+223,2021-02-06,20:00,Samobor,Dubrovnik,59,65,İY 33-31
+224,2021-02-06,21:30,KK Zapruđe,Kvarner 2010,73,69,İY 36-33
+225,2021-02-06,22:00,CB La Matanza,Real Madrid II,91,86,İY 25-42
+226,2021-02-06,20:30,La Flecha,Tormes,86,70,İY 47-37
+227,2021-02-06,20:00,Carbajosa,Estela,79,70,İY 31-36
+228,2021-02-06,20:00,Alcobendas,Iraurgi,70,80,İY 33-37
+229,2021-02-06,20:00,Zamora,Clavijo,63,67,İY 31-40
+230,2021-02-06,21:00,UDEA,Fragata Moron,75,81,İY 33-34
+231,2021-02-06,22:00,Circulo Gijon,Zentro,90,85,İY 33-44
+232,2021-02-06,20:00,Benicarlo,Pardinyas,66,70,İY 36-37
+233,2021-02-06,20:05,Cornella,L'Hospitalet,63,51,İY 27-30
+234,2021-02-06,22:00,Alcobendas (K),Real Canoe (K),79,74,İY 37-36
+235,2021-02-06,20:30,Club Basquet Femeni Viladecans Sports,Boet (K),63,49,İY 31-32
+236,2021-02-06,22:30,Latina,Cuore Napoli,59,69,İY 36-39
+237,2021-02-06,22:45,Urania,Novipiù JB Monferrato,81,77,İY 31-39
+238,2021-02-06,21:00,Ponzano (K),Crema (K),65,79,İY 43-43
+239,2021-02-06,22:30,Martino II (K),Moncalieri (K),44,65,İY 19-29
+240,2021-02-06,08:00,Gunma,Bambitious Nara,88,77,İY 51-35
+241,2021-02-06,06:30,Trains,Veltex Shizuoka,70,78,İY 39-32
+242,2021-02-06,20:30,Z. Kaunas II,BC Silute,69,74,İY 37-33
+243,2021-02-06,20:00,Kavadarci,KK Gostivar,89,99,İY 48-58
+244,2021-02-06,20:00,KS Sudety Jelenia Góra,BC Obra Kościan,90,68,İY 49-26
+245,2021-02-06,14:00,Dynamo MGTU,Tambov,79,87,İY 36-43
+246,2021-02-06,09:30,Formosa Dreamers,Fubon Braves,100,91,İY 55-36
+247,2021-02-05,20:45,Fenerbahçe,BK Zenit Saint Petersburg,92,84,İY 47-43
+248,2021-02-05,22:00,Olympiacos BC,Panathinaikos BC Superfoods,77,88,İY 35-38
+249,2021-02-05,22:30,FC Bayern München,ALBA Berlin,101,95,İY 33-43
+250,2021-02-05,22:45,Asvel,Olimpia Milano,78,69,İY 37-40
+251,2021-02-05,23:00,Real Madrid,CD Saski Baskonia,64,84,İY 34-37
+252,2021-02-05,18:00,Samsunspor,Kocaeli,74,71,İY 39-39
+253,2021-02-05,03:30,Atlanta,Utah,91,112,İY 37-45
+254,2021-02-05,03:30,Dallas,Golden State,116,147,İY 76-74
+255,2021-02-05,04:00,Philadelphia,Portland,105,121,İY 57-57
+256,2021-02-05,05:00,Memphis,Houston,103,115,İY 47-60
+257,2021-02-05,06:00,LA Lakers,Denver,114,93,İY 46-58
+258,2021-02-05,22:00,Le Mans,Chorale Roanne,97,84,İY 51-44
+259,2021-02-05,22:30,Dijon,Élan Sportif Chalonnais,85,75,İY 42-44
+260,2021-02-05,21:00,Hamburg Towers,Medi Bayreuth,92,95,İY 41-46
+261,2021-02-05,11:30,Bullets,Melbourne,96,109,İY 52-51
+262,2021-02-05,13:30,Perth Wildcats,NZ Breakers,,,
+263,2021-02-05,00:00,Terriers,Seahawks,67,74,İY 36-33
+264,2021-02-05,00:00,Merrimack Warriors,Red Flash,68,62,İY 40-29
+265,2021-02-05,02:00,Radford,SC Spartans,63,61,İY 28-29
+266,2021-02-05,03:00,Long Island University Sharks,Knights,70,78,İY 37-40
+267,2021-02-05,03:00,UNC Asheville,Campbell,,,
+268,2021-02-05,03:00,Utes,Arizona,73,58,İY 32-27
+269,2021-02-05,03:00,Gardner-Webb,Presbyterian,59,53,İY 26-14
+270,2021-02-05,03:00,Iowa Hawkeyes,Ohio State,85,89,İY 45-42
+271,2021-02-05,03:00,Eagles,Racers,66,56,İY 32-33
+272,2021-02-05,03:00,EK Colonels,Governors,79,94,İY 38-53
+273,2021-02-05,03:00,Temple Owls,Cincinnati,60,63,İY 23-31
+274,2021-02-05,03:00,V. Keydets,Mercer Bears,,,
+275,2021-02-05,03:00,Cougars,Wolverines,,,
+276,2021-02-05,03:00,SC Spartans,UNC Asheville,,,
+277,2021-02-05,03:00,Pilots,Cougars,60,105,İY 30-52
+278,2021-02-05,04:05,S. Hornets,N. Arizona,,,
+279,2021-02-05,04:30,Panthers,Belmont Bruins,61,89,İY 25-38
+280,2021-02-05,05:00,Rutgers,Golden Gophers,76,72,İY 35-37
+281,2021-02-05,05:00,Cowboys,Rams,72,74,İY 38-32
+282,2021-02-05,05:00,Skyhawks,Gamecocks,70,82,İY 34-46
+283,2021-02-05,05:00,Redhawks,Eagles,68,64,İY 26-39
+284,2021-02-05,05:00,Thunderbirds,N. Colorado,,,
+285,2021-02-05,05:00,Weber State,M. Bobcats,96,88,İY 43-45
+286,2021-02-05,05:00,Vandals,W. Eagles,75,89,İY 34-38
+287,2021-02-05,05:00,Waves,Toreros,,,
+288,2021-02-05,05:00,Pacific Tigers,Bulldogs,58,76,İY 32-31
+289,2021-02-05,05:00,Bulldogs,Aggies,53,69,İY 29-33
+290,2021-02-05,05:00,Golden Bears,Cardinal,55,70,İY 29-42
+291,2021-02-05,05:00,Beavers,Huskies,91,71,İY 47-35
+292,2021-02-05,06:05,Portland State,M. Grizzlies,64,70,İY 25-26
+293,2021-02-05,07:00,Ducks,Cougars,71,74,İY 31-36
+294,2021-02-05,22:00,Pioneers,Hawks,82,85,İY 29-34
+295,2021-02-05,23:00,Rice Owls,Southern Miss,88,62,İY 37-27
+296,2021-02-05,23:00,New Hampshire,River Hawks,69,74,İY 30-35
+297,2021-02-05,15:00,Çorlu Bld.,Kayserigaz,90,74,İY 52-31
+298,2021-02-05,14:00,M. Tel Aviv,H. Be'er Sheva,100,74,İY 53-31
+299,2021-02-05,03:00,Primorska,Cibona,0,20,
+300,2021-02-05,18:00,Spojnia,Zielona Gora,80,97,İY 45-45
+301,2021-02-05,19:35,D. Gornicza,Starogard,102,90,İY 40-45
+302,2021-02-05,21:00,Breogan,Melilla,81,72,İY 47-36
+303,2021-02-05,21:00,Tizona,Palencia,79,86,İY 39-39
+304,2021-02-05,21:00,Real Canoe NC,Myrtia,69,64,İY 21-38
+305,2021-02-05,21:00,Sharks,Glasgow Rocks,77,61,İY 32-40
+306,2021-02-05,21:00,Eagles,Wolves,94,85,İY 59-40
+307,2021-02-05,21:00,Riders,Man Giants,116,109,İY 58-57
+308,2021-02-05,22:30,Raiders,Bristol Flyers,87,65,İY 49-31
+309,2021-02-05,21:00,Scorchers,Thames Valley Cavaliers,101,100,İY 56-53
+310,2021-02-05,19:00,Lille BC,Antibes,68,58,İY 32-29
+311,2021-02-05,21:00,Vichy Clermont,Nancy Basket,100,98,İY 47-54
+312,2021-02-05,21:00,Quimper,Fos Provence,94,90,İY 43-45
+313,2021-02-05,21:00,Evreux,Blois 41,81,73,İY 41-33
+314,2021-02-05,06:00,Zhejiang Lions,GZ Long-Lions,104,89,İY 52-43
+315,2021-02-05,07:30,Fujian Xunxing,JS Dragons,103,96,İY 52-52
+316,2021-02-05,10:30,QD Eagles,SH Sharks,101,109,İY 53-45
+317,2021-02-05,14:35,SJ Whale,LF Leopards,115,102,İY 56-53
+318,2021-02-05,15:00,GS Tigers,SD Tigers,131,112,İY 74-59
+319,2021-02-05,05:10,Caballos,Titanes,74,67,İY 37-41
+320,2021-02-05,02:40,Minas,I. Atletico Central Cordoba,100,85,İY 50-51
+321,2021-02-05,03:00,Boca Juniors,Platense,88,81,İY 38-36
+322,2021-02-05,17:00,Corrientes,Olimpico,82,77,İY 35-40
+323,2021-02-05,20:00,Zabok,GKK Sibenik,77,99,İY 36-54
+324,2021-02-05,20:00,KK Pirot,Dunav,96,83,İY 47-37
+325,2021-02-05,22:30,Liege,Hubo Limburg,82,90,İY 44-49
+326,2021-02-05,22:30,Oostende,Okapi Aalstar,101,76,İY 47-42
+327,2021-02-05,20:00,SOM Boulogne,Saint Vallier,74,83,İY 29-48
+328,2021-02-05,13:00,Anyang KGC,KT Sonicboom,99,95,İY 44-47
+329,2021-02-05,21:04,Umea BBK,Köping Stars,105,102,İY 57-47
+330,2021-02-05,21:04,Södertalje,Jamtland,77,75,İY 36-39
+331,2021-02-05,13:00,Gunma,Bambitious Nara,99,79,İY 54-32
+332,2021-02-05,10:00,Parma,UNICS U21,74,91,İY 39-37
+333,2021-02-05,14:00,Khimki U21,Nizhny U21,72,55,İY 31-32
+334,2021-02-05,19:00,BK Khimik,Kyiv Basket,68,66,İY 37-30
+335,2021-02-04,23:00,FC Barcelona Lassa Bàsquet,Anadolu Efes Spor Kulübü,86,88,İY 50-53
+336,2021-02-04,23:00,Valencia,PBK CSKA Moskva,105,103,İY 47-43
+337,2021-02-04,03:00,Charlotte,Philadelphia,111,118,İY 42-64
+338,2021-02-04,03:00,Milwaukee,Indiana,130,110,İY 68-51
+339,2021-02-04,03:30,Atlanta,Dallas,116,122,İY 56-53
+340,2021-02-04,04:00,Cleveland,LA Clippers,99,121,İY 49-52
+341,2021-02-04,04:00,Miami,Washington,100,103,İY 65-55
+342,2021-02-04,04:00,Chicago,New York,103,107,İY 52-63
+343,2021-02-04,04:00,Oklahoma,Houston,104,87,İY 54-43
+344,2021-02-04,04:30,San Antonio,Minnesota,111,108,İY 54-65
+345,2021-02-04,05:30,New Orleans,Phoenix,123,101,İY 48-46
+346,2021-02-04,06:00,Sacramento,Boston,116,111,İY 52-51
+347,2021-02-04,18:15,Slovenya K,Bulgaristan K,71,66,İY 41-32
+348,2021-02-04,21:15,İzlanda (K),Yunanistan K,58,95,İY 31-43
+349,2021-02-04,19:40,Karadağ K,İsveç K,69,67,İY 32-30
+350,2021-02-04,14:30,İsviçre K,B. Hersek (K),62,67,İY 32-29
+351,2021-02-04,17:30,Rusya K,Estonya K,79,35,İY 45-18
+352,2021-02-04,15:00,Romanya (K),Çekya (K),52,100,İY 25-58
+353,2021-02-04,21:00,İtalya K,Danimarka (K),101,55,İY 49-24
+354,2021-02-04,03:00,Sırbistan K,Arnavutluk (K),,,
+355,2021-02-04,18:00,Litvanya K,Türkiye K,55,67,İY 29-33
+356,2021-02-04,14:30,Beyaz Rusya K,B. Britanya K,67,57,İY 34-33
+357,2021-02-04,18:00,Belçika K,Finlandiya K,82,47,İY 39-32
+358,2021-02-04,21:00,Portekiz K,Ukrayna K,58,87,İY 28-33
+359,2021-02-04,20:00,Slovakya K,Macaristan (K),57,65,İY 31-42
+360,2021-02-04,17:30,Almanya K,Hırvatistan K,66,80,İY 34-41
+361,2021-02-04,20:45,Letonya K,Makedonya K,,,
+362,2021-02-04,19:30,Varese,Enel Brindisi,76,74,İY 35-43
+363,2021-02-04,16:30,BC Astana,BC Enisey Krasnoyarsk,60,78,İY 33-33
+364,2021-02-04,00:00,JM Dukes,Pheonix,78,57,İY 42-25
+365,2021-02-04,01:00,Blue Demons,Musketeers,,,
+366,2021-02-04,01:00,La Salle,Wildcats,,,
+367,2021-02-04,02:00,Saint Joseph's,Bonaventure,,,
+368,2021-02-04,02:00,Massachusetts,Fordham Rams,60,54,İY 33-23
+369,2021-02-04,02:00,East Carolina,H. Cougars,82,73,İY 37-40
+370,2021-02-04,02:30,Gators,Gamecocks,66,72,İY 40-35
+371,2021-02-04,03:00,La Salle,Saint Louis,82,75,İY 36-32
+372,2021-02-04,03:00,Pittsburgh,Virginia Tech,83,72,İY 31-31
+373,2021-02-04,03:00,Providence,Seton Hall,43,60,İY 25-22
+374,2021-02-04,03:00,Broncos,Gaels,,,
+375,2021-02-04,03:00,Missouri,Wildcats,75,70,İY 40-27
+376,2021-02-04,03:00,Crimson Tide,Tigers,78,60,İY 36-30
+377,2021-02-04,03:00,Catamounts,Mocs,67,74,İY 28-28
+378,2021-02-04,03:00,Terriers,V. Keydets,80,84,İY 41-37
+379,2021-02-04,03:00,Mercer Bears,Buccaneers,64,70,İY 40-32
+380,2021-02-04,03:00,Lobos,Aztecs,,,
+381,2021-02-04,03:00,Bulldogs,Spartans,66,85,İY 35-35
+382,2021-02-04,03:00,Syracuse,Louisville,,,
+383,2021-02-04,03:00,Rhode Island,VCU Rams,62,63,İY 28-29
+384,2021-02-04,03:00,Falcons,Broncos,70,76,İY 29-40
+385,2021-02-04,04:00,Islanders,Lumberjacks,75,84,İY 42-47
+386,2021-02-04,04:00,Shockers,Tulane,75,67,İY 31-19
+387,2021-02-04,04:00,Cardinals,Cardinals,58,67,İY 21-33
+388,2021-02-04,04:00,Memphis Tigers,knights,75,61,İY 30-23
+389,2021-02-04,04:30,Texas A&M,Commodores,,,
+390,2021-02-04,05:00,Gold Hurricane,South Florida,,,
+391,2021-02-04,05:00,Bluejays,Georgetown,79,86,İY 39-44
+392,2021-02-04,05:00,Wolfpack,Virginia Cavs,57,64,İY 24-28
+393,2021-02-04,05:00,Frogs,Cowboys,81,78,İY 34-34
+394,2021-02-04,05:00,SJ Red Storm,Villanova,70,59,İY 30-27
+395,2021-02-04,05:00,Gold Hurricane,Mustangs,63,65,İY 23-29
+396,2021-02-04,22:00,Cougars,Tigers,68,60,İY 36-28
+397,2021-02-04,20:20,Rishon LeZion,Ironi Nahariya,91,93,İY 47-45
+398,2021-02-04,22:15,Hapoel Haifa,H. Jerusalem,101,99,İY 50-56
+399,2021-02-04,19:35,Slask Wroclaw,Stal Ostrow,98,97,İY 47-45
+400,2021-02-04,20:00,Saint Quentin,Aix Maurienne,83,66,İY 47-31
+401,2021-02-04,07:30,BF Dragons,ZJ Gold Bulls,102,112,İY 51-63
+402,2021-02-04,14:35,Jilin Tigers,SH Leopards,111,121,İY 54-57
+403,2021-02-04,15:00,Tianjin,Shanxi Dragons,100,108,İY 47-60
+404,2021-02-04,05:10,Real Estelí FC,Caballos,78,69,İY 30-33
+405,2021-02-04,02:40,Flamengo,Minas,79,69,İY 36-22
+406,2021-02-04,03:00,Corrientes,Hispano,70,89,İY 36-33
+407,2021-02-04,20:00,Cibona,Hermes,110,71,İY 53-37
+408,2021-02-04,22:30,Vojvodina,Vrsac,95,76,İY 45-40
+409,2021-02-04,17:15,Ufimets,Khimki Pod,76,60,İY 40-37
+410,2021-02-04,18:00,BK Samara,CSKA Moskva II,65,74,İY 36-27
+411,2021-02-04,13:00,Ulsan,Jeonju KCC,77,72,İY 33-48
+412,2021-02-04,13:00,Winnus (K),Shinhan (K),62,66,İY 38-30
+413,2021-02-04,23:30,Igualada,Club Bàsquet Alpicat,88,55,İY 42-29
+414,2021-02-04,20:34,Lulea,Nassjö,88,71,İY 39-30
+415,2021-02-04,19:00,BC Jonava,Palangos,92,71,İY 38-36
+416,2021-02-04,19:00,KK MZT Skopje Aerodrom II,Skopje,75,97,İY 39-42
+417,2021-02-04,20:00,MChKK Chełmno,Devil Energy Politechnika Gdańska,81,100,İY 44-47
+418,2021-02-04,10:00,Parma,UNICS U21,86,64,İY 44-39
+419,2021-02-04,14:00,Khimki U21,Nizhny U21,87,88,İY 44-43
+420,2021-02-04,15:00,Enisey U21,Avtodor U21,73,76,İY 36-31
+421,2021-02-03,17:00,Petkim Spor,Darüşşafaka Spor Kulübü,78,70,İY 45-33
+422,2021-02-03,03:00,Orlando,Toronto,108,123,İY 60-64
+423,2021-02-03,03:30,Brooklyn,LA Clippers,124,120,İY 57-58
+424,2021-02-03,04:00,Indiana,Memphis,134,116,İY 71-50
+425,2021-02-03,04:00,Washington,Portland,121,132,İY 63-75
+426,2021-02-03,06:00,Utah,Detroit,117,105,İY 69-46
+427,2021-02-03,06:00,Golden State,Boston,107,111,İY 52-52
+428,2021-02-03,22:00,Nanterre,Unicaja Baloncesto Málaga,80,74,İY 36-42
+429,2021-02-03,22:30,Partizan,L. Kuban,71,69,İY 35-48
+430,2021-02-03,21:00,KK Budućnost VOLI,Virtus Bologna,89,99,İY 47-53
+431,2021-02-03,23:00,Bourg Basket,Cedevita,64,77,İY 41-39
+432,2021-02-03,19:00,BC UNICS Kazan,KK Mornar,86,61,İY 51-31
+433,2021-02-03,22:00,BC MoraBanc Andorra,CB Herbalife Gran Canaria Claret,74,79,İY 35-42
+434,2021-02-03,15:00,Beyaz Rusya K,Polonya K,56,68,İY 25-33
+435,2021-02-03,03:00,Iraklis,Reggio Emilia,,,
+436,2021-02-03,19:30,Rilski,Prometei,,,
+437,2021-02-03,03:00,Sporting Clube de Portugal,Stal Ostrow,,,
+438,2021-02-03,20:00,Szolnoki Olaj,Ironi N. Ziona,,,
+439,2021-02-03,20:00,Sibiu,Beşiktaş,,,
+440,2021-02-03,03:00,KK Anwil,BK Dnipro,,,
+441,2021-02-03,03:00,Fribourg,Lions,,,
+442,2021-02-03,22:00,Den Bosch,Borisfen,,,
+443,2021-02-03,22:30,Estudiantes,Zaragoza,73,79,İY 40-39
+444,2021-02-03,21:00,Brose Baskets,Mitteldeutsche,95,80,İY 50-45
+445,2021-02-03,22:30,Würzburg,FC Bayern München,70,74,İY 33-27
+446,2021-02-03,00:00,Sun Devils,Utes,,,
+447,2021-02-03,01:00,Chippewas,Bobcats,69,83,İY 34-38
+448,2021-02-03,01:00,Golden Eagles,Bulldogs,70,67,İY 33-21
+449,2021-02-03,01:00,Fighting Irish,Wake Forest,79,58,İY 35-32
+450,2021-02-03,02:00,Cougars,Panthers,61,70,İY 21-23
+451,2021-02-03,02:00,Richmond,George Mason,,,
+452,2021-02-03,02:00,Flashes,Redhawks,77,68,İY 30-37
+453,2021-02-03,02:00,Cardinals,Bulls,58,78,İY 32-33
+454,2021-02-03,02:30,Maryland,Purdue,61,60,İY 24-27
+455,2021-02-03,03:00,Trojans,Badgers,90,73,İY 44-29
+456,2021-02-03,03:00,Iowa Hawkeyes,M. Spartans,84,78,İY 48-43
+457,2021-02-03,03:00,Gamecocks,EK Colonels,82,86,İY 36-40
+458,2021-02-03,03:00,Clemson,North Carolina,63,50,İY 33-21
+459,2021-02-03,03:00,Rockets,Zips,91,76,İY 49-35
+460,2021-02-03,03:00,Rebels,Volunteers,52,50,İY 23-28
+461,2021-02-03,03:00,Tigers,Bulldogs,86,91,İY 30-39
+462,2021-02-03,03:00,Longhorns,Baylor Bears,69,83,İY 34-41
+463,2021-02-03,03:00,Iowa State,West Virginia,72,76,İY 31-42
+464,2021-02-03,03:00,Bulldogs,Paladins,,,
+465,2021-02-03,03:00,Spartans,Hawks,,,
+466,2021-02-03,03:00,Eagles,Bulldogs,64,63,İY 31-37
+467,2021-02-03,03:00,Northwestern,M. Wolverines,,,
+468,2021-02-03,04:00,Kansas,Kansas State,74,51,İY 33-25
+469,2021-02-03,04:00,Eagles,Bears,82,95,İY 42-50
+470,2021-02-03,04:30,Wisconsin,Penn State,72,56,İY 33-31
+471,2021-02-03,05:00,Boston College,Florida State,,,
+472,2021-02-03,05:00,I. Hoosiers,Illinois,71,75,İY 41-34
+473,2021-02-03,05:00,Wolf Pack,Rebels,72,62,İY 26-30
+474,2021-02-03,05:00,Razorbacks,Mississippi,61,45,İY 28-22
+475,2021-02-03,05:00,Toreros,Cougars,,,
+476,2021-02-03,05:00,Duquesne Dukes,Dayton Flyers,69,64,İY 39-24
+477,2021-02-03,11:00,Cardinal,Trojans,66,72,İY 35-32
+478,2021-02-03,23:30,Hornets,Lancaster Bible College Chargers,81,80,İY 45-38
+479,2021-02-03,20:20,H. Tel Aviv,Bnei Herzliya,86,98,İY 45-58
+480,2021-02-03,21:00,Hapoel Holon,Ironi N. Ziona,90,92,İY 49-44
+481,2021-02-03,22:15,M. Tel Aviv,Maccabi Haifa,95,60,İY 53-26
+482,2021-02-03,20:00,KS ROSA Radom,Zielona Gora,70,93,İY 37-47
+483,2021-02-03,19:00,BC Siauliai,BC Juventus Utena,92,87,İY 50-41
+484,2021-02-03,19:30,Dzukija Alytus,Lietkabelis,86,70,İY 42-33
+485,2021-02-03,06:00,SJ Whale,QD Eagles,110,109,İY 51-58
+486,2021-02-03,06:00,SD Tigers,Fujian Xunxing,115,99,İY 62-54
+487,2021-02-03,10:30,Zhejiang Lions,JS Dragons,94,90,İY 55-47
+488,2021-02-03,10:30,Xinjiang Tiger,Beijing Ducks,106,88,İY 55-35
+489,2021-02-03,15:00,GS Tigers,LF Leopards,118,115,İY 54-52
+490,2021-02-03,15:00,SH Sharks,GZ Long-Lions,98,93,İY 46-46
+491,2021-02-03,13:05,Brave Thunders,Chiba Jets,67,77,İY 29-38
+492,2021-02-03,02:10,Quimsa,São Paulo Futebol Clube,72,75,İY 33-30
+493,2021-02-03,04:00,Ferro,Platense,67,62,İY 32-30
+494,2021-02-03,02:00,Corinthians,Paulistano,98,100,İY 31-28
+495,2021-02-03,03:00,Primorska,Zlatorog Lasko,0,20,
+496,2021-02-03,20:30,Krka,Helios Domzale,80,70,İY 49-37
+497,2021-02-03,19:00,USK Praha,Olomoucko,77,63,İY 36-34
+498,2021-02-03,20:00,Brno,Opava,81,86,İY 47-39
+499,2021-02-03,21:00,St. Pölten,Graz,84,93,İY 46-42
+500,2021-02-03,21:00,Timberwolves,Kapfenberg,54,77,İY 29-38
+501,2021-02-03,21:00,Oberwart,Traiskirchen,71,60,İY 38-27
+502,2021-02-03,21:00,Flyers Wels,Dukes,87,69,İY 34-26
+503,2021-02-03,21:00,Swans Gmunden,BC Hallmann,82,67,İY 43-28
+504,2021-02-03,11:15,Vostok 65,BK Irkut,98,55,İY 52-40
+505,2021-02-03,15:30,Novosibirsk,Runa,70,83,İY 46-40
+506,2021-02-03,16:00,Temp,MBA Moskva,114,107,İY 54-48
+507,2021-02-03,17:00,Univ Yugra,Burevestnik,74,77,İY 35-25
+508,2021-02-03,17:00,Uralmash,Kupol Rodniki,78,83,İY 47-41
+509,2021-02-03,19:00,Kumanovo,Beroe,93,80,İY 52-41
+510,2021-02-03,17:30,Prinemanie,GOTsOR,100,78,İY 50-39
+511,2021-02-03,18:00,Rubon,BK RGUOR Minsk,110,68,İY 60-29
+512,2021-02-03,18:30,Impuls,Tsmoki II,71,80,İY 37-33
+513,2021-02-03,13:00,Goyang Orions,LG Sakers,118,97,İY 53-50
+514,2021-02-03,20:30,Zabok,Dubrava,67,82,İY 34-42
+515,2021-02-03,21:00,Tormes,Obila,83,80,İY 29-32
+516,2021-02-03,20:00,Stella Azzurra,Ferrara,86,70,İY 39-30
+517,2021-02-03,22:00,P. Biella,Bergamo,70,75,İY 40-46
+518,2021-02-03,22:30,Orzinuovi,Derthona,63,78,İY 25-45
+519,2021-02-03,19:00,BC Bars RSUE,BC MitsuBasket Lipetsk,101,69,İY 50-41
+520,2021-02-03,10:00,Parma-KOR Permskiy Kray,Dynamo II (K),98,69,İY 56-43
+521,2021-02-02,03:30,Atlanta,LA Lakers,99,107,İY 46-50
+522,2021-02-02,03:30,Miami,Charlotte,121,129,İY 57-54
+523,2021-02-02,04:00,Cleveland,Minnesota,100,98,İY 52-44
+524,2021-02-02,04:00,Chicago,New York,110,102,İY 59-55
+525,2021-02-02,04:00,Milwaukee,Portland,134,106,İY 79-56
+526,2021-02-02,04:00,New Orleans,Sacramento,109,118,İY 62-60
+527,2021-02-02,04:00,Oklahoma,Houston,106,136,İY 54-73
+528,2021-02-02,04:30,Dallas,Phoenix,108,109,İY 53-47
+529,2021-02-02,04:30,San Antonio,Memphis,102,133,İY 53-69
+530,2021-02-02,21:00,AS Monaco,Club Joventut de Badalona,97,82,İY 46-45
+531,2021-02-02,22:00,Trento,Levallois,67,57,İY 33-28
+532,2021-02-02,22:30,Belfius Mons Hainaut,BC Egis Körmend,,,
+533,2021-02-02,22:30,Real Madrid,UCAM Murcia,98,87,İY 47-51
+534,2021-02-02,21:00,Ratiopharm Ulm,S. Frankfurt,80,76,İY 39-42
+535,2021-02-02,22:30,BG Göttingen,ALBA Berlin,75,86,İY 35-41
+536,2021-02-02,20:00,BK Zenit Saint Petersburg,Nizhny,78,73,İY 39-42
+537,2021-02-02,01:00,Sycamores,Braves,67,55,İY 30-24
+538,2021-02-02,01:00,Bruins,Ducks,,,
+539,2021-02-02,02:00,Stetson,Cougars,110,56,İY 59-18
+540,2021-02-02,03:00,Gold. Panthers,Florida Memorial,90,74,İY 45-32
+541,2021-02-02,03:00,Aces,Valparaiso,58,51,İY 24-33
+542,2021-02-02,03:00,Redhawks,Racers,60,77,İY 24-36
+543,2021-02-02,03:00,Bulldogs,Redbirds,95,60,İY 39-24
+544,2021-02-02,03:00,Broncos,NIU,,,
+545,2021-02-02,03:00,Hurricanes,Duke Blue,77,75,İY 33-35
+546,2021-02-02,03:00,Terriers,Buccaneers,67,62,İY 30-31
+547,2021-02-02,04:00,Memphis Tigers,knights,96,69,İY 52-29
+548,2021-02-02,04:00,Bears,Ramblers,50,70,İY 26-42
+549,2021-02-02,04:30,Tigers,Bulldogs,66,49,İY 24-20
+550,2021-02-02,04:30,Panthers,Hornets,87,63,İY 37-30
+551,2021-02-02,04:30,Tigers,Golden Lions,63,55,İY 24-19
+552,2021-02-02,04:30,Tigers,Delta Devils,85,72,İY 41-29
+553,2021-02-02,05:00,Bison,Eagles,,,
+554,2021-02-02,05:00,Red Raiders,Sooners,57,52,İY 25-18
+555,2021-02-02,05:00,Eagles,Bulldogs,91,77,İY 49-38
+556,2021-02-02,22:00,Highlanders,Retrievers,71,75,İY 25-34
+557,2021-02-02,19:35,KK Anwil,Polski Torun,77,75,İY 37-43
+558,2021-02-02,19:00,BC Nevėžis Kėdainiai,BC Žalgiris Kaunas,47,78,İY 32-45
+559,2021-02-02,21:00,Caceres,Melilla,82,80,İY 42-43
+560,2021-02-02,20:30,CB Granada,Lleida,80,83,İY 41-32
+561,2021-02-02,21:00,Fundacion,Girona,74,62,İY 44-39
+562,2021-02-02,21:00,Bristol Flyers,Eagles,73,74,İY 41-35
+563,2021-02-02,21:00,Saint Chamond,S'weyersheim,60,71,İY 25-42
+564,2021-02-02,14:35,ZJ Gold Bulls,Tianjin,113,99,İY 62-42
+565,2021-02-02,15:00,SH Leopards,Tongxi King,106,93,İY 54-43
+566,2021-02-02,02:10,São Paulo Futebol Clube,U. Concepcion,94,47,İY 51-26
+567,2021-02-02,23:10,Almagro,Franca,73,68,İY 44-30
+568,2021-02-02,04:00,La Union,Hispano,100,90,İY 53-44
+569,2021-02-02,21:00,KK TFT,Ibar,91,75,İY 59-32
+570,2021-02-02,13:00,Seoul Knights,Incheon ET,75,73,İY 32-32
+571,2021-02-02,19:00,Osijek,Zadar,75,81,İY 39-47
+572,2021-02-02,23:30,CB Queluz (K),Quinta (K),39,58,İY 18-25
+573,2021-02-02,19:00,Rusichi,Altay,64,105,İY 24-52
+574,2021-02-02,14:00,Shakhty (K),Kursk II (K),68,83,İY 31-31
+575,2021-02-02,19:00,Rostov Don (K),Sparta&K II(K),89,62,İY 51-25
+576,2021-02-02,10:00,Parma-KOR Permskiy Kray,Dynamo II (K),88,63,İY 47-26
+577,2021-02-01,19:00,OGM Orman Spor Kulübü,Beşiktaş,68,92,İY 39-44
+578,2021-02-01,15:00,Merkezefendi,Mamak Belediyesi,77,63,İY 42-33
+579,2021-02-01,03:00,Indiana,Philadelphia,110,119,İY 63-54
+580,2021-02-01,03:00,Toronto,Orlando,115,102,İY 58-44
+581,2021-02-01,03:00,Washington,Brooklyn,149,146,İY 65-71
+582,2021-02-01,04:00,Minnesota,Cleveland,109,104,İY 55-61
+583,2021-02-01,22:30,Enel Brindisi,Reggio Emilia,79,70,İY 35-32
+584,2021-02-01,20:00,SIG Basket Strasbourg,Cholet Basket,75,72,İY 41-36
+585,2021-02-01,17:00,Parma Basket,BC Khimki,69,72,İY 32-41
+586,2021-02-01,20:00,BC Kalev Cramo,BC Enisey Krasnoyarsk,75,86,İY 38-45
+587,2021-02-01,21:00,Zielona Gora,PBK CSKA Moskva,93,90,İY 48-57
+588,2021-02-01,00:00,Leopards,Eagles,,,
+589,2021-02-01,00:00,Lumberjacks,Bearkats,78,68,İY 39-36
+590,2021-02-01,00:00,Knights,Bulldogs,95,84,İY 41-38
+591,2021-02-01,00:00,Mean Green,Rice Owls,79,53,İY 34-23
+592,2021-02-01,00:00,Aggies,Rattlers,67,65,İY 23-42
+593,2021-02-01,00:00,Sycamores,Braves,60,57,İY 34-29
+594,2021-02-01,00:00,Aces,Valparaiso,70,52,İY 37-27
+595,2021-02-01,00:00,Red Flash,Blue Devils,77,85,İY 33-34
+596,2021-02-01,01:00,Crusaders,Raiders,63,74,İY 32-36
+597,2021-02-01,02:00,Syracuse,Wolfpack,76,73,İY 38-47
+598,2021-02-01,02:00,Salukis,Panthers,71,68,İY 37-24
+599,2021-02-01,03:00,Rebels,Volunteers,,,
+600,2021-02-01,03:00,UC Riverside,Tritons,71,59,İY 45-32
+601,2021-02-01,03:00,Hawks,Eagles,,,
+602,2021-02-01,03:30,Northwestern,Rutgers,56,64,İY 29-34
+603,2021-02-01,04:00,Huskies,Cougars,62,77,İY 29-38
+604,2021-02-01,05:30,Wolf Pack,Rebels,89,60,İY 46-30
+605,2021-02-01,20:00,Catamounts,Bulldogs,76,75,İY 30-35
+606,2021-02-01,22:00,Louisville,Georgia Tech,74,58,İY 33-27
+607,2021-02-01,22:05,W. Eagles,S. Hornets,94,79,İY 43-46
+608,2021-02-01,23:00,Cougars,Governors,59,74,İY 27-35
+609,2021-02-01,22:00,H. Jerusalem,H. Be'er Sheva,94,66,İY 48-37
+610,2021-02-01,20:00,KK Crvena Zvezda,Mega,92,85,İY 49-46
+611,2021-02-01,23:00,Igokea,Split,87,68,İY 48-31
+612,2021-02-01,19:35,Wilki Morskie,Stal Ostrow,77,67,İY 47-34
+613,2021-02-01,07:30,Shanxi Dragons,Xinjiang Tiger,101,112,İY 50-51
+614,2021-02-01,10:30,Fujian Xunxing,QD Eagles,106,111,İY 60-66
+615,2021-02-01,14:35,Zhejiang Lions,SD Tigers,125,121,İY 65-62
+616,2021-02-01,15:00,GZ Long-Lions,SJ Whale,91,104,İY 49-48
+617,2021-02-01,02:10,Quimsa,U. Concepcion,81,75,İY 44-36
+618,2021-02-01,23:10,Obras,Franca,88,93,İY 42-42
+619,2021-02-01,00:00,Unifacisa,Minas,76,88,İY 36-49
+620,2021-02-01,13:00,Dongu Promy,KT Sonicboom,99,88,İY 56-37
+621,2021-02-01,21:34,Norrköping,Lulea,103,83,İY 46-46
+622,2021-02-01,21:15,Keflavik,İR,86,79,İY 49-39
+623,2021-02-01,23:15,Grindavik,Stjarnan,93,89,İY 47-50
+624,2021-02-01,15:00,UMMC Yeka. (K),Chevakata (K),58,77,İY 28-37
+625,2021-02-01,15:00,Neftyanik (K),Energiya (K),88,51,İY 39-21
+626,2021-02-01,18:00,S. SKFU (K),Kazanochka (K),49,78,İY 20-41
+627,2021-02-01,18:30,Moskova II (K),Samara (K),82,63,İY 30-35
+628,2021-02-01,12:00,DYSUSSH,SumDU,88,97,İY 41-52
+629,2021-01-31,13:00,Fenerbahçe,Gaziantep BB,97,102,İY 37-52
+630,2021-01-31,15:15,Pınar Karşıyaka Spor Kulübü,TOFAŞ Spor Kulübü,90,71,İY 53-31
+631,2021-01-31,17:30,Büyükçekmece,Türk Telekom Basketbol Kulübü,75,86,İY 42-41
+632,2021-01-31,20:00,Bahçeşehir Koleji Spor Kulübü,Anadolu Efes Spor Kulübü,76,100,İY 41-52
+633,2021-01-31,14:00,Manisa Bşb,Final Spor,97,64,İY 35-26
+634,2021-01-31,15:45,Selçuklu Bld,Ist. Basket,73,60,İY 38-25
+635,2021-01-31,17:30,Semt77 Yalova,Gemlik Basketbol Kulübü,72,69,İY 41-40
+636,2021-01-31,04:00,Chicago,Portland,122,123,İY 53-64
+637,2021-01-31,04:00,Charlotte,Milwaukee,126,114,İY 68-64
+638,2021-01-31,04:00,New Orleans,Houston,112,126,İY 57-75
+639,2021-01-31,04:00,Miami,Sacramento,105,104,İY 57-59
+640,2021-01-31,04:30,Boston,LA Lakers,95,96,İY 49-52
+641,2021-01-31,04:30,San Antonio,Memphis,112,129,İY 56-64
+642,2021-01-31,05:00,Dallas,Phoenix,105,111,İY 55-55
+643,2021-01-31,06:00,Golden State,Detroit,118,91,İY 64-45
+644,2021-01-31,21:00,New York,LA Clippers,115,129,İY 65-66
+645,2021-01-31,23:30,Denver,Utah,128,117,İY 79-54
+646,2021-01-31,14:30,FC Barcelona Lassa Bàsquet,UCAM Murcia,92,63,İY 37-36
+647,2021-01-31,14:30,Manresa,Burgos,87,101,İY 30-48
+648,2021-01-31,19:00,CD Saski Baskonia,Zaragoza,89,61,İY 39-31
+649,2021-01-31,20:30,Unicaja Baloncesto Málaga,Valencia,85,89,İY 34-34
+650,2021-01-31,22:00,Real Madrid,CB Herbalife Gran Canaria Claret,81,80,İY 41-35
+651,2021-01-31,18:00,Cantu,Varese,97,82,İY 48-42
+652,2021-01-31,19:00,Olimpia Milano,Trieste,81,100,İY 42-47
+653,2021-01-31,19:30,Trento,F. Bologna,64,78,İY 36-38
+654,2021-01-31,20:00,Brescia,Uni Treviso,91,94,İY 33-61
+655,2021-01-31,22:45,Pesaro,Venezia,65,78,İY 34-32
+656,2021-01-31,17:00,S. Frankfurt,Telekom Basket,84,79,İY 44-36
+657,2021-01-31,17:00,ALBA Berlin,Rasta Vechta,86,70,İY 43-44
+658,2021-01-31,20:00,FC Bayern München,Crailsheim,103,105,İY 46-44
+659,2021-01-31,12:00,BC Astana,BC Avtodor Saratov,83,92,İY 48-41
+660,2021-01-31,17:30,BK Zenit Saint Petersburg,L. Kuban,90,85,İY 48-42
+661,2021-01-31,07:00,Melbourne,SE Melbourne,96,90,İY 47-40
+662,2021-01-31,00:00,Terriers,Long Island University Sharks,88,102,İY 40-61
+663,2021-01-31,00:00,Shockers,knights,93,88,İY 34-38
+664,2021-01-31,00:00,Georgia Tech,Florida State,76,65,İY 33-26
+665,2021-01-31,00:00,Marshall Herd,Owls,,,
+666,2021-01-31,00:00,Charlotte 49ers,Gold. Panthers,68,65,İY 34-39
+667,2021-01-31,00:00,Flashes,Chippewas,83,76,İY 50-42
+668,2021-01-31,00:00,Terriers,Mercer Bears,72,69,İY 39-27
+669,2021-01-31,00:00,Baylor Bears,Tigers,84,72,İY 35-30
+670,2021-01-31,00:00,Eagles,C. Carolina,61,58,İY 29-18
+671,2021-01-31,00:00,Buccaneers,Bulldogs,112,84,İY 50-43
+672,2021-01-31,00:00,Presbyterian,Lancers,66,54,İY 25-19
+673,2021-01-31,00:00,Panthers,Bulldogs,79,57,İY 32-21
+674,2021-01-31,00:00,Cowboys,Razorbacks,81,77,İY 38-34
+675,2021-01-31,00:00,M. Bobcats,M. Grizzlies,,,
+676,2021-01-31,00:00,Kennesaw State,Bellarmine Knights,79,84,İY 36-43
+677,2021-01-31,00:00,Purple Eagles,Hawks,83,74,İY 43-37
+678,2021-01-31,00:00,Vandals,Weber State,62,81,
+679,2021-01-31,00:00,Dayton Flyers,Rhode Island,67,56,İY 29-32
+680,2021-01-31,00:00,Salukis,Panthers,62,74,İY 30-27
+681,2021-01-31,00:30,Spartans,Hornets,94,66,İY 48-23
+682,2021-01-31,00:30,Braves,Jaguars,59,76,İY 21-40
+683,2021-01-31,01:00,Bears,Demons,77,81,İY 42-40
+684,2021-01-31,01:00,Gardner-Webb,High Point,69,72,İY 31-26
+685,2021-01-31,01:00,Arizona,Golden Bears,71,50,İY 37-22
+686,2021-01-31,01:00,Lions,Privateers,79,73,İY 34-36
+687,2021-01-31,01:00,VCU Rams,Fordham Rams,,,
+688,2021-01-31,01:00,North Florida,Lions,82,72,İY 45-34
+689,2021-01-31,01:00,Pilots,Broncos,,,
+690,2021-01-31,01:00,Red Wolves,Mavericks,64,65,İY 31-25
+691,2021-01-31,01:00,Falcons,Rockets,66,84,İY 28-40
+692,2021-01-31,01:00,Governors,Tigers,71,56,İY 42-16
+693,2021-01-31,01:00,Norse,Flames,69,67,İY 39-35
+694,2021-01-31,01:00,Toreros,Lions,,,
+695,2021-01-31,01:00,Penguins,Titans,72,77,İY 34-38
+696,2021-01-31,01:00,Raiders,Colonials,86,56,İY 42-23
+697,2021-01-31,01:00,Skyhawks,Cougars,60,76,İY 24-35
+698,2021-01-31,01:00,Trojans,Mountaineers,65,59,İY 32-30
+699,2021-01-31,01:00,Bobcats,Ragin Cajuns,73,74,İY 35-38
+700,2021-01-31,01:00,Trojans,Warhawks,65,49,İY 29-26
+701,2021-01-31,01:30,Campbell,Buccaneers,75,67,İY 28-38
+702,2021-01-31,01:30,Bulldogs,Musketeers,55,68,İY 25-37
+703,2021-01-31,01:30,Cardinals,Cowboys,64,56,İY 41-27
+704,2021-01-31,02:00,Virginia Tech,Virginia Cavs,65,51,İY 21-29
+705,2021-01-31,02:00,Jacksonville,Liberty Flames,58,64,İY 19-28
+706,2021-01-31,02:00,Volunteers,Kansas,80,61,İY 40-26
+707,2021-01-31,02:00,Mississippi,Iowa State,95,56,İY 44-28
+708,2021-01-31,02:00,Redhawks,Panthers,75,44,İY 38-20
+709,2021-01-31,02:00,Bulldogs,Rebels,71,61,İY 37-34
+710,2021-01-31,02:00,Idaho State,NWU Eagles,89,48,İY 42-22
+711,2021-01-31,02:00,Spartans,Falcons,75,62,İY 39-28
+712,2021-01-31,02:00,Cougars,Pacific Tigers,95,87,İY 31-32
+713,2021-01-31,02:30,G. Panthers,Jaguars,,,
+714,2021-01-31,02:30,Tigers,Golden Lions,74,71,İY 42-33
+715,2021-01-31,02:30,Tigers,Delta Devils,106,56,İY 43-18
+716,2021-01-31,03:00,South Florida,Cincinnati,,,
+717,2021-01-31,03:00,Knights,Bulldogs,81,79,İY 43-45
+718,2021-01-31,03:00,Bulldogs,Lobos,65,55,İY 28-28
+719,2021-01-31,03:00,Bruins,Beavers,57,52,İY 27-25
+720,2021-01-31,03:00,UC Davis,Santa Barbara,86,89,İY 36-36
+721,2021-01-31,03:00,Duquesne Dukes,Saint Joseph's,67,50,İY 40-17
+722,2021-01-31,03:00,Vikings,Phoenix,73,65,İY 41-23
+723,2021-01-31,03:00,Cal Poly,CSU Northridge,51,64,İY 27-27
+724,2021-01-31,03:00,Spartans,V. Keydets,76,59,İY 38-31
+725,2021-01-31,03:00,Long Beach,Tritons,,,
+726,2021-01-31,03:00,Pacific Tigers,Gaels,,,
+727,2021-01-31,03:00,Mastadons,Grizzlies,75,82,İY 32-39
+728,2021-01-31,03:00,Redhawks,Cougars,,,
+729,2021-01-31,03:00,JM Dukes,Cougars,,,
+730,2021-01-31,03:00,Florida Eagles,Stetson,66,77,İY 26-40
+731,2021-01-31,03:30,Purdue,Golden Gophers,81,62,İY 30-35
+732,2021-01-31,03:30,Red Flash,Blue Devils,62,59,İY 27-24
+733,2021-01-31,04:00,Pittsburgh,Fighting Irish,58,84,İY 29-41
+734,2021-01-31,04:00,Sun Devils,Cardinal,79,75,İY 42-36
+735,2021-01-31,04:00,Blue Demons,Bluejays,62,69,İY 29-29
+736,2021-01-31,04:00,Wildcats,Longhorns,,,
+737,2021-01-31,04:00,Waves,Bulldogs,75,97,İY 34-49
+738,2021-01-31,04:00,Coyotes,Mavericks,97,93,İY 40-45
+739,2021-01-31,04:00,Wolverines,Tarleton State Texans,62,70,İY 24-31
+740,2021-01-31,04:00,Kangaroos,Bison,49,47,İY 28-27
+741,2021-01-31,04:00,Peacocks,Jaspers,68,54,İY 30-22
+742,2021-01-31,04:30,Tigers,Hornets,80,73,İY 37-24
+743,2021-01-31,04:30,Hawks,Leathernecks,87,99,İY 42-46
+744,2021-01-31,04:30,Commodores,Gamecocks,93,81,İY 52-37
+745,2021-01-31,04:30,Racers,Belmont Bruins,71,72,İY 37-32
+746,2021-01-31,05:00,Miners,Roadrunners,69,51,İY 32-29
+747,2021-01-31,05:00,Pioneers,Jackrabbits,,,
+748,2021-01-31,05:00,Antelopes,Aggies,65,53,İY 36-28
+749,2021-01-31,05:00,Lancers,Trailblazers,75,79,İY 35-37
+750,2021-01-31,06:00,Roadrunners,CSU Fullerton,83,73,İY 37-30
+751,2021-01-31,06:00,Aztecs,Cowboys,98,71,İY 51-28
+752,2021-01-31,07:59,Warriors,UC Irvine,62,61,İY 26-26
+753,2021-01-31,20:00,Greyhounds,Midshipmen,,,
+754,2021-01-31,20:00,Temple Owls,Tulane,64,81,İY 27-35
+755,2021-01-31,21:00,H. Cougars,Mustangs,70,48,İY 28-24
+756,2021-01-31,21:00,Ohio State,M. Spartans,79,62,İY 42-30
+757,2021-01-31,21:00,Towson,WM Tribe,74,75,İY 39-32
+758,2021-01-31,21:00,Seahawks,Hofstra Pride,83,89,İY 41-49
+759,2021-01-31,21:00,Retrievers,Black Bears,,,
+760,2021-01-31,22:00,Highlanders,Retrievers,69,65,İY 30-39
+761,2021-01-31,22:00,N. Colorado,N. Arizona,,,
+762,2021-01-31,22:00,Binghamton,New Hampshire,65,71,İY 26-24
+763,2021-01-31,22:00,Delaware,Pheonix,75,70,İY 34-25
+764,2021-01-31,22:00,Bison,Mountain Hawks,92,68,İY 46-35
+765,2021-01-31,22:00,Mountaineers,Pioneers,76,64,İY 45-29
+766,2021-01-31,22:00,JM Dukes,Drexel Dragons,73,64,İY 39-32
+767,2021-01-31,22:00,Stony Brook,Hartford Hawks,63,49,İY 30-26
+768,2021-01-31,22:05,W. Eagles,S. Hornets,68,60,İY 37-22
+769,2021-01-31,23:00,Red Foxes,Saints,50,63,İY 27-30
+770,2021-01-31,23:00,Blazers,Blue Raiders,63,52,İY 27-32
+771,2021-01-31,23:00,Bulldogs,Redbirds,78,76,İY 38-32
+772,2021-01-31,23:00,Bears,Ramblers,46,72,İY 16-41
+773,2021-01-31,23:30,Golden Eagles,SJ Red Storm,73,75,İY 31-46
+774,2021-01-31,23:30,SJ Red Storm,Connecticut,,,
+775,2021-01-31,20:00,Hapoel Eilat,Hapoel Haifa,89,80,İY 50-35
+776,2021-01-31,22:00,H. Tel Aviv,M. Tel Aviv,69,85,İY 28-51
+777,2021-01-31,18:00,Panathinaikos BC Superfoods,Promitheas,78,80,İY 36-43
+778,2021-01-31,21:00,Cibona,Krka,78,69,İY 41-33
+779,2021-01-31,19:35,Start Lublin,Gliwice,70,75,İY 38-29
+780,2021-01-31,17:30,BC Siauliai,BC CBet Prienai,99,105,İY 42-56
+781,2021-01-31,18:00,BC Nevėžis Kėdainiai,Pieno Pasvalys,64,89,İY 36-36
+782,2021-01-31,18:20,BC Juventus Utena,BC Žalgiris Kaunas,90,87,İY 46-52
+783,2021-01-31,18:00,Riders,Scorchers,103,76,İY 51-33
+784,2021-01-31,20:00,Man Giants,Phoenix,70,88,İY 32-59
+785,2021-01-31,17:20,Blois 41,Quimper,83,68,İY 39-34
+786,2021-01-31,21:00,Denain Voltair,Fos Provence,73,77,İY 38-35
+787,2021-01-31,10:30,LF Leopards,SH Sharks,117,95,İY 57-44
+788,2021-01-31,14:35,Beijing Ducks,Jilin Tigers,102,105,İY 50-61
+789,2021-01-31,15:00,JS Dragons,GS Tigers,98,120,İY 48-55
+790,2021-01-31,07:05,Levanga,Kyoto Hannaryz,74,94,İY 40-49
+791,2021-01-31,07:35,Shimane SM,Brave Thunders,86,85,İY 44-43
+792,2021-01-31,08:05,Yokohama BC,H. Dragonflies,80,74,İY 30-36
+793,2021-01-31,08:05,Shinshu BW,Shiga L-Stars,76,79,İY 35-26
+794,2021-01-31,08:05,NeoPhoenix,Ryukyu,72,99,İY 30-51
+795,2021-01-31,08:05,Sun Rockers,Tochigi Brex,62,67,İY 24-35
+796,2021-01-31,09:05,Chiba Jets,Osaka Evessa,76,70,İY 35-34
+797,2021-01-31,09:05,Toyota Alvark,Toyama Grouses,90,86,İY 37-35
+798,2021-01-31,09:05,SeaHorses,Akita NH,75,84,İY 37-41
+799,2021-01-31,09:05,Dolphins,Niigata Abirex,78,73,İY 36-30
+800,2021-01-31,23:10,Almagro,Obras,86,81,İY 41-41
+801,2021-01-31,01:00,Pinheiros/SKY,Cruzes,77,81,İY 42-45
+802,2021-01-31,17:00,Flamengo,Brasilia,115,58,İY 63-36
+803,2021-01-31,21:00,Cerrado,Pato Basquete,77,76,İY 38-36
+804,2021-01-31,19:00,Gorica,Puntamika,103,61,İY 45-31
+805,2021-01-31,19:00,Zabok,Split,92,88,İY 49-37
+806,2021-01-31,21:00,Alkar Sinj,Skrljevo,65,66,İY 32-36
+807,2021-01-31,20:30,KKK Radnicki,Mladost,91,110,İY 45-63
+808,2021-01-31,20:00,Pardubice,Kralovsti Soko,85,79,İY 45-31
+809,2021-01-31,17:00,Phoenix Brussels,Oostende,62,83,İY 33-48
+810,2021-01-31,15:30,T-Minsk (K),Viktoria,98,76,İY 54-33
+811,2021-01-31,09:00,Seoul Knights,Ulsan,93,74,İY 60-32
+812,2021-01-31,09:00,LG Sakers,Incheon ET,73,81,İY 31-42
+813,2021-01-31,11:00,Jeonju KCC,Anyang KGC,85,83,İY 42-40
+814,2021-01-31,20:45,UE Sant Cugat Negre,SESE,75,78,İY 40-36
+815,2021-01-31,19:00,Club Joventut de Badalona II,Azulejos Moncayo CB Zaragoza,72,52,İY 43-29
+816,2021-01-31,14:30,Valle de Egües,Logrobasket Club,63,77,İY 32-39
+817,2021-01-31,20:00,Ardoi,Santurtzi,43,80,İY 23-38
+818,2021-01-31,14:30,Alcobendas,Marbella,66,77,İY 32-38
+819,2021-01-31,22:00,CB Pozuelo (K),Real Canoe (K),42,57,İY 25-31
+820,2021-01-31,13:00,Club Joventut Badalona,Lima Horta (K),54,60,İY 30-40
+821,2021-01-31,20:00,Scafati,Stella Azzurra,85,65,İY 49-23
+822,2021-01-31,20:00,Ferrara,Forli,81,85,İY 42-35
+823,2021-01-31,20:00,Baltur,Chieti,65,50,İY 42-27
+824,2021-01-31,20:00,Pistoia,Rieti,68,81,İY 41-44
+825,2021-01-31,18:00,Novipiù JB Monferrato,Orlandina,97,79,İY 48-43
+826,2021-01-31,19:00,Bergamo,Treviglio,73,76,İY 29-43
+827,2021-01-31,20:00,Torino,P. Biella,85,90,İY 42-44
+828,2021-01-31,20:00,Verona,Urania,93,80,İY 44-39
+829,2021-01-31,20:00,Derthona,P. Trapani,71,72,İY 40-26
+830,2021-01-31,20:00,Assigeco,Orzinuovi,89,96,İY 32-47
+831,2021-01-31,07:30,Fukushima FB,Earthfriends,87,55,İY 44-33
+832,2021-01-31,08:00,Tokyo,S. Broncos,85,72,İY 41-32
+833,2021-01-31,15:00,UMK Torun,Sharks AWFiS Port Gdynia,101,86,İY 51-35
+834,2021-01-31,19:00,Dijo Maximus GOKiS Kąty Wrocławskie,Gorzów II (K),61,55,İY 34-35
+835,2021-01-31,19:00,Ovarense,Porto,56,66,İY 23-31
+836,2021-01-31,21:30,Vitoria,Sport Lisboa e Benfica,66,89,İY 41-48
+837,2021-01-31,10:00,Enisey II (K),Yunost (K),66,68,İY 30-26
+838,2021-01-31,10:00,Parma-KOR Permskiy Kray,CGU-Atlanta Cheboksary,74,87,İY 50-53
+839,2021-01-31,09:30,Formosa Dreamers,Fubon Braves,84,111,İY 42-59
+840,2021-01-31,15:00,Zaporizhya,Mavpi,77,75,İY 36-42
+841,2021-01-31,20:00,DYSUSSH,SumDU,59,89,İY 33-47

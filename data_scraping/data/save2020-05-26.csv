@@ -1,0 +1,281 @@
+,date,start_time,team1,team2,team1_score,team2_score,first_half_score
+0,2020-07-14,11:00,GS Tigers,GZ Long-Lions,121,99,İY 69-40
+1,2020-07-14,14:35,Bayi Rockets,Zhejiang Lions,105,113,İY 49-56
+2,2020-07-14,15:00,SJ Whale,SH Sharks,78,88,İY 37-37
+3,2020-07-14,08:30,Franklin Bulls,Auckland Huskies,82,86,İY 46-42
+4,2020-07-14,10:30,Taranaki,O. Nuggets,106,105,İY 61-49
+5,2020-07-13,17:00,H. Be'er Sheva,Maccabi Haifa,83,87,İY 42-42
+6,2020-07-13,17:00,Ashdod,H. Tel Aviv,106,105,İY 48-53
+7,2020-07-13,17:00,Hapoel Elyon,Ironi N. Ziona,90,82,İY 46-47
+8,2020-07-13,06:00,Beijing Ducks,Shanxi Dragons,111,91,İY 60-45
+9,2020-07-13,10:30,Tongxi King,SD Tigers,110,125,İY 49-71
+10,2020-07-13,11:00,Tianjin,LF Leopards,78,133,İY 38-73
+11,2020-07-13,14:35,Xinjiang Tiger,SH Leopards,122,86,İY 57-41
+12,2020-07-13,15:00,QD Eagles,JS Dragons,85,114,İY 41-43
+13,2020-07-12,19:25,H. Jerusalem,Hapoel Holon,102,67,İY 56-38
+14,2020-07-12,21:15,M. Tel Aviv,Rishon LeZion,77,86,İY 43-39
+15,2020-07-12,11:00,GS Tigers,Bayi Rockets,116,108,İY 57-52
+16,2020-07-12,14:35,BF Dragons,SH Sharks,104,97,İY 56-43
+17,2020-07-12,15:00,Jilin Tigers,ZJ Gold Bulls,88,95,İY 33-48
+18,2020-07-12,08:30,Manawatu,Auckland Huskies,105,100,İY 54-43
+19,2020-07-12,10:30,O. Nuggets,Nelson Giants,87,79,İY 41-38
+20,2020-07-11,21:00,H. Tel Aviv,Ironi Nahariya,77,73,İY 31-41
+21,2020-07-11,07:00,Tongxi King,Tianjin,116,107,İY 58-57
+22,2020-07-11,10:30,Fujian Xunxing,GZ Long-Lions,123,111,İY 66-42
+23,2020-07-11,11:00,Zhejiang Lions,SJ Whale,91,76,İY 38-37
+24,2020-07-11,14:35,SH Leopards,QD Eagles,74,81,İY 29-47
+25,2020-07-11,15:00,LF Leopards,SD Tigers,123,98,İY 54-32
+26,2020-07-11,08:00,Canterbury Rams,Franklin Bulls,,,
+27,2020-07-11,08:30,O. Nuggets,Manawatu,130,94,İY 57-56
+28,2020-07-11,10:30,Canterbury Rams,Taranaki,92,97,İY 54-44
+29,2020-07-10,14:00,Ironi N. Ziona,Ashdod,99,97,İY 58-47
+30,2020-07-10,14:00,Hapoel Eilat,H. Be'er Sheva,84,88,İY 43-33
+31,2020-07-10,16:00,Maccabi Haifa,Hapoel Elyon,80,81,İY 43-44
+32,2020-07-10,10:30,Xinjiang Tiger,Shanxi Dragons,104,71,İY 59-26
+33,2020-07-10,11:00,JS Dragons,Bayi Rockets,83,94,İY 46-38
+34,2020-07-10,14:35,SH Sharks,GS Tigers,89,122,İY 47-62
+35,2020-07-10,15:00,Beijing Ducks,Jilin Tigers,91,64,İY 46-29
+36,2020-07-10,08:00,Franklin Bulls,Manawatu,,,
+37,2020-07-09,19:20,Rishon LeZion,Hapoel Holon,98,81,İY 47-36
+38,2020-07-09,21:15,H. Jerusalem,M. Tel Aviv,82,93,İY 37-54
+39,2020-07-09,10:30,Fujian Xunxing,Tianjin,129,88,İY 66-52
+40,2020-07-09,11:00,ZJ Gold Bulls,SJ Whale,107,74,İY 48-32
+41,2020-07-09,14:35,BF Dragons,GZ Long-Lions,106,102,İY 60-56
+42,2020-07-09,15:00,SD Tigers,Zhejiang Lions,84,100,İY 42-42
+43,2020-07-09,08:30,Taranaki,Canterbury Rams,,,
+44,2020-07-09,08:30,Taranaki,Nelson Giants,95,88,İY 57-36
+45,2020-07-09,10:30,Auckland Huskies,Canterbury Rams,88,81,İY 48-36
+46,2020-07-08,10:30,Shanxi Dragons,Bayi Rockets,108,113,İY 49-55
+47,2020-07-08,11:00,GS Tigers,QD Eagles,114,111,İY 53-47
+48,2020-07-08,14:35,SH Leopards,Tongxi King,102,97,İY 50-62
+49,2020-07-08,15:00,LF Leopards,JS Dragons,114,91,İY 57-43
+50,2020-07-08,08:30,Manawatu,Nelson Giants,102,72,İY 48-33
+51,2020-07-08,10:30,Canterbury Rams,Franklin Bulls,77,102,İY 45-56
+52,2020-07-07,17:00,H. Tel Aviv,Hapoel Eilat,69,60,İY 26-31
+53,2020-07-07,17:10,Ashdod,Maccabi Haifa,92,99,İY 51-45
+54,2020-07-07,17:10,Ironi Nahariya,Ironi N. Ziona,89,91,İY 45-46
+55,2020-07-07,20:30,Hapoel Elyon,H. Be'er Sheva,83,65,İY 34-32
+56,2020-07-07,14:35,Xinjiang Tiger,Jilin Tigers,106,105,İY 55-47
+57,2020-07-07,08:30,O. Nuggets,Auckland Huskies,69,81,İY 38-44
+58,2020-07-07,10:30,Franklin Bulls,Taranaki,88,102,İY 29-56
+59,2020-07-06,21:00,Hapoel Holon,M. Tel Aviv,69,100,İY 36-44
+60,2020-07-05,19:25,H. Tel Aviv,Maccabi Haifa,79,82,İY 40-38
+61,2020-07-05,20:05,Ironi N. Ziona,Hapoel Eilat,88,80,İY 54-38
+62,2020-07-05,20:10,Ashdod,Hapoel Elyon,81,92,İY 34-52
+63,2020-07-05,21:15,Rishon LeZion,H. Jerusalem,73,88,İY 37-55
+64,2020-07-05,03:00,Nelson Giants,Canterbury Rams,,,
+65,2020-07-05,08:30,Auckland Huskies,Nelson Giants,83,91,İY 43-49
+66,2020-07-05,10:30,Manawatu,Taranaki,102,93,İY 49-51
+67,2020-07-04,20:30,Ironi Nahariya,H. Be'er Sheva,67,69,İY 38-38
+68,2020-07-04,07:00,SJ Whale,Fujian Xunxing,84,105,İY 39-55
+69,2020-07-04,10:30,Zhejiang Lions,ZJ Gold Bulls,98,109,İY 35-60
+70,2020-07-04,11:00,BF Dragons,Tianjin,97,83,İY 45-40
+71,2020-07-04,14:35,GZ Long-Lions,SH Sharks,101,105,İY 51-53
+72,2020-07-04,15:00,SD Tigers,SH Leopards,111,107,İY 42-48
+73,2020-07-04,08:30,Franklin Bulls,Manawatu,83,72,İY 41-37
+74,2020-07-04,10:30,Canterbury Rams,O. Nuggets,77,87,İY 42-56
+75,2020-07-03,10:30,Bayi Rockets,Beijing Ducks,75,95,İY 35-45
+76,2020-07-03,11:00,SD Tigers,Jilin Tigers,80,91,İY 41-42
+77,2020-07-03,14:35,Tongxi King,Xinjiang Tiger,85,99,İY 46-52
+78,2020-07-03,15:00,JS Dragons,GS Tigers,81,129,İY 41-72
+79,2020-07-02,18:00,H. Be'er Sheva,Ashdod,85,80,İY 42-44
+80,2020-07-02,18:15,Maccabi Haifa,Ironi Nahariya,66,82,İY 30-36
+81,2020-07-02,19:20,Hapoel Holon,H. Jerusalem,81,93,İY 38-50
+82,2020-07-02,21:15,Rishon LeZion,M. Tel Aviv,92,90,İY 57-45
+83,2020-07-02,06:00,ZJ Gold Bulls,Tongxi King,114,97,İY 56-56
+84,2020-07-02,10:30,QD Eagles,SH Sharks,83,126,İY 36-61
+85,2020-07-02,11:00,Shanxi Dragons,Tianjin,97,79,İY 54-36
+86,2020-07-02,14:35,LF Leopards,Zhejiang Lions,110,125,İY 55-64
+87,2020-07-02,15:00,BF Dragons,SJ Whale,78,73,İY 42-32
+88,2020-07-02,08:30,O. Nuggets,Franklin Bulls,79,85,İY 35-40
+89,2020-07-02,10:30,Canterbury Rams,Nelson Giants,89,97,İY 36-55
+90,2020-07-01,19:25,Hapoel Eilat,Hapoel Elyon,83,95,İY 43-51
+91,2020-07-01,19:30,Ironi N. Ziona,H. Tel Aviv,75,105,İY 38-61
+92,2020-07-01,06:00,QD Eagles,Zhejiang Lions,88,100,İY 37-50
+93,2020-07-01,07:00,SJ Whale,SH Leopards,76,92,İY 31-46
+94,2020-07-01,10:30,SH Sharks,Xinjiang Tiger,77,108,İY 29-50
+95,2020-07-01,11:00,JS Dragons,Fujian Xunxing,96,107,İY 38-59
+96,2020-07-01,14:35,Beijing Ducks,GZ Long-Lions,96,72,İY 52-32
+97,2020-07-01,15:00,GS Tigers,BF Dragons,136,91,İY 81-53
+98,2020-07-01,08:30,Taranaki,O. Nuggets,107,81,İY 39-46
+99,2020-07-01,10:30,Manawatu,Canterbury Rams,108,93,İY 47-43
+100,2020-06-30,21:00,FC Barcelona Lassa Bàsquet,CD Saski Baskonia,67,69,İY 39-33
+101,2020-06-30,06:00,Bayi Rockets,Xinjiang Tiger,83,76,İY 40-32
+102,2020-06-30,07:00,Fujian Xunxing,SH Leopards,106,99,İY 56-49
+103,2020-06-30,10:30,ZJ Gold Bulls,Beijing Ducks,90,92,İY 44-44
+104,2020-06-30,11:00,Jilin Tigers,JS Dragons,102,105,İY 49-49
+105,2020-06-30,14:35,Tongxi King,LF Leopards,107,120,İY 45-56
+106,2020-06-30,15:00,Shanxi Dragons,SD Tigers,103,102,İY 49-41
+107,2020-06-30,08:30,Taranaki,Auckland Huskies,93,109,İY 44-66
+108,2020-06-30,10:30,Nelson Giants,Franklin Bulls,69,75,İY 35-36
+109,2020-06-29,18:15,Hapoel Eilat,Ashdod,93,87,İY 51-39
+110,2020-06-29,18:20,Maccabi Haifa,Ironi N. Ziona,94,79,İY 42-53
+111,2020-06-29,18:25,H. Be'er Sheva,H. Tel Aviv,81,84,İY 45-32
+112,2020-06-29,18:30,Hapoel Elyon,Ironi Nahariya,87,82,İY 42-37
+113,2020-06-29,21:15,M. Tel Aviv,H. Jerusalem,86,80,İY 38-47
+114,2020-06-29,10:30,GZ Long-Lions,ZJ Gold Bulls,107,111,İY 42-54
+115,2020-06-29,11:00,SD Tigers,SJ Whale,95,77,İY 46-34
+116,2020-06-29,14:35,LF Leopards,QD Eagles,109,81,İY 60-41
+117,2020-06-29,15:00,Tianjin,GS Tigers,98,126,İY 43-65
+118,2020-06-28,18:00,FC Barcelona Lassa Bàsquet,Burgos,98,84,İY 43-41
+119,2020-06-28,21:00,Valencia,CD Saski Baskonia,73,75,İY 42-33
+120,2020-06-28,16:00,Riesen,ALBA Berlin,74,75,İY 35-42
+121,2020-06-28,21:00,Hapoel Holon,Rishon LeZion,74,93,İY 41-58
+122,2020-06-28,06:00,Zhejiang Lions,GZ Long-Lions,92,100,İY 42-55
+123,2020-06-28,07:00,JS Dragons,Tianjin,120,104,İY 65-44
+124,2020-06-28,10:30,Beijing Ducks,SH Sharks,86,76,İY 35-34
+125,2020-06-28,11:00,BF Dragons,Jilin Tigers,117,115,İY 50-46
+126,2020-06-28,14:35,Tongxi King,Bayi Rockets,97,95,İY 43-48
+127,2020-06-28,15:00,Fujian Xunxing,GS Tigers,126,143,İY 56-80
+128,2020-06-28,08:30,Franklin Bulls,Auckland Huskies,63,59,İY 24-25
+129,2020-06-28,10:30,Nelson Giants,Manawatu,88,83,İY 34-42
+130,2020-06-27,10:30,LF Leopards,ZJ Gold Bulls,90,101,İY 34-44
+131,2020-06-27,11:00,SJ Whale,SD Tigers,79,68,İY 38-39
+132,2020-06-27,14:35,Xinjiang Tiger,QD Eagles,102,82,İY 50-39
+133,2020-06-27,15:00,SH Leopards,Shanxi Dragons,90,88,İY 45-41
+134,2020-06-27,08:00,Nelson Giants,Franklin Bulls,,,
+135,2020-06-27,08:30,Auckland Huskies,Manawatu,67,95,İY 21-54
+136,2020-06-27,10:30,Canterbury Rams,Taranaki,112,101,İY 56-56
+137,2020-06-26,16:30,Burgos,BC MoraBanc Andorra,88,86,İY 40-53
+138,2020-06-26,19:30,CB Herbalife Gran Canaria Claret,Valencia,81,97,İY 44-51
+139,2020-06-26,22:30,Real Madrid,Zaragoza,97,88,İY 48-36
+140,2020-06-26,21:30,ALBA Berlin,Riesen,88,65,İY 46-29
+141,2020-06-26,13:50,Maccabi Haifa,Hapoel Eilat,82,90,İY 37-51
+142,2020-06-26,14:00,Ironi Nahariya,Ashdod,86,68,İY 42-41
+143,2020-06-26,15:50,H. Tel Aviv,Hapoel Elyon,81,82,İY 33-28
+144,2020-06-26,06:00,Bayi Rockets,ZJ Gold Bulls,79,96,İY 42-50
+145,2020-06-26,07:00,GS Tigers,Tianjin,132,79,İY 66-36
+146,2020-06-26,10:30,SH Sharks,GZ Long-Lions,85,75,İY 48-30
+147,2020-06-26,11:00,Shanxi Dragons,BF Dragons,98,106,İY 47-58
+148,2020-06-26,14:35,Zhejiang Lions,Beijing Ducks,100,87,İY 51-39
+149,2020-06-26,15:00,Jilin Tigers,Fujian Xunxing,111,120,İY 47-66
+150,2020-06-26,08:00,Taranaki,Manawatu,,,
+151,2020-06-25,16:30,Club Joventut de Badalona,CD Saski Baskonia,76,74,İY 39-30
+152,2020-06-25,19:30,Unicaja Baloncesto Málaga,CB RETAbet Bilbao Berri Basket,78,65,İY 42-39
+153,2020-06-25,22:35,FC Barcelona Lassa Bàsquet,Tenerife,86,87,İY 37-47
+154,2020-06-25,19:25,Ironi N. Ziona,H. Be'er Sheva,83,85,İY 43-53
+155,2020-06-25,21:15,M. Tel Aviv,Hapoel Holon,103,65,İY 47-40
+156,2020-06-25,07:00,JS Dragons,BF Dragons,95,104,İY 39-45
+157,2020-06-25,10:30,GZ Long-Lions,Tongxi King,103,105,İY 43-58
+158,2020-06-25,11:00,Fujian Xunxing,SD Tigers,93,84,İY 52-44
+159,2020-06-25,14:35,Xinjiang Tiger,QD Eagles,95,90,İY 49-53
+160,2020-06-25,15:00,SH Leopards,Jilin Tigers,102,94,İY 51-53
+161,2020-06-25,08:30,O. Nuggets,Nelson Giants,107,82,İY 56-45
+162,2020-06-25,10:30,Franklin Bulls,Canterbury Rams,72,75,İY 30-40
+163,2020-06-24,16:30,Zaragoza,CB Herbalife Gran Canaria Claret,85,76,İY 45-49
+164,2020-06-24,19:30,BC MoraBanc Andorra,Real Madrid,91,75,İY 42-30
+165,2020-06-24,22:35,Valencia,Burgos,94,90,İY 39-51
+166,2020-06-24,21:30,ALBA Berlin,Oldenburg,81,59,İY 41-34
+167,2020-06-24,21:15,H. Jerusalem,Rishon LeZion,93,86,İY 40-36
+168,2020-06-24,06:00,Bayi Rockets,QD Eagles,82,94,İY 42-49
+169,2020-06-24,10:30,SH Sharks,LF Leopards,87,104,İY 50-42
+170,2020-06-24,11:00,Tianjin,SH Leopards,83,97,İY 37-49
+171,2020-06-24,14:35,Xinjiang Tiger,Beijing Ducks,67,78,İY 36-34
+172,2020-06-24,15:00,SJ Whale,Shanxi Dragons,78,88,İY 32-49
+173,2020-06-24,08:30,Manawatu,O. Nuggets,100,104,İY 57-51
+174,2020-06-24,10:30,Franklin Bulls,Taranaki,95,107,İY 52-55
+175,2020-06-23,16:30,CD Saski Baskonia,Unicaja Baloncesto Málaga,87,86,İY 44-33
+176,2020-06-23,19:30,CB RETAbet Bilbao Berri Basket,FC Barcelona Lassa Bàsquet,73,85,İY 33-34
+177,2020-06-23,22:30,Tenerife,Club Joventut de Badalona,82,80,İY 29-35
+178,2020-06-23,21:30,Ratiopharm Ulm,Riesen,85,94,İY 46-42
+179,2020-06-23,06:00,LF Leopards,GZ Long-Lions,102,106,İY 46-46
+180,2020-06-23,07:00,Fujian Xunxing,Jilin Tigers,107,112,İY 57-49
+181,2020-06-23,10:30,Beijing Ducks,Tongxi King,90,93,İY 46-45
+182,2020-06-23,11:00,GS Tigers,JS Dragons,119,71,İY 64-29
+183,2020-06-23,14:35,ZJ Gold Bulls,Zhejiang Lions,93,118,İY 38-53
+184,2020-06-23,15:00,SD Tigers,BF Dragons,94,103,İY 51-55
+185,2020-06-23,08:30,Taranaki,Nelson Giants,112,96,İY 57-51
+186,2020-06-23,10:30,Canterbury Rams,Auckland Huskies,102,70,İY 46-32
+187,2020-06-22,16:30,CB Herbalife Gran Canaria Claret,Burgos,91,87,İY 40-34
+188,2020-06-22,19:30,Real Madrid,Valencia,95,90,İY 56-52
+189,2020-06-22,22:30,Zaragoza,BC MoraBanc Andorra,93,113,İY 45-50
+190,2020-06-22,21:30,Oldenburg,ALBA Berlin,63,92,İY 33-49
+191,2020-06-22,19:35,Hapoel Eilat,Ironi N. Ziona,103,89,İY 42-40
+192,2020-06-22,20:00,Ironi Nahariya,Hapoel Elyon,94,76,İY 49-39
+193,2020-06-22,06:00,Tongxi King,QD Eagles,95,103,İY 47-55
+194,2020-06-22,07:00,Shanxi Dragons,JS Dragons,106,102,İY 46-54
+195,2020-06-22,10:30,Zhejiang Lions,SH Sharks,95,90,İY 43-51
+196,2020-06-22,11:00,SH Leopards,GS Tigers,104,139,İY 52-75
+197,2020-06-22,14:35,Xinjiang Tiger,Bayi Rockets,102,82,İY 48-35
+198,2020-06-22,15:00,Tianjin,SJ Whale,72,101,İY 31-48
+199,2020-06-21,16:30,Tenerife,CB RETAbet Bilbao Berri Basket,70,78,İY 32-33
+200,2020-06-21,19:30,Club Joventut de Badalona,Unicaja Baloncesto Málaga,89,98,İY 36-39
+201,2020-06-21,22:30,FC Barcelona Lassa Bàsquet,CD Saski Baskonia,81,75,İY 42-39
+202,2020-06-21,16:00,Riesen,Ratiopharm Ulm,71,71,İY 36-34
+203,2020-06-21,19:00,M. Tel Aviv,Ashdod,114,82,İY 59-43
+204,2020-06-21,19:15,Maccabi Haifa,H. Tel Aviv,72,92,İY 35-46
+205,2020-06-21,19:15,H. Be'er Sheva,Hapoel Holon,85,73,İY 47-37
+206,2020-06-21,21:15,H. Jerusalem,Rishon LeZion,84,78,İY 40-38
+207,2020-06-21,07:00,Jilin Tigers,SJ Whale,97,85,İY 53-41
+208,2020-06-21,10:30,ZJ Gold Bulls,SH Sharks,115,97,İY 53-48
+209,2020-06-21,11:00,SD Tigers,Tianjin,84,83,İY 40-50
+210,2020-06-21,14:35,GZ Long-Lions,Bayi Rockets,104,88,İY 48-38
+211,2020-06-21,15:00,BF Dragons,Fujian Xunxing,108,121,İY 52-63
+212,2020-06-21,05:00,Manawatu,Taranaki,,,
+213,2020-06-20,16:30,Burgos,Real Madrid,87,83,İY 44-41
+214,2020-06-20,19:30,BC MoraBanc Andorra,CB Herbalife Gran Canaria Claret,88,104,İY 37-52
+215,2020-06-20,22:30,Valencia,Zaragoza,89,71,İY 35-45
+216,2020-06-20,17:30,Oldenburg,Brose Baskets,89,75,İY 51-46
+217,2020-06-20,21:30,ALBA Berlin,BG Göttingen,88,85,İY 52-31
+218,2020-06-20,06:00,Tongxi King,Zhejiang Lions,95,112,İY 49-58
+219,2020-06-20,07:30,JS Dragons,SH Leopards,105,98,İY 63-43
+220,2020-06-20,10:30,QD Eagles,Xinjiang Tiger,99,113,İY 60-58
+221,2020-06-20,11:30,GS Tigers,Shanxi Dragons,105,82,İY 54-37
+222,2020-06-20,14:35,Beijing Ducks,LF Leopards,91,82,İY 50-34
+223,2020-06-20,12:00,Taipower,Chunghua Telecom,67,71,İY 36-31
+224,2020-06-20,14:00,Taiyuan Textile,Cathay Life,62,82,İY 32-45
+225,2020-06-19,16:30,CB RETAbet Bilbao Berri Basket,Club Joventut de Badalona,79,86,İY 45-43
+226,2020-06-19,19:30,Unicaja Baloncesto Málaga,FC Barcelona Lassa Bàsquet,73,84,İY 41-38
+227,2020-06-19,22:30,CD Saski Baskonia,Tenerife,79,72,İY 44-33
+228,2020-06-19,17:30,Riesen,FC Bayern München,73,74,İY 36-45
+229,2020-06-19,21:30,Ratiopharm Ulm,S. Frankfurt,96,69,İY 47-48
+230,2020-06-19,08:00,Franklin Bulls,Nelson Giants,,,
+231,2020-06-19,12:00,Chunghua Telecom,Taipower,52,43,İY 31-22
+232,2020-06-19,14:00,Cathay Life,Taiyuan Textile,87,44,İY 49-21
+233,2020-06-18,16:30,BC MoraBanc Andorra,Valencia,74,90,İY 41-50
+234,2020-06-18,19:30,Real Madrid,CB Herbalife Gran Canaria Claret,91,73,İY 58-48
+235,2020-06-18,22:30,Zaragoza,Burgos,86,92,İY 39-47
+236,2020-06-18,17:30,BG Göttingen,ALBA Berlin,68,93,İY 29-52
+237,2020-06-18,21:30,Brose Baskets,Oldenburg,81,86,İY 33-45
+238,2020-06-18,08:30,Nelson Giants,Manawatu,,,
+239,2020-06-17,16:30,FC Barcelona Lassa Bàsquet,Club Joventut de Badalona,96,92,İY 44-30
+240,2020-06-17,19:30,Tenerife,Unicaja Baloncesto Málaga,70,83,İY 32-43
+241,2020-06-17,22:30,CB RETAbet Bilbao Berri Basket,CD Saski Baskonia,64,87,İY 37-44
+242,2020-06-17,17:30,S. Frankfurt,Ratiopharm Ulm,61,101,İY 30-57
+243,2020-06-17,21:30,FC Bayern München,Riesen,83,87,İY 42-36
+244,2020-06-16,21:30,Crailsheim,Rasta Vechta,66,95,İY 34-50
+245,2020-06-16,12:00,Chunghua Telecom,Taipower,47,74,İY 25-31
+246,2020-06-16,14:00,Cathay Life,Taiyuan Textile,104,60,İY 55-30
+247,2020-06-15,17:30,Brose Baskets,Rasta Vechta,100,82,İY 58-40
+248,2020-06-15,21:30,ALBA Berlin,Riesen,97,89,İY 46-45
+249,2020-06-14,16:00,Ratiopharm Ulm,BG Göttingen,89,66,İY 39-33
+250,2020-06-14,20:00,FC Bayern München,Oldenburg,81,89,İY 44-42
+251,2020-06-14,03:00,Nelson Giants,Canterbury Rams,,,
+252,2020-06-13,17:30,Brose Baskets,S. Frankfurt,99,83,İY 58-36
+253,2020-06-13,21:30,Rasta Vechta,ALBA Berlin,72,102,İY 31-58
+254,2020-06-13,12:00,Taipower,Cathay Life,36,98,İY 14-50
+255,2020-06-13,14:00,Taiyuan Textile,Chunghua Telecom,73,56,İY 31-21
+256,2020-06-12,17:30,BG Göttingen,FC Bayern München,55,90,İY 31-47
+257,2020-06-12,21:30,Crailsheim,Oldenburg,83,85,İY 38-44
+258,2020-06-12,12:00,Cathay Life,Chunghua Telecom,101,51,İY 44-25
+259,2020-06-12,14:00,Taipower,Taiyuan Textile,62,80,İY 36-33
+260,2020-06-11,17:30,S. Frankfurt,Rasta Vechta,63,59,İY 31-34
+261,2020-06-11,21:30,Riesen,Brose Baskets,103,74,İY 51-36
+262,2020-06-11,12:00,Cathay Life,Taiyuan Textile,93,58,İY 40-33
+263,2020-06-11,14:00,Chunghua Telecom,Taipower,68,62,İY 42-29
+264,2020-06-10,17:30,Oldenburg,BG Göttingen,80,62,İY 44-39
+265,2020-06-10,21:30,Ratiopharm Ulm,Crailsheim,92,80,İY 52-52
+266,2020-06-09,17:30,Riesen,S. Frankfurt,80,77,İY 37-35
+267,2020-06-09,21:30,ALBA Berlin,Brose Baskets,98,91,İY 55-56
+268,2020-06-08,17:30,Crailsheim,FC Bayern München,79,110,İY 35-51
+269,2020-06-08,21:30,Oldenburg,Ratiopharm Ulm,66,85,İY 35-42
+270,2020-06-07,16:00,S. Frankfurt,ALBA Berlin,72,81,İY 39-37
+271,2020-06-07,20:00,Rasta Vechta,Riesen,76,81,İY 32-46
+272,2020-06-07,03:00,Taranaki,Canterbury Rams,,,
+273,2020-06-06,17:30,BG Göttingen,Crailsheim,89,78,İY 51-42
+274,2020-06-06,21:30,FC Bayern München,Ratiopharm Ulm,85,95,İY 40-41
+275,2020-06-05,08:00,Manawatu,Canterbury Rams,,,
+276,2020-05-28,12:00,Taipower,Cathay Life,53,93,İY 30-53
+277,2020-05-28,14:00,Taiyuan Textile,Chunghua Telecom,58,87,İY 33-38
+278,2020-05-27,12:00,Cathay Life,Chunghua Telecom,94,69,İY 45-31
+279,2020-05-27,14:00,Taiyuan Textile,Taipower,59,64,İY 30-25

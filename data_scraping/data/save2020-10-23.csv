@@ -1,0 +1,3228 @@
+,date,start_time,team1,team2,team1_score,team2_score,first_half_score
+0,2020-12-11,20:00,BC Khimki,PBK CSKA Moskva,87,96,İY 43-52
+1,2020-12-11,22:00,Panathinaikos BC Superfoods,BC Žalgiris Kaunas,69,81,İY 33-43
+2,2020-12-11,22:30,FC Bayern München,Asvel,76,62,İY 42-25
+3,2020-12-11,23:00,FC Barcelona Lassa Bàsquet,Olimpia Milano,87,71,İY 39-43
+4,2020-12-11,21:00,KK Budućnost VOLI,Levallois,71,73,İY 38-41
+5,2020-12-11,20:30,BC MoraBanc Andorra,Zaragoza,83,98,İY 46-55
+6,2020-12-11,20:30,Rasta Vechta,Telekom Basket,69,80,İY 43-40
+7,2020-12-11,00:00,Bulls,Mercyhurst Lakers,81,64,İY 50-29
+8,2020-12-11,01:00,East Carolina,North Florida,73,67,İY 40-38
+9,2020-12-11,01:00,Jacksonville,Privateers,77,70,İY 37-33
+10,2020-12-11,02:00,Pirates,Royals,,,
+11,2020-12-11,02:00,Gamecocks,Terriers,,,
+12,2020-12-11,02:00,Eagles,Pioneers,81,55,İY 38-27
+13,2020-12-11,02:30,Coyotes,Hawks,71,75,İY 29-35
+14,2020-12-11,03:00,Eagles,Spartans,85,80,İY 35-35
+15,2020-12-11,03:00,EK Colonels,Boyce Bulldogs,,,
+16,2020-12-11,03:00,Lions,Trojans,57,62,İY 25-38
+17,2020-12-11,03:00,Stetson,Florida College Falcons,,,
+18,2020-12-11,03:30,Bearkats,Yellowjackets,107,65,İY 50-29
+19,2020-12-11,04:00,N. Arizona,UC Riverside,50,74,İY 16-43
+20,2020-12-11,04:00,Rebels,Tigers,80,45,İY 41-12
+21,2020-12-11,04:00,Hilltoppers,Gardner-Webb,86,84,İY 40-43
+22,2020-12-11,04:00,Beavers,Pilots,86,87,İY 29-36
+23,2020-12-11,04:00,Colonels,Campbellsville,,,
+24,2020-12-11,04:00,Golden Gophers,Kangaroos,90,61,İY 43-31
+25,2020-12-11,04:00,Islanders,Vaqueros,64,68,İY 34-35
+26,2020-12-11,05:00,Bulldogs,Jaguars,,,
+27,2020-12-11,05:00,Dons,Long Beach,107,62,İY 44-25
+28,2020-12-11,05:00,Jackrabbits,Bison,77,75,İY 33-26
+29,2020-12-11,05:00,Lancers,Braves,,,
+30,2020-12-11,06:00,Sun Devils,Aztecs,68,80,İY 33-35
+31,2020-12-11,21:30,Massachusetts,Northeastern,94,79,İY 47-36
+32,2020-12-11,23:00,West Virginia,Mean Green,62,50,İY 21-29
+33,2020-12-11,18:00,Nazilli,Başkent Yenişehir,76,59,İY 33-29
+34,2020-12-11,22:00,Split,Krka,78,80,İY 32-40
+35,2020-12-11,19:30,D. Gornicza,Wilki Morskie,89,93,İY 48-45
+36,2020-12-11,19:35,Stal Ostrow,KK Anwil,88,79,İY 38-37
+37,2020-12-11,21:30,Polski Torun,Gliwice,78,65,İY 31-37
+38,2020-12-11,23:00,Caceres,Leyma Coruna,71,78,İY 32-40
+39,2020-12-11,22:00,Wolves,Man Giants,84,76,İY 43-39
+40,2020-12-11,22:30,Lions,Raiders,101,95,İY 51-49
+41,2020-12-11,23:00,Riders,Sharks,74,64,İY 32-35
+42,2020-12-11,22:00,Vichy Clermont,Hermine,81,83,İY 54-37
+43,2020-12-11,22:00,Blois 41,Aix Maurienne,83,65,İY 47-34
+44,2020-12-11,22:00,Fos Provence,S'weyersheim,72,66,İY 48-31
+45,2020-12-11,22:00,Lille BC,Saint Chamond,92,83,İY 44-39
+46,2020-12-11,06:00,GZ Long-Lions,SD Tigers,94,111,İY 40-47
+47,2020-12-11,07:30,LF Leopards,BF Dragons,122,108,İY 55-52
+48,2020-12-11,10:30,QD Eagles,Tongxi King,116,95,İY 55-43
+49,2020-12-11,14:35,JS Dragons,Tianjin,110,106,İY 56-60
+50,2020-12-11,15:00,Jilin Tigers,Xinjiang Tiger,90,97,İY 44-45
+51,2020-12-11,01:00,I. Atletico Central Cordoba,Hispano,97,95,İY 43-35
+52,2020-12-11,01:00,Regatas,Bahia,86,82,İY 36-44
+53,2020-12-11,03:30,Quimsa,Platense,80,65,İY 41-28
+54,2020-12-11,03:30,Corrientes,Almagro,52,61,İY 21-36
+55,2020-12-11,17:00,Obras,Comunicaciones,49,82,İY 27-38
+56,2020-12-11,20:00,Penarol,Olimpico,66,80,İY 32-36
+57,2020-12-11,20:00,Almagro,Libertad,78,73,İY 38-36
+58,2020-12-11,22:30,Arjantin,La Union,92,86,İY 40-45
+59,2020-12-11,22:30,Platense,I. Atletico Central Cordoba,73,71,İY 35-24
+60,2020-12-11,02:00,Flamengo,Paulistano,104,76,İY 54-40
+61,2020-12-11,20:30,Cruzes,Unifacisa,98,91,İY 47-37
+62,2020-12-11,23:30,Pinheiros/SKY,Caxias,79,72,İY 37-34
+63,2020-12-11,19:00,Gorica,Zabok,90,68,İY 45-33
+64,2020-12-11,21:00,St. Pölten,Dukes,91,86,İY 41-41
+65,2020-12-11,20:00,RSK Tarvas,TTÜ,70,79,İY 37-43
+66,2020-12-11,18:00,Rubon,Grodno-93,79,98,İY 35-56
+67,2020-12-11,21:00,L. Trutnov (K),Slovanka (K),62,70,İY 39-32
+68,2020-12-11,19:30,Audentes,Rae Koss/Hansaviimistlus,70,89,İY 40-52
+69,2020-12-11,19:30,Tartu Kalev,Maaülikooli,92,73,İY 43-30
+70,2020-12-11,21:15,Paide Viking,BC Kadrina Karud,76,90,İY 36-48
+71,2020-12-11,13:00,Anyang KGC,Ulsan,89,84,İY 52-41
+72,2020-12-11,21:04,Nassjö,Jamtland,70,67,İY 36-38
+73,2020-12-11,21:04,Norrköping,Södertalje,57,89,İY 40-42
+74,2020-12-11,21:04,Umea BBK,Boras,76,98,İY 38-47
+75,2020-12-11,19:00,Kibirkstis (K),Aistes LSU (K),46,81,İY 19-44
+76,2020-12-11,23:30,GRIB Escondnovoengenho,Illiabum Clube B,72,91,İY 34-49
+77,2020-12-11,22:30,Ovarense,Imortal,59,84,İY 32-45
+78,2020-12-11,23:30,Barreirense,Galitos FC,72,85,İY 39-36
+79,2020-12-11,23:30,Vitoria,Maia,88,74,İY 36-38
+80,2020-12-11,23:30,Esgueira (K),Ovarense (K),83,33,İY 46-20
+81,2020-12-11,16:00,Dynamo Stavro,Dynamo MGTU,60,89,İY 32-43
+82,2020-12-11,17:00,BC Chelbasket,Magnitogorsk,70,80,İY 37-38
+83,2020-12-11,18:00,BC MitsuBasket Lipetsk,Tambov,63,71,İY 34-41
+84,2020-12-11,15:00,Shakhty (K),UMMC Yeka. (K),72,54,İY 35-29
+85,2020-12-11,18:30,Moskova II (K),Petersburg (K),74,78,İY 38-41
+86,2020-12-11,19:00,Rostov Don (K),Neftyanik (K),84,55,İY 48-35
+87,2020-12-11,19:30,S. SKFU (K),Black Bears(K),80,74,İY 41-37
+88,2020-12-11,21:30,Maribor (K),Ledita (K),65,81,İY 31-39
+89,2020-12-10,21:00,KK Crvena Zvezda,Olympiacos BC,79,81,İY 45-37
+90,2020-12-10,22:00,ALBA Berlin,Fenerbahçe,89,63,İY 44-27
+91,2020-12-10,23:00,CD Saski Baskonia,M. Tel Aviv,63,67,İY 33-37
+92,2020-12-10,23:00,Valencia,Anadolu Efes Spor Kulübü,76,74,İY 40-38
+93,2020-12-10,23:00,Real Madrid,BK Zenit Saint Petersburg,79,72,İY 36-31
+94,2020-12-10,16:30,Düzce Bld.,Ist. Basket,63,51,İY 41-30
+95,2020-12-10,18:00,Selçuklu Bld,Ankara Anadolu,87,84,İY 45-38
+96,2020-12-10,20:30,Cedevita,Promitheas,77,73,İY 32-41
+97,2020-12-10,21:00,Hamburg Towers,Giessen 46ers,100,79,İY 54-32
+98,2020-12-10,00:00,Terriers,Bulldogs,93,91,İY 38-48
+99,2020-12-10,00:00,Knights,Blue Devils,79,71,İY 39-32
+100,2020-12-10,00:30,Wisconsin,Rhode Island,73,62,İY 33-16
+101,2020-12-10,01:00,Frogs,Providence,70,79,İY 32-43
+102,2020-12-10,01:00,Clemson,Maryland,67,51,İY 38-15
+103,2020-12-10,01:00,Cincinnati,Paladins,78,73,İY 40-28
+104,2020-12-10,01:00,Cardinal,Lions,,,
+105,2020-12-10,01:30,Redhawks,Leathernecks,67,57,İY 28-21
+106,2020-12-10,02:00,M. Wolverines,Rockets,91,71,İY 44-26
+107,2020-12-10,02:00,Eagles,Pioneers,77,55,İY 36-24
+108,2020-12-10,02:00,Richmond,Panthers,78,68,İY 31-33
+109,2020-12-10,03:00,Spartans,WM Tribe,,,
+110,2020-12-10,03:00,EK Colonels,Boyce Bulldogs,,,
+111,2020-12-10,03:00,Bulldogs,Cougars,102,51,İY 54-19
+112,2020-12-10,03:00,Eagles,Bulldogs,95,35,İY 64-19
+113,2020-12-10,03:00,Red Wolves,Golden Lions,74,75,İY 31-41
+114,2020-12-10,03:00,Penguins,Point Park Pioneers,72,52,İY 26-25
+115,2020-12-10,03:00,Arizona,Roadrunners,85,60,İY 46-26
+116,2020-12-10,03:00,VCU Rams,Aggies,95,59,İY 47-26
+117,2020-12-10,03:00,Warhawks,Cardinals,60,63,İY 36-25
+118,2020-12-10,03:00,Aces,Panthers,68,65,İY 34-19
+119,2020-12-10,03:00,West Virginia,Colonials,,,
+120,2020-12-10,03:00,Bellarmine Knights,Mocs,68,77,İY 36-40
+121,2020-12-10,03:00,Red Raiders,Wildcats,51,44,İY 23-14
+122,2020-12-10,03:00,Cougars,Marshall Herd,72,84,İY 43-43
+123,2020-12-10,03:00,Valparaiso,Cougars,80,58,İY 33-22
+124,2020-12-10,03:00,Northeastern,River Hawks,,,
+125,2020-12-10,03:00,Seahawks,Knights,116,66,İY 62-32
+126,2020-12-10,03:00,Hofstra Pride,Stony Brook,72,67,İY 42-29
+127,2020-12-10,03:00,Jacksonville,Florida National University,78,69,İY 40-25
+128,2020-12-10,03:00,Volunteers,Skyhawks,,,
+129,2020-12-10,03:15,Nebraska,Georgia Tech,64,75,İY 30-32
+130,2020-12-10,03:15,Florida State,I. Hoosiers,69,67,İY 33-31
+131,2020-12-10,03:30,Bulldogs,Lions,78,69,İY 33-33
+132,2020-12-10,03:30,Bulldogs,Hornets,,,
+133,2020-12-10,04:00,Wolverines,Thunderbirds,71,81,İY 33-42
+134,2020-12-10,04:00,Lipscomb,Redhawks,80,74,İY 32-22
+135,2020-12-10,04:00,Baylor Bears,Lumberjacks,83,52,İY 38-22
+136,2020-12-10,04:00,Tulane,Southern Miss,58,38,İY 24-12
+137,2020-12-10,04:00,Musketeers,Sooners,99,77,İY 48-39
+138,2020-12-10,04:00,Longhorns,Bobcats,74,53,İY 33-20
+139,2020-12-10,04:00,Razorbacks,Jaguars,79,44,İY 42-20
+140,2020-12-10,04:00,H. Cougars,Bearkats,,,
+141,2020-12-10,04:00,Bulldogs,Bearcats,90,66,İY 45-36
+142,2020-12-10,04:15,Missouri,Liberty Flames,69,60,İY 28-32
+143,2020-12-10,04:30,N. Colorado,Cougars,87,62,İY 39-31
+144,2020-12-10,05:00,Cowboys,Pioneers,83,61,İY 45-25
+145,2020-12-10,05:00,Cougars,Vandals,61,58,İY 23-29
+146,2020-12-10,05:00,Bruins,Toreros,83,56,İY 33-23
+147,2020-12-10,05:00,Cal Poly,Broncos,69,76,İY 43-33
+148,2020-12-10,05:00,Waves,Golden Bears,74,62,İY 44-30
+149,2020-12-10,05:00,Cougars,Broncos,70,74,İY 21-30
+150,2020-12-10,05:15,Virginia Cavs,M. Spartans,,,
+151,2020-12-10,05:15,Northwestern,Pittsburgh,70,71,İY 33-22
+152,2020-12-10,05:30,Rebels,W. Eagles,,,
+153,2020-12-10,07:00,Huskies,Redhawks,73,41,İY 37-22
+154,2020-12-10,07:00,Ducks,Rattlers,87,66,İY 47-35
+155,2020-12-10,21:00,Campbell,Florida National University,122,92,İY 62-46
+156,2020-12-10,22:00,Leathernecks,Lions,80,55,İY 48-26
+157,2020-12-10,22:00,Bobcats,Northwest,92,72,İY 36-40
+158,2020-12-10,20:00,H. Tel Aviv,Rishon LeZion,85,91,İY 41-44
+159,2020-12-10,07:00,SH Sharks,ZJ Gold Bulls,123,124,İY 62-59
+160,2020-12-10,07:30,Beijing Ducks,SJ Whale,111,113,İY 54-60
+161,2020-12-10,14:35,Shanxi Dragons,Zhejiang Lions,123,111,İY 57-58
+162,2020-12-10,15:00,GS Tigers,SH Leopards,132,104,İY 64-46
+163,2020-12-10,03:30,Olimpico,Esgrima,92,87,İY 39-38
+164,2020-12-10,17:00,Obera,Arjantin,77,84,İY 26-46
+165,2020-12-10,20:00,La Union,Ferro,68,86,İY 30-48
+166,2020-12-10,20:00,Comunicaciones,Penarol,64,58,İY 27-29
+167,2020-12-10,22:30,Atenas,Boca Juniors,76,85,İY 48-40
+168,2020-12-10,22:30,Libertad,Obras,76,81,İY 31-35
+169,2020-12-10,02:00,Unifacisa,Corinthians,94,74,İY 47-42
+170,2020-12-10,23:00,Pato Basquete,Bauru,80,79,İY 40-38
+171,2020-12-10,13:00,Pauian Archiland Basketball Team,Luxgen Dinos,44,77,İY 17-31
+172,2020-12-10,15:00,Kinmen,Taiwan Beer,77,80,İY 30-41
+173,2020-12-10,18:00,Kupol Rodniki,Vostok 65,83,73,İY 40-34
+174,2020-12-10,13:00,SK Prometey,Kibirkstis (K),,,
+175,2020-12-10,15:30,Angels (K),Liepajas SSS,,,
+176,2020-12-10,13:00,Jeonju KCC,Goyang Orions,70,58,İY 30-22
+177,2020-12-10,21:00,Carbajosa,Marbella,59,69,İY 28-34
+178,2020-12-10,19:00,Cornella,Gran Can II,77,59,İY 39-39
+179,2020-12-10,19:00,Perlas MRU,BC Šilalės Lūšis,81,63,İY 35-29
+180,2020-12-10,19:00,Z. Kaunas II,BC Telsiai,81,70,İY 34-36
+181,2020-12-10,20:30,Pelister,Vardar,122,72,İY 63-31
+182,2020-12-10,19:00,BK Khimik,Prometei,86,83,İY 41-49
+183,2020-12-09,16:00,Mamak Belediyesi,Final Spor,77,74,İY 30-36
+184,2020-12-09,17:00,Gemlik Basketbol Kulübü,Samsunspor,75,92,İY 53-48
+185,2020-12-09,17:30,Sigortam.net,Balıkesir BŞB,76,80,İY 28-42
+186,2020-12-09,18:00,Semt77 Yalova,Kocaeli,58,70,İY 33-28
+187,2020-12-09,19:00,Akhisar Belediye,Manisa Bşb,85,84,İY 51-39
+188,2020-12-09,14:00,Çankaya Üniversitesi Spor Kulübü,Fenerbahçe Spor Kulübü,71,86,İY 42-37
+189,2020-12-09,16:00,Çukurova (K),Galatasaray Spor Kulübü,95,97,İY 56-44
+190,2020-12-09,20:00,Szombathely,Nizhny,88,93,İY 48-49
+191,2020-12-09,20:00,Türk Telekom Basketbol Kulübü,Limoges Cercle Saint-Pierre,76,73,İY 42-33
+192,2020-12-09,20:30,Burgos,Darüşşafaka Spor Kulübü,100,70,İY 48-37
+193,2020-12-09,22:00,Oostende,Enel Brindisi,80,92,İY 36-58
+194,2020-12-09,19:00,BC UNICS Kazan,Bourg Basket,76,71,İY 43-36
+195,2020-12-09,22:30,Partizan,Bahçeşehir Koleji Spor Kulübü,88,75,İY 42-37
+196,2020-12-09,21:00,KK Mornar,Levallois,89,78,İY 49-44
+197,2020-12-09,22:45,Brescia,Unicaja Baloncesto Málaga,79,83,İY 46-48
+198,2020-12-09,21:00,AS Monaco,Virtus Bologna,68,74,İY 40-22
+199,2020-12-09,22:00,BC MoraBanc Andorra,L. Kuban,100,106,İY 54-56
+200,2020-12-09,22:00,Antwerp,Lietkabelis,86,77,İY 43-37
+201,2020-12-09,23:00,CB Herbalife Gran Canaria Claret,FruttiEx Bursa,89,76,İY 47-41
+202,2020-12-09,20:30,UCAM Murcia,Gipuzkoa,90,73,İY 54-35
+203,2020-12-09,21:30,Vanoli,Cantu,101,67,İY 51-36
+204,2020-12-09,21:00,Rasta Vechta,Medi Bayreuth,89,92,İY 41-42
+205,2020-12-09,22:30,Crailsheim,Chemnitz 99,88,76,İY 39-32
+206,2020-12-09,20:00,BC Kalev Cramo,BC Tsmoki-Minsk,88,82,İY 43-42
+207,2020-12-09,00:00,Retrievers,Delaware,76,61,İY 38-31
+208,2020-12-09,00:00,La Salle,Lions,80,62,İY 43-24
+209,2020-12-09,00:30,Lancers,UC Davis,,,
+210,2020-12-09,01:00,Seton Hall,Seahawks,78,45,İY 37-21
+211,2020-12-09,01:00,Kansas,Bluejays,73,72,İY 39-35
+212,2020-12-09,01:00,Hurricanes,Purdue,58,54,İY 14-32
+213,2020-12-09,01:00,V. Keydets,Pride,100,65,İY 55-28
+214,2020-12-09,01:00,Sycamores,Bulldogs,80,66,İY 33-36
+215,2020-12-09,01:00,South Florida,Stetson,73,62,İY 40-26
+216,2020-12-09,02:00,Utes,Idaho State,75,59,İY 41-20
+217,2020-12-09,02:00,Bison,Pheonix,,,
+218,2020-12-09,02:00,Lancers,Aggies,77,60,İY 41-24
+219,2020-12-09,02:00,Volunteers,Buffaloes,56,47,İY 31-24
+220,2020-12-09,03:00,Georgetown,Eagles,80,48,İY 38-23
+221,2020-12-09,03:00,Gold Hurricane,Razorbacks,,,
+222,2020-12-09,03:00,Dayton Flyers,Norse,66,60,İY 36-32
+223,2020-12-09,03:00,Golden Gophers,Boston College,85,80,İY 30-31
+224,2020-12-09,03:00,UNC Asheville,Buccaneers,,,
+225,2020-12-09,03:00,SJ Red Storm,Fordham Rams,,,
+226,2020-12-09,03:00,Terriers,Bulldogs,82,101,İY 38-58
+227,2020-12-09,03:00,Jaguars,Crusaders,80,67,İY 42-29
+228,2020-12-09,03:00,NIU,Cardinals,70,79,İY 34-28
+229,2020-12-09,03:00,Highlanders,Pioneers,,,
+230,2020-12-09,03:00,Titans,Flashes,66,80,İY 28-38
+231,2020-12-09,03:00,Broncos,Cal Poly,,,
+232,2020-12-09,03:00,SJ Red Storm,Broncs,82,79,İY 33-35
+233,2020-12-09,03:00,Jacksonville,Campbell,78,80,İY 32-49
+234,2020-12-09,03:00,George Mason,Bears,,,
+235,2020-12-09,03:00,Buccaneers,Cougars,94,59,İY 45-28
+236,2020-12-09,03:00,Bulldogs,M. Grizzlies,63,50,İY 32-24
+237,2020-12-09,03:00,Mountaineers,Red Flash,75,57,İY 36-26
+238,2020-12-09,03:00,Knights,Blue Devils,87,94,İY 42-46
+239,2020-12-09,03:00,Ragin Cajuns,Generals,90,75,İY 51-35
+240,2020-12-09,03:30,Iowa Hawkeyes,North Carolina,93,80,İY 43-31
+241,2020-12-09,03:30,Fighting Irish,Ohio State,85,90,İY 42-34
+242,2020-12-09,03:30,Belmont Bruins,Tigers,79,64,İY 33-26
+243,2020-12-09,04:00,Saint Louis,Bears,88,65,İY 39-27
+244,2020-12-09,04:00,Cowboys,Golden Eagles,83,78,İY 32-31
+245,2020-12-09,04:00,Kansas State,Tigers,68,81,İY 29-35
+246,2020-12-09,04:00,Buffaloes,Rams,,,
+247,2020-12-09,04:00,Memphis Tigers,Delta Devils,94,57,İY 55-29
+248,2020-12-09,04:00,Mustangs,Commodores,,,
+249,2020-12-09,04:30,Racers,Governors,87,57,İY 41-18
+250,2020-12-09,05:00,Golden Eagles,Phoenix,82,68,İY 40-33
+251,2020-12-09,05:00,Baylor Bears,Colonels,,,
+252,2020-12-09,05:00,Aggies,Yotes,90,64,İY 44-33
+253,2020-12-09,05:00,Mississippi,Tigers,82,59,İY 34-30
+254,2020-12-09,05:00,Virginia Tech,Penn State,55,75,İY 23-42
+255,2020-12-09,05:00,Bulldogs,Tarleton State Texans,,,
+256,2020-12-09,05:30,Duke Blue,Illinois,68,83,İY 29-43
+257,2020-12-09,05:30,Rutgers,Syracuse,79,69,İY 34-30
+258,2020-12-09,06:00,Gaels,Miners,73,61,İY 38-29
+259,2020-12-09,06:00,Trojans,UC Irvine,91,56,İY 46-21
+260,2020-12-09,06:05,Portland State,NWU Eagles,88,48,İY 36-24
+261,2020-12-09,21:00,Radford,Lancaster Bible College Chargers,,,
+262,2020-12-09,22:00,Radford,Lions,98,50,İY 49-23
+263,2020-12-09,22:30,Privateers,Campbell,70,79,İY 26-41
+264,2020-12-09,23:00,Ramblers,Cougars,88,51,İY 39-31
+265,2020-12-09,20:00,Hapoel Holon,Maccabi Haifa,105,69,İY 54-32
+266,2020-12-09,16:00,Kymis Lavrio,Aris,92,71,İY 53-32
+267,2020-12-09,21:00,PAOK,Ermis Agias,91,93,İY 49-46
+268,2020-12-09,20:30,Igokea,FMP Beograd,84,74,İY 50-44
+269,2020-12-09,20:30,Oviedo,Palencia,78,79,İY 35-30
+270,2020-12-09,22:45,Amics Castello,Lleida,65,74,İY 37-33
+271,2020-12-09,06:00,GZ Long-Lions,Tianjin,96,85,İY 43-48
+272,2020-12-09,07:30,Tongxi King,JS Dragons,120,113,İY 46-49
+273,2020-12-09,10:30,Jilin Tigers,BF Dragons,109,101,İY 54-48
+274,2020-12-09,14:35,LF Leopards,Xinjiang Tiger,111,118,İY 50-55
+275,2020-12-09,15:00,SD Tigers,QD Eagles,111,93,İY 64-49
+276,2020-12-09,13:05,Levanga,Sun Rockers,71,77,İY 36-26
+277,2020-12-09,13:05,Toyota Alvark,Akita NH,70,89,İY 26-52
+278,2020-12-09,13:05,Brave Thunders,Yokohama BC,78,77,İY 45-36
+279,2020-12-09,13:05,Niigata Abirex,Chiba Jets,69,94,İY 31-43
+280,2020-12-09,13:05,SeaHorses,H. Dragonflies,87,64,İY 49-31
+281,2020-12-09,13:05,Dolphins,NeoPhoenix,91,77,İY 59-37
+282,2020-12-09,13:05,Osaka Evessa,Shiga L-Stars,101,96,İY 53-45
+283,2020-12-09,13:05,Shimane SM,Kyoto Hannaryz,59,84,İY 30-37
+284,2020-12-09,13:25,Tochigi Brex,Toyama Grouses,100,63,İY 42-27
+285,2020-12-09,13:35,Ryukyu,Shinshu BW,83,69,İY 42-28
+286,2020-12-09,01:00,Ferro,Obera,66,72,İY 39-30
+287,2020-12-09,03:10,Almagro,Regatas,95,102,İY 40-45
+288,2020-12-09,02:00,São Paulo Futebol Clube,Flamengo,80,68,İY 34-27
+289,2020-12-09,18:00,Novi Pazar,Sloboda Uzice,64,89,İY 30-42
+290,2020-12-09,18:30,KKK Radnicki,Metalac,83,76,İY 35-32
+291,2020-12-09,20:00,Zlatorog Lasko,Helios Domzale,57,80,İY 30-31
+292,2020-12-09,20:00,Primorska,KK Sencur,0,20,
+293,2020-12-09,20:30,Decin,Kralovsti Soko,99,94,İY 36-56
+294,2020-12-09,20:30,Turi Svitavy,Opava,83,90,İY 33-45
+295,2020-12-09,20:30,Usti nad Labem,Pardubice,93,76,İY 50-42
+296,2020-12-09,20:30,USK Praha,Ostrava,99,78,İY 51-34
+297,2020-12-09,20:45,Kolin,CEZ Nymburk,80,96,İY 40-47
+298,2020-12-09,21:00,Olomoucko,Brno,72,94,İY 42-44
+299,2020-12-09,16:00,Temp,BK Samara,88,87,İY 39-44
+300,2020-12-09,17:00,Kibirkstis (K),Angels (K),,,
+301,2020-12-08,18:30,BC Khimki,Olimpia Milano,93,102,İY 47-54
+302,2020-12-08,20:30,Anadolu Efes Spor Kulübü,Asvel,72,68,İY 33-27
+303,2020-12-08,21:00,FC Barcelona Lassa Bàsquet,Olympiacos BC,88,96,İY 47-51
+304,2020-12-08,23:00,Valencia,BK Zenit Saint Petersburg,72,85,İY 39-33
+305,2020-12-08,20:00,SIG Basket Strasbourg,Peristeri,77,57,İY 36-34
+306,2020-12-08,20:30,Vilnius Rytas,VEF Riga,81,85,İY 45-42
+307,2020-12-08,22:00,Brose Baskets,Pınar Karşıyaka Spor Kulübü,83,82,İY 43-42
+308,2020-12-08,22:30,F. Bologna,CB RETAbet Bilbao Berri Basket,64,69,İY 41-35
+309,2020-12-08,22:30,Venezia,Club Joventut de Badalona,75,89,İY 35-50
+310,2020-12-08,22:00,Ratiopharm Ulm,KK Budućnost VOLI,73,77,İY 35-37
+311,2020-12-08,20:00,Cedevita,Trento,87,65,İY 44-35
+312,2020-12-08,22:00,Nanterre,Promitheas,91,70,İY 49-38
+313,2020-12-08,21:00,Mitteldeutsche,FC Bayern München,84,96,İY 52-45
+314,2020-12-08,22:30,Braunschweig,Giessen 46ers,93,85,İY 44-42
+315,2020-12-08,22:30,Riesen,ALBA Berlin,78,71,İY 31-34
+316,2020-12-08,19:30,PBK CSKA Moskva,Zielona Gora,105,73,İY 54-42
+317,2020-12-08,00:00,Hartford Hawks,Stags,67,54,İY 27-30
+318,2020-12-08,00:00,Retrievers,Colonials,92,81,İY 43-32
+319,2020-12-08,01:00,East Carolina,Seahawks,88,78,İY 51-37
+320,2020-12-08,02:00,C. Carolina,Eagles,78,71,İY 38-32
+321,2020-12-08,02:00,Charlotte 49ers,Bulldogs,78,40,İY 35-19
+322,2020-12-08,03:00,Blue Raiders,Mocs,70,80,İY 39-44
+323,2020-12-08,03:00,JM Dukes,Old Dominion,,,
+324,2020-12-08,03:00,Spartans,Pirates,76,64,İY 38-37
+325,2020-12-08,03:00,Bulldogs,CSU Northridge,,,
+326,2020-12-08,03:00,Bulldogs,Columbia International,96,57,İY 54-29
+327,2020-12-08,03:00,Roadrunners,Bethesda,94,43,İY 48-23
+328,2020-12-08,03:00,EK Colonels,Eagles,71,68,İY 28-44
+329,2020-12-08,03:00,Broncos,Bulldogs,62,42,İY 30-16
+330,2020-12-08,03:00,V. Keydets,Royals,,,
+331,2020-12-08,03:00,Ducks,W. Eagles,69,52,İY 36-32
+332,2020-12-08,03:00,North Florida,Owls,77,79,İY 39-41
+333,2020-12-08,03:00,Dayton Flyers,Mastadons,,,
+334,2020-12-08,03:00,Towson,Colonials,,,
+335,2020-12-08,03:30,Redhawks,Lipscomb,82,77,İY 39-37
+336,2020-12-08,04:00,Santa Barbara,Lions,69,58,İY 34-24
+337,2020-12-08,04:00,Braves,Lewis Flyers,95,62,İY 42-29
+338,2020-12-08,05:00,Cal Poly,Aggies,,,
+339,2020-12-08,05:00,Arizona,N. Arizona,96,53,İY 53-27
+340,2020-12-08,06:00,Cardinal,Cal Poly,,,
+341,2020-12-08,22:30,Privateers,Florida National University,74,57,İY 39-20
+342,2020-12-08,23:00,Gaels,Bears,72,83,İY 38-38
+343,2020-12-08,22:00,Orleans,Boulazac,90,81,İY 42-39
+344,2020-12-08,14:35,Shanxi Dragons,ZJ Gold Bulls,112,102,İY 43-36
+345,2020-12-08,15:00,Beijing Ducks,SH Sharks,111,97,İY 63-39
+346,2020-12-08,01:00,Obras,Corrientes,67,66,İY 36-28
+347,2020-12-08,03:30,Arjantin,Atenas,84,86,İY 31-44
+348,2020-12-08,02:00,Franca,C Mourao,95,58,İY 36-18
+349,2020-12-08,23:00,Bauru,Paulistano,81,62,İY 34-41
+350,2020-12-08,20:00,Krka,Triglav,86,57,İY 47-34
+351,2020-12-08,19:30,Timberwolves,Graz,83,92,İY 38-44
+352,2020-12-08,19:30,Traiskirchen,Flyers Wels,69,80,İY 30-38
+353,2020-12-08,19:30,Dukes,Swans Gmunden,84,97,İY 41-53
+354,2020-12-08,19:30,Kapfenberg,Oberwart,83,74,İY 39-36
+355,2020-12-08,21:00,BC Hallmann,St. Pölten,81,71,İY 41-32
+356,2020-12-07,00:00,Mountaineers,Bishops,81,57,İY 42-32
+357,2020-12-07,00:00,Texas A&M,Vaqueros,81,68,İY 43-32
+358,2020-12-07,00:00,Frogs,Sooners,78,82,İY 42-39
+359,2020-12-07,00:00,Long Beach,Redhawks,80,75,İY 33-28
+360,2020-12-07,00:00,Army,La Salle,63,59,İY 23-31
+361,2020-12-07,00:00,Beavers,Cowboys,73,76,İY 48-42
+362,2020-12-07,00:00,M. Wolverines,knights,80,58,İY 38-34
+363,2020-12-07,00:00,Red Foxes,Binghamton,64,60,İY 30-28
+364,2020-12-07,00:30,Aztecs,Waves,65,60,İY 20-34
+365,2020-12-07,00:30,Georgetown,West Virginia,71,80,İY 34-32
+366,2020-12-07,01:00,Georgia Tech,Wildcats,79,62,İY 34-27
+367,2020-12-07,01:00,Salukis,Hawks,102,61,İY 56-34
+368,2020-12-07,02:00,Tigers,Bulldogs,86,55,İY 43-24
+369,2020-12-07,02:00,Bison,Bellarmine Knights,63,84,İY 35-45
+370,2020-12-07,02:00,Falcons,Bulls,86,78,İY 34-32
+371,2020-12-07,02:00,Iowa State,Blue Demons,,,
+372,2020-12-07,02:00,Bearkats,Yellow Jackets,117,54,İY 70-27
+373,2020-12-07,02:00,M. Spartans,Broncos,79,61,İY 39-35
+374,2020-12-07,04:00,Bruins,Golden Bears,76,56,İY 40-22
+375,2020-12-07,04:00,Penn State,Seton Hall,92,98,İY 45-34
+376,2020-12-07,06:00,Spartans,Pacific Tigers,,,
+377,2020-12-07,22:00,Richmond,Terriers,77,72,İY 37-30
+378,2020-12-07,23:00,Skyhawks,Wildcats,,,
+379,2020-12-07,20:00,Bnei Herzliya,Hapoel Elyon,89,95,İY 38-49
+380,2020-12-07,22:00,Ironi N. Ziona,M. Tel Aviv,58,65,İY 25-42
+381,2020-12-07,19:30,Slask Wroclaw,Polski Torun,82,70,İY 36-43
+382,2020-12-07,21:30,Asseco Gdynia,KS ROSA Radom,76,70,İY 35-31
+383,2020-12-07,23:00,Riders,Sharks,61,87,İY 31-48
+384,2020-12-07,07:30,SD Tigers,Jilin Tigers,111,105,İY 46-52
+385,2020-12-07,07:30,Zhejiang Lions,SJ Whale,110,112,İY 54-63
+386,2020-12-07,14:35,Fujian Xunxing,GS Tigers,145,153,İY 71-78
+387,2020-12-07,15:00,LF Leopards,JS Dragons,123,80,İY 51-35
+388,2020-12-07,13:05,Brave Thunders,Levanga,71,53,İY 37-26
+389,2020-12-07,01:00,La Union,Almagro,73,98,İY 28-43
+390,2020-12-07,01:00,Obera,Bahia,91,69,İY 47-35
+391,2020-12-07,03:30,Atenas,Ferro,72,74,İY 35-32
+392,2020-12-07,03:30,Regatas,Obras,69,91,İY 31-44
+393,2020-12-07,17:00,Boca Juniors,I. Atletico Central Cordoba,83,75,İY 36-39
+394,2020-12-07,17:00,Platense,Olimpico,90,73,İY 48-36
+395,2020-12-07,20:00,Bahia,La Union,77,93,İY 23-41
+396,2020-12-07,20:00,Hispano,Quimsa,80,92,İY 26-41
+397,2020-12-07,22:30,Esgrima,Comunicaciones,63,64,İY 29-35
+398,2020-12-07,23:00,Pinheiros/SKY,Pato Basquete,85,77,İY 46-31
+399,2020-12-07,11:15,Vostok 65,Runa,72,76,İY 35-39
+400,2020-12-07,14:10,BK Irkut,Burevestnik,61,69,İY 27-33
+401,2020-12-06,13:00,Petkim Spor,Anadolu Efes Spor Kulübü,71,75,İY 30-48
+402,2020-12-06,15:15,FruttiEx Bursa,Pınar Karşıyaka Spor Kulübü,81,94,İY 33-51
+403,2020-12-06,17:30,Fenerbahçe,M.Y. Afyon Bld,94,74,İY 47-33
+404,2020-12-06,20:00,OGM Orman Spor Kulübü,Bahçeşehir Koleji Spor Kulübü,80,68,İY 47-37
+405,2020-12-06,14:00,Botaş (K),Kayseri BB (K),79,60,İY 38-28
+406,2020-12-06,15:15,Beşiktaş (K),Orman G. (K),73,81,İY 36-39
+407,2020-12-06,14:00,Bodrum Karya Spor Kulübü,Ceyhan Bld.(K),75,77,İY 35-32
+408,2020-12-06,18:30,Fenerbahçe Gelişim Koleji Spor Kulübü,Emlak Konut(K),57,61,İY 33-42
+409,2020-12-06,14:00,BC MoraBanc Andorra,Real Betis,72,55,İY 36-28
+410,2020-12-06,14:30,CB RETAbet Bilbao Berri Basket,Estudiantes,77,78,İY 35-37
+411,2020-12-06,19:00,CD Saski Baskonia,Gipuzkoa,83,71,İY 38-36
+412,2020-12-06,19:00,Unicaja Baloncesto Málaga,UCAM Murcia,102,81,İY 55-44
+413,2020-12-06,20:30,Burgos,Real Madrid,60,74,İY 29-34
+414,2020-12-06,22:00,FC Barcelona Lassa Bàsquet,CB Herbalife Gran Canaria Claret,91,63,İY 53-30
+415,2020-12-06,18:00,Virtus Bologna,Dinamo Sassari,78,83,İY 38-46
+416,2020-12-06,19:00,Venezia,Trento,71,79,İY 32-45
+417,2020-12-06,19:30,Varese,Olimpia Milano,70,96,İY 32-55
+418,2020-12-06,19:30,Uni Treviso,Pesaro,91,81,İY 47-40
+419,2020-12-06,20:00,Enel Brindisi,Cantu,85,71,İY 42-37
+420,2020-12-06,21:00,Reggio Emilia,Vanoli,56,85,İY 29-40
+421,2020-12-06,22:55,Pau Orthez,AS Monaco,86,90,İY 49-31
+422,2020-12-06,17:00,Ratiopharm Ulm,Rasta Vechta,74,73,İY 35-32
+423,2020-12-06,17:00,Riesen,Crailsheim,97,88,İY 49-43
+424,2020-12-06,17:00,Telekom Basket,Oldenburg,92,97,İY 47-46
+425,2020-12-06,20:00,Mitteldeutsche,Hamburg Towers,80,85,İY 27-45
+426,2020-12-06,20:00,Medi Bayreuth,ALBA Berlin,69,71,İY 35-43
+427,2020-12-06,20:00,Chemnitz 99,S. Frankfurt,70,83,İY 34-40
+428,2020-12-06,22:30,FC Bayern München,BG Göttingen,90,72,İY 48-33
+429,2020-12-06,22:30,Giessen 46ers,Brose Baskets,99,106,İY 42-58
+430,2020-12-06,22:30,Würzburg,Braunschweig,89,93,İY 45-48
+431,2020-12-06,12:00,BC Enisey Krasnoyarsk,Zielona Gora,73,94,İY 37-47
+432,2020-12-06,16:00,BC Tsmoki-Minsk,PBK CSKA Moskva,60,87,İY 47-46
+433,2020-12-06,18:00,BK Zenit Saint Petersburg,BC UNICS Kazan,81,64,İY 32-40
+434,2020-12-06,00:00,Kansas,Bison,65,61,İY 35-33
+435,2020-12-06,00:00,Trailblazers,St. Katherine,86,48,İY 40-26
+436,2020-12-06,00:00,Raiders,Redhawks,71,47,İY 32-26
+437,2020-12-06,00:00,Hofstra Pride,Gaels,74,82,İY 34-34
+438,2020-12-06,00:30,Providence,Knights,79,67,İY 31-31
+439,2020-12-06,01:00,Razorbacks,Lipscomb,86,50,İY 46-24
+440,2020-12-06,01:00,Salukis,Southern Miss,,,
+441,2020-12-06,01:00,Ragin Cajuns,Pilots,84,73,İY 40-43
+442,2020-12-06,01:00,Belmont Bruins,Bulldogs,83,96,İY 39-52
+443,2020-12-06,01:00,Broncos,Aggies,,,
+444,2020-12-06,01:00,Northwestern,Cougars,111,66,İY 51-35
+445,2020-12-06,01:30,River Hawks,Bulldogs,,,
+446,2020-12-06,01:30,Lumberjacks,Braves,,,
+447,2020-12-06,02:00,Racers,Redbirds,76,65,İY 44-31
+448,2020-12-06,02:00,Waves,Bulldogs,,,
+449,2020-12-06,02:00,SC Spartans,Eagles,69,72,İY 27-30
+450,2020-12-06,02:00,Richmond,Paladins,,,
+451,2020-12-06,02:00,H. Cougars,Gamecocks,77,67,İY 31-35
+452,2020-12-06,02:00,Colonials,Point Park Pioneers,75,57,İY 42-28
+453,2020-12-06,03:00,Pittsburgh,NIU,89,59,İY 45-29
+454,2020-12-06,03:00,Syracuse,Broncs,87,52,İY 49-29
+455,2020-12-06,03:00,Ohio State,Bulldogs,,,
+456,2020-12-06,03:00,Bulldogs,Norse,,,
+457,2020-12-06,03:00,Dons,Wolf Pack,,,
+458,2020-12-06,03:00,Florida Eagles,Florida National University,91,74,İY 47-29
+459,2020-12-06,03:00,Colonials,Red Flash,,,
+460,2020-12-06,03:30,Cowboys,Grizzlies,84,71,İY 37-36
+461,2020-12-06,04:00,Antelopes,Panthers,,,
+462,2020-12-06,04:00,Kansas State,Rebels,58,68,İY 30-31
+463,2020-12-06,04:00,Coyotes,Kangaroos,,,
+464,2020-12-06,04:00,Huskies,Rice Owls,64,86,İY 24-49
+465,2020-12-06,04:00,Bears,Delta Devils,,,
+466,2020-12-06,04:00,Saint Louis,Golden Lions,107,54,İY 65-20
+467,2020-12-06,04:00,Wildcats,Tarleton State Texans,69,48,İY 35-25
+468,2020-12-06,04:00,Miners,SRS Lobos,84,65,İY 35-37
+469,2020-12-06,05:00,Aggies,Cougars,64,67,İY 29-39
+470,2020-12-06,05:00,Illinois,Skyhawks,,,
+471,2020-12-06,06:00,Pilots,Portland State,86,73,İY 35-33
+472,2020-12-06,20:00,SJ Red Storm,Pioneers,,,
+473,2020-12-06,20:00,Duke Blue,Pheonix,,,
+474,2020-12-06,20:00,Catamounts,Eagles,76,75,İY 29-29
+475,2020-12-06,21:00,Purple Eagles,Lions,,,
+476,2020-12-06,21:00,Longhorns,Villanova,64,68,İY 30-32
+477,2020-12-06,22:00,Bobcats,Vikings,101,46,İY 51-25
+478,2020-12-06,22:00,Presbyterian,Terriers,,,
+479,2020-12-06,22:00,Red Raiders,Tigers,81,40,İY 33-19
+480,2020-12-06,22:00,Valparaiso,Eagles,85,45,İY 39-23
+481,2020-12-06,22:00,Nebraska,Rattlers,,,
+482,2020-12-06,22:00,Gold. Panthers,Gamecocks,,,
+483,2020-12-06,22:00,Bobcats,New Hampshire,64,58,İY 34-27
+484,2020-12-06,22:00,Shockers,Missouri,62,72,İY 30-34
+485,2020-12-06,22:00,Drexel Dragons,Eagles,69,54,İY 42-34
+486,2020-12-06,22:00,Mercer Bears,Warriors,96,85,İY 47-36
+487,2020-12-06,22:00,Aces,IUPUI,,,
+488,2020-12-06,22:00,Gators,Stetson,86,40,İY 34-15
+489,2020-12-06,22:30,SJ Red Storm,Stony Brook,89,66,İY 49-35
+490,2020-12-06,23:00,Pioneers,UC Riverside,63,83,İY 29-48
+491,2020-12-06,23:00,Cincinnati,Musketeers,69,77,İY 35-37
+492,2020-12-06,23:00,Blazers,Trojans,77,55,İY 42-29
+493,2020-12-06,23:00,Demons,Warhawks,83,92,İY 39-38
+494,2020-12-06,23:00,Hilltoppers,Delta Devils,96,69,İY 45-33
+495,2020-12-06,23:00,Lions,Cougars,107,40,İY 47-22
+496,2020-12-06,23:00,Trojans,Bears,86,83,İY 38-39
+497,2020-12-06,23:00,Bulldogs,Fighting Bees,97,53,İY 42-24
+498,2020-12-06,23:30,Leathernecks,Chippewas,73,79,İY 38-31
+499,2020-12-06,15:00,İlkadım 55 Gençlik Spor Kulübü,High Touch Hedef Takım,67,88,İY 39-37
+500,2020-12-06,16:00,Başkent Yenişehir,Harem Spor Kulübü,71,63,İY 33-29
+501,2020-12-06,16:00,Kadıköy İstanbul Spor Kulübü,Batı Ege Spor Kulübü,59,68,İY 32-34
+502,2020-12-06,20:20,Hapoel Haifa,Rishon LeZion,85,84,İY 40-37
+503,2020-12-06,22:15,H. Be'er Sheva,H. Tel Aviv,88,75,İY 43-40
+504,2020-12-06,18:00,Ionikos,Panathinaikos BC Superfoods,53,79,İY 28-40
+505,2020-12-06,14:00,Mega,Split,91,75,İY 40-33
+506,2020-12-06,20:00,KK Crvena Zvezda,KK Budućnost VOLI,65,67,İY 39-44
+507,2020-12-06,21:00,Krka,Primorska,74,57,İY 33-28
+508,2020-12-06,17:30,Gliwice,D. Gornicza,77,84,İY 37-44
+509,2020-12-06,19:35,Wilki Morskie,Legia Warszawa,60,70,İY 37-36
+510,2020-12-06,21:30,Start Lublin,Astoria,107,101,İY 42-41
+511,2020-12-06,18:00,BC Žalgiris Kaunas,Vilnius Rytas,92,45,İY 45-22
+512,2020-12-06,20:00,Leyma Coruna,Palencia,66,64,İY 37-27
+513,2020-12-06,19:00,Bahia San Agustin,Almansa,73,97,İY 28-63
+514,2020-12-06,21:00,Fundacion,CB Granada,67,70,İY 31-38
+515,2020-12-06,18:00,Raiders,Eagles,77,76,İY 41-32
+516,2020-12-06,18:00,Sharks,Scorchers,105,61,İY 45-27
+517,2020-12-06,20:00,Phoenix,Bristol Flyers,81,84,İY 36-32
+518,2020-12-06,20:00,Man Giants,Glasgow Rocks,86,66,İY 41-29
+519,2020-12-06,10:30,Tongxi King,GZ Long-Lions,79,100,İY 39-53
+520,2020-12-06,14:35,BF Dragons,Tianjin,111,95,İY 53-48
+521,2020-12-06,15:00,Xinjiang Tiger,QD Eagles,113,101,İY 68-53
+522,2020-12-06,07:05,Toyama Grouses,Dolphins,80,59,İY 34-26
+523,2020-12-06,07:10,Shiga L-Stars,SeaHorses,60,83,İY 37-38
+524,2020-12-06,08:05,Akita NH,H. Dragonflies,84,78,İY 41-37
+525,2020-12-06,08:05,Sun Rockers,Niigata Abirex,97,72,İY 48-39
+526,2020-12-06,08:05,NeoPhoenix,Yokohama BC,82,90,İY 50-39
+527,2020-12-06,08:05,Kyoto Hannaryz,Shinshu BW,51,63,İY 17-30
+528,2020-12-06,08:05,Ryukyu,Toyota Alvark,54,85,İY 28-39
+529,2020-12-06,09:05,Chiba Jets,Shimane SM,92,70,İY 41-34
+530,2020-12-06,09:05,Osaka Evessa,Tochigi Brex,90,73,İY 35-32
+531,2020-12-06,14:05,Brave Thunders,Levanga,88,83,İY 44-45
+532,2020-12-06,17:00,Libertad,Esgrima,84,83,İY 40-40
+533,2020-12-06,20:00,I. Atletico Central Cordoba,Arjantin,69,81,İY 42-37
+534,2020-12-06,22:30,Comunicaciones,Platense,75,68,İY 42-20
+535,2020-12-06,22:30,Olimpico,Hispano,78,91,İY 27-40
+536,2020-12-06,01:00,Bauru,Corinthians,82,67,İY 43-32
+537,2020-12-06,17:30,Cearense,Brasilia,71,63,İY 30-26
+538,2020-12-06,20:30,Minas,Cerrado,97,77,İY 44-33
+539,2020-12-06,23:30,Caxias,Unifacisa,65,90,İY 29-43
+540,2020-12-06,10:00,Kinmen,Bank of Taiwan,86,74,İY 44-36
+541,2020-12-06,12:00,Taiwan Beer,Pauian Archiland Basketball Team,77,64,İY 39-30
+542,2020-12-06,21:00,Zabok,Cibona,53,82,İY 24-42
+543,2020-12-06,19:30,Graz,St. Pölten,93,59,İY 54-30
+544,2020-12-06,19:30,BC Hallmann,Swans Gmunden,79,67,İY 38-31
+545,2020-12-06,19:30,Traiskirchen,Oberwart,71,80,İY 40-33
+546,2020-12-06,13:00,Novosibirsk,CSKA Moskva II,85,79,İY 49-29
+547,2020-12-06,15:00,Univ Yugra,Khimki Pod,84,88,İY 34-53
+548,2020-12-06,16:00,Temp,Uralmash,92,62,İY 53-32
+549,2020-12-06,15:00,BK Grodno (K),Minskaja (K),54,68,İY 25-28
+550,2020-12-05,13:00,Fethiye Belediye Basketbol Kulübü,Darüşşafaka Spor Kulübü,54,78,İY 29-45
+551,2020-12-05,15:15,Beşiktaş,Türk Telekom Basketbol Kulübü,94,60,İY 59-29
+552,2020-12-05,17:30,Gaziantep BB,TOFAŞ Spor Kulübü,68,67,İY 35-34
+553,2020-12-05,20:00,Galatasaray,Büyükçekmece,87,91,İY 30-41
+554,2020-12-05,14:00,Selçuklu Bld,Akhisar Belediye,77,90,İY 39-40
+555,2020-12-05,14:30,Final Spor,Düzce Bld.,70,68,İY 33-37
+556,2020-12-05,15:00,Bornova Belediye Spor Kulübü,Semt77 Yalova,91,66,İY 43-39
+557,2020-12-05,15:30,Manisa Bşb,Merkezefendi,86,84,İY 38-35
+558,2020-12-05,16:00,Balıkesir BŞB,Gemlik Basketbol Kulübü,79,69,İY 35-41
+559,2020-12-05,17:00,Samsunspor,Mamak Belediyesi,84,78,İY 35-41
+560,2020-12-05,18:00,Kocaeli,Sigortam.net,83,80,İY 43-45
+561,2020-12-05,13:00,Samsun Canik Belediye Spor Kulübü,Elazığ İl Özel İdare Basketbol,48,82,İY 24-38
+562,2020-12-05,14:00,Çeşme Basketbol,İstanbul Üniversitesi Basketbol Kulübü,103,54,İY 56-28
+563,2020-12-05,14:00,Antalya 07 (K),Yalova VIP Gençlik Spor Kulübü,76,69,İY 43-36
+564,2020-12-05,16:00,Düzce Belediye Gençlik ve Spor Kulübü,Edremit Belediyesi Gürespor Kulübü,46,69,İY 22-36
+565,2020-12-05,20:00,Tenerife,Obradoiro,107,62,İY 55-38
+566,2020-12-05,22:45,Club Joventut de Badalona,Zaragoza,88,81,İY 39-44
+567,2020-12-05,22:45,Fuenlabrada,Valencia,61,68,İY 31-30
+568,2020-12-05,22:00,Brescia,F. Bologna,99,85,İY 46-35
+569,2020-12-05,12:00,BC Astana,Nizhny,69,79,İY 35-41
+570,2020-12-05,15:30,Parma Basket,L. Kuban,84,81,İY 45-36
+571,2020-12-05,00:00,Bobcats,Bulldogs,,,
+572,2020-12-05,00:00,Stony Brook,Stags,72,69,İY 26-29
+573,2020-12-05,01:00,Bluejays,Kennesaw State,93,58,İY 52-25
+574,2020-12-05,01:00,M. Spartans,Titans,83,76,İY 35-35
+575,2020-12-05,01:00,South Florida,Rattlers,,,
+576,2020-12-05,01:00,Gold Hurricane,Mavericks,79,64,İY 40-37
+577,2020-12-05,01:00,Lancers,Lions,83,66,İY 43-30
+578,2020-12-05,02:00,Virginia Cavs,Flashes,71,64,İY 29-22
+579,2020-12-05,02:00,Hartford Hawks,Blue Devils,80,65,İY 37-30
+580,2020-12-05,02:00,Hilltoppers,Trojans,,,
+581,2020-12-05,02:00,Charlotte 49ers,G. Panthers,65,76,İY 36-32
+582,2020-12-05,03:00,Golden Eagles,Wisconsin,67,65,İY 35-30
+583,2020-12-05,03:00,Eagles,Rockets,74,91,İY 30-46
+584,2020-12-05,03:00,Duke Blue,Bellarmine Knights,76,54,İY 35-25
+585,2020-12-05,03:00,Purdue,Valparaiso,68,61,İY 23-34
+586,2020-12-05,03:00,Vaqueros,Our Lady of the Lake,91,68,İY 45-36
+587,2020-12-05,03:00,Rebels,Memphis Tigers,,,
+588,2020-12-05,03:00,Zips,Marshall Herd,,,
+589,2020-12-05,03:00,Fighting Irish,Volunteers,,,
+590,2020-12-05,03:00,Boston College,Rhode Island,,,
+591,2020-12-05,03:00,Black Bears,Northeastern,,,
+592,2020-12-05,03:00,Roadrunners,SRS Lobos,91,62,İY 49-39
+593,2020-12-05,03:00,UC Davis,William Jessup,95,62,İY 47-33
+594,2020-12-05,03:00,Gold. Panthers,Gamecocks,74,70,İY 38-35
+595,2020-12-05,03:00,Braves,Saint Joseph's,,,
+596,2020-12-05,03:00,Governors,Cougars,102,38,İY 54-22
+597,2020-12-05,03:00,Panthers,Fighting Bees,98,53,İY 52-27
+598,2020-12-05,03:00,Bulldogs,Jacksonville,98,65,İY 46-36
+599,2020-12-05,03:00,Hornets,Delaware,,,
+600,2020-12-05,03:00,Broncos,Yotes,86,49,İY 47-26
+601,2020-12-05,03:30,Lumberjacks,Cowboys,86,76,İY 38-39
+602,2020-12-05,04:00,Mississippi,Mean Green,69,63,İY 29-20
+603,2020-12-05,04:00,Red Wolves,Pioneers,115,49,İY 57-23
+604,2020-12-05,04:00,Braves,Jackrabbits,84,88,İY 41-35
+605,2020-12-05,04:00,Memphis Tigers,Bears,85,68,İY 40-42
+606,2020-12-05,04:00,Hurricanes,Stetson,82,60,İY 40-27
+607,2020-12-05,05:00,Tigers,Jaguars,90,81,İY 47-32
+608,2020-12-05,05:00,Seton Hall,Ducks,70,83,İY 28-34
+609,2020-12-05,05:00,Red Raiders,Trojans,80,46,İY 47-22
+610,2020-12-05,05:00,Cal Poly,Dons,60,88,İY 32-45
+611,2020-12-05,05:00,Golden Gophers,Hawks,76,67,İY 36-35
+612,2020-12-05,06:00,Lions,Long Beach,85,61,İY 42-28
+613,2020-12-05,18:00,Mercer Bears,Columbia International,88,62,İY 42-29
+614,2020-12-05,20:00,Connecticut,Wolfpack,,,
+615,2020-12-05,20:00,Liberty Flames,Ramblin' Rams,86,64,İY 52-43
+616,2020-12-05,21:00,Baylor Bears,Bulldogs,,,
+617,2020-12-05,21:00,Bulldogs,Eagles,100,58,İY 57-23
+618,2020-12-05,21:00,Retrievers,Towson,,,
+619,2020-12-05,21:35,S. Hornets,Vandals,73,57,İY 30-21
+620,2020-12-05,22:00,Colonials,Eagles,85,69,İY 42-33
+621,2020-12-05,22:00,Mocs,Norse,79,72,İY 30-31
+622,2020-12-05,22:00,East Carolina,Radford,50,63,İY 31-27
+623,2020-12-05,22:00,High Point,North Florida,85,74,İY 41-34
+624,2020-12-05,22:00,Thunderbirds,M. Grizzlies,75,74,İY 31-36
+625,2020-12-05,22:00,UNC Asheville,Bulldogs,77,56,İY 43-27
+626,2020-12-05,22:00,Cougars,Paladins,57,81,İY 23-47
+627,2020-12-05,22:00,VCU Rams,Mountaineers,60,42,İY 37-20
+628,2020-12-05,22:00,Arizona,W. Eagles,70,67,İY 38-43
+629,2020-12-05,22:00,Delaware,Salem,79,76,İY 44-31
+630,2020-12-05,22:00,Dayton Flyers,Mustangs,64,66,İY 32-27
+631,2020-12-05,22:00,Cardinals,Flames,68,66,İY 32-22
+632,2020-12-05,22:00,Governors,Pioneers,,,
+633,2020-12-05,22:00,Binghamton,Red Foxes,65,68,İY 23-34
+634,2020-12-05,23:00,Tigers,Boyce Bulldogs,,,
+635,2020-12-05,23:00,Phoenix,Panthers,91,93,İY 32-37
+636,2020-12-05,23:00,Bobcats,Cardinals,72,64,İY 32-34
+637,2020-12-05,23:00,JM Dukes,Maryland,,,
+638,2020-12-05,23:00,Cougars,Mavericks,63,65,İY 24-35
+639,2020-12-05,23:00,Bulldogs,Rhode Island College Anchormen,138,83,İY 74-43
+640,2020-12-05,23:00,Ramblers,Lewis Flyers,76,48,İY 39-11
+641,2020-12-05,23:00,Falcons,Cardinals,59,44,İY 24-21
+642,2020-12-05,14:00,Seyhan Belediyesi Spor Kulübü,EGO Spor Kulübü,69,90,İY 35-41
+643,2020-12-05,14:00,Beylikdüzü,Çözüm Ankara Koleji,84,48,İY 40-24
+644,2020-12-05,15:00,Darıca Gençlerbirliği,Saray Belediyespor,79,97,İY 42-55
+645,2020-12-05,16:00,Erzurum Büyükşehir Belediye Gençlik Spor Kulübü,Ege Sportif Basketbol Kulübü,83,60,İY 40-31
+646,2020-12-05,16:00,Kastamonu Basketbol Spor Kulübü,Nazilli,78,69,İY 36-30
+647,2020-12-05,16:00,Kayserigaz,İstanbul Büyükşehir Belediye Spor Kulübü,67,91,İY 39-43
+648,2020-12-05,19:05,Hapoel Eilat,H. Jerusalem,79,100,İY 30-44
+649,2020-12-05,20:45,Ironi Nahariya,Maccabi Haifa,110,102,İY 51-47
+650,2020-12-05,21:00,Hapoel Holon,M. Tel Aviv,79,76,İY 47-39
+651,2020-12-05,18:00,C. Rodos,Ermis Agias,90,64,İY 45-40
+652,2020-12-05,18:00,Aris,Promitheas,94,83,İY 46-42
+653,2020-12-05,18:00,Charilaos Trikoupis,Iraklis,68,71,İY 33-35
+654,2020-12-05,20:30,Peristeri,Kymis Lavrio,70,78,İY 30-39
+655,2020-12-05,21:00,Igokea,Borac Cacak,73,71,İY 39-32
+656,2020-12-05,21:00,KK Mornar,Partizan,77,76,İY 33-39
+657,2020-12-05,19:35,KK Anwil,Starogard,89,96,İY 51-49
+658,2020-12-05,18:00,Pieno Pasvalys,BC Siauliai,87,64,İY 42-32
+659,2020-12-05,18:00,Neptunas,Lietkabelis,80,90,İY 40-37
+660,2020-12-05,19:00,Oviedo,Valladolid,83,78,İY 38-39
+661,2020-12-05,21:00,Breogan,CB Ourense,79,71,İY 40-23
+662,2020-12-05,21:30,Girona,Myrtia,75,63,İY 39-39
+663,2020-12-05,21:00,Scorchers,Riders,72,84,İY 28-46
+664,2020-12-05,06:00,SJ Whale,ZJ Gold Bulls,99,130,İY 54-56
+665,2020-12-05,07:30,SH Leopards,Shanxi Dragons,112,107,İY 53-58
+666,2020-12-05,10:30,SD Tigers,JS Dragons,100,96,İY 43-51
+667,2020-12-05,14:35,Zhejiang Lions,GS Tigers,139,131,İY 65-53
+668,2020-12-05,15:00,Fujian Xunxing,Beijing Ducks,124,91,İY 56-51
+669,2020-12-05,09:05,Chiba Jets,Shimane SM,92,83,İY 48-39
+670,2020-12-05,09:05,Osaka Evessa,Tochigi Brex,69,94,İY 34-47
+671,2020-12-05,11:05,Sun Rockers,Niigata Abirex,85,67,İY 41-26
+672,2020-12-05,11:05,Shiga L-Stars,SeaHorses,81,96,İY 44-52
+673,2020-12-05,12:05,Akita NH,H. Dragonflies,95,73,İY 35-32
+674,2020-12-05,12:05,Toyama Grouses,Dolphins,79,83,İY 40-40
+675,2020-12-05,12:05,NeoPhoenix,Yokohama BC,68,79,İY 23-33
+676,2020-12-05,12:05,Kyoto Hannaryz,Shinshu BW,69,66,İY 31-36
+677,2020-12-05,13:05,Ryukyu,Toyota Alvark,87,79,İY 42-36
+678,2020-12-05,01:00,Olimpico,Corrientes,62,66,İY 30-23
+679,2020-12-05,01:00,Arjantin,Ferro,74,75,İY 40-31
+680,2020-12-05,03:30,La Union,I. Atletico Central Cordoba,75,83,İY 35-50
+681,2020-12-05,17:00,Quimsa,Boca Juniors,73,64,İY 32-37
+682,2020-12-05,00:00,Paulistano,Cruzes,69,62,İY 22-23
+683,2020-12-05,02:30,Cerrado,Cearense,73,75,İY 38-44
+684,2020-12-05,15:00,C Mourao,Pinheiros/SKY,79,66,İY 38-27
+685,2020-12-05,18:00,Pato Basquete,São Paulo Futebol Clube,71,80,İY 36-44
+686,2020-12-05,22:00,Flamengo,Franca,93,62,İY 44-32
+687,2020-12-05,10:00,Pauian Archiland Basketball Team,Bank of Taiwan,73,81,İY 32-47
+688,2020-12-05,12:30,Luxgen Dinos,Taiwan Beer,69,82,İY 26-48
+689,2020-12-05,19:30,Puntamika,Skrljevo,81,69,İY 40-34
+690,2020-12-05,20:00,KK Pirot,Novi Pazar,77,70,İY 39-39
+691,2020-12-05,20:00,Kolubara LA,Tamis,79,67,İY 43-37
+692,2020-12-05,21:00,Metalac,Napredak,100,97,İY 42-46
+693,2020-12-05,21:00,Dunav,Sloga,87,82,İY 53-37
+694,2020-12-05,20:00,Podcetrtek,Triglav,97,82,İY 44-44
+695,2020-12-05,19:00,CEZ Nymburk,Turi Svitavy,105,74,İY 56-34
+696,2020-12-05,20:15,Kralovsti Soko,Ostrava,99,91,İY 52-50
+697,2020-12-05,20:15,Opava,Usti nad Labem,93,75,İY 45-33
+698,2020-12-05,20:15,Kolin,Brno,83,64,İY 40-45
+699,2020-12-05,20:15,Decin,Olomoucko,89,73,İY 45-37
+700,2020-12-05,20:40,Pardubice,USK Praha,73,72,İY 43-47
+701,2020-12-05,19:30,Kapfenberg,Timberwolves,80,62,İY 40-33
+702,2020-12-05,22:00,Dukes,Flyers Wels,94,90,İY 45-48
+703,2020-12-05,15:15,Ufimets,Kupol Rodniki,62,84,İY 29-47
+704,2020-12-05,18:00,BK Samara,MBA Moskva,77,75,İY 40-42
+705,2020-12-04,19:00,Pınar Karşıyaka Spor Kulübü,Bahçeşehir Koleji Spor Kulübü,82,79,İY 34-39
+706,2020-12-04,19:30,Anadolu Efes Spor Kulübü,CD Saski Baskonia,59,77,İY 37-42
+707,2020-12-04,21:00,BC Žalgiris Kaunas,FC Barcelona Lassa Bàsquet,62,73,İY 33-39
+708,2020-12-04,22:30,FC Bayern München,BC Khimki,80,77,İY 43-40
+709,2020-12-04,23:00,Real Madrid,Asvel,91,84,İY 40-50
+710,2020-12-04,16:00,Ankara Anadolu,Ist. Basket,85,68,İY 44-29
+711,2020-12-04,14:00,Karşıyaka (K),Botaş G. (K),68,62,İY 41-28
+712,2020-12-04,14:00,Mersin Üniversitesi Basketbol Kulübü,Bursa Büyükşehir Belediyesi Spor Kulübü,44,72,İY 22-44
+713,2020-12-04,18:00,Urla Belediyesi Gençlik Spor Kulübü,Sakarya Y. (K),0,0,
+714,2020-12-04,19:00,Dynm Kursk (K),P. Avenida (K),74,89,İY 49-47
+715,2020-12-04,17:00,Fenerbahçe Spor Kulübü,ASVEL Lyon (K),70,84,İY 37-51
+716,2020-12-04,20:00,Gdynia (K),USK Praha (K),76,85,İY 34-42
+717,2020-12-04,19:00,UMMC (K),TTT Rīga,104,71,İY 57-40
+718,2020-12-04,22:00,UNI Girona (K),F. Schio (K),85,81,İY 46-39
+719,2020-12-04,18:30,Landes (K),Sopron (K),59,70,İY 31-42
+720,2020-12-04,21:00,Oldenburg,Chemnitz 99,119,73,İY 60-37
+721,2020-12-04,22:30,Crailsheim,BG Göttingen,89,77,İY 48-29
+722,2020-12-04,00:00,Trojans,Winthrop,75,80,İY 40-42
+723,2020-12-04,00:30,Wolfpack,River Hawks,90,59,İY 43-19
+724,2020-12-04,01:00,Flashes,Point Park Pioneers,90,41,İY 40-21
+725,2020-12-04,02:00,Mountaineers,PIU Bruins,,,
+726,2020-12-04,02:00,Utes,Huskies,76,62,İY 37-32
+727,2020-12-04,02:00,Norse,Eagles,74,65,İY 39-36
+728,2020-12-04,02:00,C. Carolina,Columbia International,113,56,İY 77-31
+729,2020-12-04,02:00,Gaels,Merrimack Warriors,,,
+730,2020-12-04,02:00,Panthers,Hilltoppers,,,
+731,2020-12-04,02:00,Lancers,Royals,,,
+732,2020-12-04,02:00,Terriers,Eagles,,,
+733,2020-12-04,03:00,Villanova,Temple Owls,,,
+734,2020-12-04,03:00,Liberty Flames,Red Flash,78,62,İY 39-32
+735,2020-12-04,03:00,Falcons,Northwest,88,67,İY 40-37
+736,2020-12-04,03:00,Bulldogs,Aggies,78,70,İY 30-40
+737,2020-12-04,03:00,River Hawks,Pioneers,,,
+738,2020-12-04,03:00,Bobcats,Great Danes,,,
+739,2020-12-04,03:00,Buccaneers,Knights,,,
+740,2020-12-04,03:00,Trojans,Connecticut,58,61,İY 34-39
+741,2020-12-04,03:00,Hawks,Terriers,,,
+742,2020-12-04,03:00,Pheonix,Mercer Bears,,,
+743,2020-12-04,03:00,Owls,Florida National University,128,64,İY 85-31
+744,2020-12-04,03:00,Mastadons,Bulldogs,,,
+745,2020-12-04,03:00,Raiders,Marshall Herd,64,80,İY 34-29
+746,2020-12-04,03:00,WM Tribe,Pirates,,,
+747,2020-12-04,03:00,Catamounts,Wolves,91,84,İY 45-43
+748,2020-12-04,03:30,Bulldogs,Warhawks,78,62,İY 45-31
+749,2020-12-04,04:00,Sooners,Roadrunners,105,66,İY 51-28
+750,2020-12-04,04:00,Bulldogs,Mavericks,87,66,İY 40-32
+751,2020-12-04,04:00,Frogs,Demons,74,68,İY 40-34
+752,2020-12-04,04:00,Virginia Tech,V. Keydets,64,57,İY 30-23
+753,2020-12-04,04:00,Tigers,Tigers,68,59,İY 33-29
+754,2020-12-04,04:00,Iowa Hawkeyes,Leathernecks,99,58,İY 48-26
+755,2020-12-04,04:00,Kansas,Ichabods,89,54,İY 49-32
+756,2020-12-04,04:00,Syracuse,Purple Eagles,75,45,İY 42-28
+757,2020-12-04,04:00,Bruins,Redhawks,78,52,İY 43-29
+758,2020-12-04,04:05,S. Hornets,Vandals,77,55,İY 35-36
+759,2020-12-04,05:00,Red Raiders,SJ Red Storm,,,
+760,2020-12-04,05:00,Thunderbirds,M. Grizzlies,64,63,İY 28-34
+761,2020-12-04,05:30,Waves,St. Katherine,94,45,İY 53-22
+762,2020-12-04,05:30,Boston College,Gators,70,90,İY 29-49
+763,2020-12-04,06:00,Golden Bears,Sun Devils,62,70,İY 34-35
+764,2020-12-04,06:00,Gaels,Tigers,82,70,İY 39-35
+765,2020-12-04,22:00,Louisville,Spartans,,,
+766,2020-12-04,23:00,Maryland,George Mason,,,
+767,2020-12-04,23:00,Maryland,Peacocks,90,57,İY 42-23
+768,2020-12-04,17:00,Ted Ankara,Asya Kartalları Spor Kulübü,80,81,İY 35-35
+769,2020-12-04,22:00,Cibona,FMP Beograd,93,80,İY 53-48
+770,2020-12-04,22:25,Stal Ostrow,Spojnia,98,105,İY 54-52
+771,2020-12-04,22:45,Amics Castello,Penas Huesca,91,69,İY 48-41
+772,2020-12-04,22:00,Wolves,Raiders,60,69,İY 39-37
+773,2020-12-04,22:30,Bristol Flyers,Man Giants,59,66,İY 35-28
+774,2020-12-04,07:30,Xinjiang Tiger,GZ Long-Lions,90,93,İY 52-48
+775,2020-12-04,07:30,Tianjin,QD Eagles,105,113,İY 53-65
+776,2020-12-04,15:00,Jilin Tigers,LF Leopards,91,112,İY 45-59
+777,2020-12-04,15:00,BF Dragons,Tongxi King,120,88,İY 67-59
+778,2020-12-04,17:00,Almagro,Obera,85,57,İY 34-32
+779,2020-12-04,20:00,Libertad,Quimsa,79,98,İY 34-65
+780,2020-12-04,20:00,Hispano,Boca Juniors,66,88,İY 24-41
+781,2020-12-04,22:30,Atenas,Comunicaciones,73,61,İY 41-31
+782,2020-12-04,22:30,Obras,Esgrima,66,76,İY 30-28
+783,2020-12-04,02:30,São Paulo Futebol Clube,C Mourao,92,79,İY 42-38
+784,2020-12-04,20:30,Caxias,Minas,63,94,İY 35-42
+785,2020-12-04,23:30,Unifacisa,Brasilia,91,74,İY 51-40
+786,2020-12-04,20:00,Dynamic,Sloboda Uzice,80,91,İY 42-47
+787,2020-12-04,14:10,BK Irkut,Runa,64,73,İY 37-42
+788,2020-12-03,20:00,PBK CSKA Moskva,Olympiacos BC,80,61,İY 39-29
+789,2020-12-03,20:00,BK Zenit Saint Petersburg,Fenerbahçe,65,73,İY 32-45
+790,2020-12-03,22:05,M. Tel Aviv,KK Crvena Zvezda,81,76,İY 41-38
+791,2020-12-03,22:45,Olimpia Milano,Panathinaikos BC Superfoods,77,80,İY 42-30
+792,2020-12-03,23:00,Valencia,ALBA Berlin,92,100,İY 50-51
+793,2020-12-03,20:30,Venezia,Bourg Basket,76,86,İY 34-42
+794,2020-12-03,17:00,Gdynia (K),Fenerbahçe Spor Kulübü,70,80,İY 44-40
+795,2020-12-03,20:00,USK Praha (K),ASVEL Lyon (K),80,79,İY 34-44
+796,2020-12-03,19:00,F. Schio (K),TTT Rīga,76,72,İY 45-26
+797,2020-12-03,22:00,UNI Girona (K),UMMC (K),67,94,İY 30-40
+798,2020-12-03,20:00,Landes (K),Bourges (K),69,66,İY 28-23
+799,2020-12-03,20:30,CB RETAbet Bilbao Berri Basket,BC MoraBanc Andorra,76,85,İY 36-38
+800,2020-12-03,22:30,Reggio Emilia,Uni Treviso,98,74,İY 44-44
+801,2020-12-03,21:00,Telekom Basket,Hamburg Towers,63,93,İY 39-35
+802,2020-12-03,00:00,North Carolina,Longhorns,67,69,İY 28-40
+803,2020-12-03,00:00,Wake Forest,Trojans,,,
+804,2020-12-03,00:00,Bison,La Salle,,,
+805,2020-12-03,01:00,Cougars,SJ Red Storm,74,68,İY 29-23
+806,2020-12-03,01:00,Ohio State,Eagles,77,44,İY 37-27
+807,2020-12-03,01:00,Sooners,Gators,,,
+808,2020-12-03,01:00,Cincinnati,Lipscomb,67,55,İY 29-29
+809,2020-12-03,01:00,South Florida,Florida Eagles,76,57,İY 41-24
+810,2020-12-03,01:00,Penn State,VCU Rams,72,69,İY 35-32
+811,2020-12-03,01:00,Pacific Tigers,M. Bobcats,74,70,İY 30-29
+812,2020-12-03,01:30,Drexel Dragons,Bobcats,66,48,İY 36-18
+813,2020-12-03,01:30,SC Spartans,EK Colonels,78,95,İY 28-46
+814,2020-12-03,01:30,Gaels,Catamounts,,,
+815,2020-12-03,02:00,Clemson,Bulldogs,75,38,İY 36-18
+816,2020-12-03,02:00,Radford,Lions,,,
+817,2020-12-03,02:00,Duquesne Dukes,Spartans,81,68,İY 42-33
+818,2020-12-03,02:00,Redbirds,Panthers,177,108,İY 83-50
+819,2020-12-03,03:00,Fighting Irish,Broncos,,,
+820,2020-12-03,03:00,Rhode Island,Seton Hall,76,63,İY 36-35
+821,2020-12-03,03:00,Musketeers,Eagles,79,48,İY 35-21
+822,2020-12-03,03:00,Cougars,Richmond,,,
+823,2020-12-03,03:00,Drexel Dragons,Great Danes,,,
+824,2020-12-03,03:00,UC Riverside,Bethesda,,,
+825,2020-12-03,03:00,Volunteers,Bulldogs,,,
+826,2020-12-03,03:00,Jaspers,Fordham Rams,,,
+827,2020-12-03,03:00,Iowa State,Jackrabbits,68,71,İY 27-39
+828,2020-12-03,03:00,Southern Miss,Crusaders,80,53,İY 39-24
+829,2020-12-03,03:00,Bulldogs,West Virginia,87,82,İY 34-39
+830,2020-12-03,03:00,Chippewas,Saints,73,92,İY 30-43
+831,2020-12-03,03:00,Texas A&M,Tarleton State Texans,73,66,İY 24-26
+832,2020-12-03,03:00,Stags,Hartford Hawks,61,66,İY 28-26
+833,2020-12-03,03:00,Jacksonville,Presbyterian,78,65,İY 35-27
+834,2020-12-03,03:00,Paladins,Warriors,89,49,İY 37-26
+835,2020-12-03,03:00,NIU,Cougars,53,73,İY 18-34
+836,2020-12-03,03:00,Crimson Tide,Providence,88,71,İY 41-32
+837,2020-12-03,03:00,Shockers,Golden Eagles,85,80,İY 38-36
+838,2020-12-03,03:00,M. Wolverines,Cardinals,84,65,İY 40-33
+839,2020-12-03,03:30,Blue Raiders,Racers,78,61,İY 34-30
+840,2020-12-03,03:30,Blazers,Kennesaw State,73,48,İY 43-22
+841,2020-12-03,03:30,Cowboys,Crusaders,140,37,İY 67-15
+842,2020-12-03,03:30,Redhawks,Salukis,79,87,İY 31-29
+843,2020-12-03,04:00,Wolverines,Griffins,79,71,İY 42-25
+844,2020-12-03,04:00,Privateers,Ragin Cajuns,63,66,İY 26-25
+845,2020-12-03,04:00,Vaqueros,Islanders,62,59,İY 24-15
+846,2020-12-03,04:00,Spartans,Old Dominion,66,80,İY 37-42
+847,2020-12-03,04:00,Skyhawks,Aces,93,87,İY 36-31
+848,2020-12-03,04:00,Waves,Spartans,,,
+849,2020-12-03,04:00,Memphis Tigers,Red Wolves,83,54,İY 48-26
+850,2020-12-03,04:00,Mustangs,Huskies,102,75,İY 49-44
+851,2020-12-03,04:00,Florida State,North Florida,86,58,İY 36-21
+852,2020-12-03,04:00,Lancers,Lions,80,81,İY 44-38
+853,2020-12-03,05:00,Broncos,Roadrunners,53,47,İY 15-11
+854,2020-12-03,05:00,Missouri,Ducks,83,75,İY 42-31
+855,2020-12-03,05:00,Aztecs,St. Katherine,83,41,İY 48-16
+856,2020-12-03,05:00,Northwestern,Golden Lions,92,49,İY 39-29
+857,2020-12-03,05:00,Wolf Pack,Dons,60,85,İY 32-40
+858,2020-12-03,05:00,Razorbacks,Mavericks,72,60,İY 44-33
+859,2020-12-03,05:00,Cowboys,Cardinals,94,83,İY 27-33
+860,2020-12-03,05:00,UC Irvine,Golden Eagles,104,54,İY 51-24
+861,2020-12-03,05:00,Hawks,Trailblazers,73,74,İY 29-24
+862,2020-12-03,05:30,Aggies,Redhawks,92,54,İY 51-28
+863,2020-12-03,05:30,Rebels,Wildcats,73,77,İY 29-41
+864,2020-12-03,06:00,Cougars,Beavers,59,55,İY 23-26
+865,2020-12-03,06:00,Baylor Bears,Illinois,82,69,İY 31-30
+866,2020-12-03,22:00,Drexel Dragons,Bobcats,70,58,İY 34-30
+867,2020-12-03,23:00,Panthers,Cougars,78,56,İY 37-14
+868,2020-12-03,23:00,Rice Owls,Yellowjackets,94,74,İY 46-33
+869,2020-12-03,19:30,Asseco Gdynia,D. Gornicza,85,76,İY 38-46
+870,2020-12-03,19:35,Zielona Gora,Start Lublin,90,75,İY 49-42
+871,2020-12-03,21:00,Gliwice,Wilki Morskie,81,72,İY 41-33
+872,2020-12-03,22:00,KK Anwil,Slask Wroclaw,93,78,İY 41-49
+873,2020-12-03,20:00,Sharks,Phoenix,82,92,İY 37-47
+874,2020-12-03,22:30,Eagles,Lions,88,79,İY 38-37
+875,2020-12-03,07:30,SH Leopards,Beijing Ducks,84,98,İY 31-56
+876,2020-12-03,07:30,Zhejiang Lions,Fujian Xunxing,133,118,İY 72-50
+877,2020-12-03,14:35,Shanxi Dragons,GS Tigers,91,130,İY 42-64
+878,2020-12-03,15:00,SJ Whale,SH Sharks,102,96,İY 55-42
+879,2020-12-03,02:30,Minas,Brasilia,105,100,İY 56-48
+880,2020-12-03,20:30,Pato Basquete,Franca,64,86,İY 29-38
+881,2020-12-03,23:30,Pinheiros/SKY,Flamengo,62,95,İY 29-57
+882,2020-12-03,19:00,Pieno Pasvalys,BC Nevėžis Kėdainiai,89,71,İY 49-43
+883,2020-12-03,19:00,Helios Domzale,Primorska,63,72,İY 37-41
+884,2020-12-03,19:30,Pardubice,Ostrava,101,79,İY 47-43
+885,2020-12-03,20:00,Olomoucko,Kralovsti Soko,79,98,İY 29-52
+886,2020-12-03,20:00,Brno,Turi Svitavy,88,75,İY 50-43
+887,2020-12-03,15:30,Novosibirsk,Khimki Pod,103,90,İY 57-44
+888,2020-12-03,16:00,Temp,Uralmash,86,78,İY 42-45
+889,2020-12-03,17:00,Univ Yugra,CSKA Moskva II,81,86,İY 48-42
+890,2020-12-02,18:00,M.Y. Afyon Bld,FruttiEx Bursa,76,70,İY 37-39
+891,2020-12-02,18:00,Türk Telekom Basketbol Kulübü,OGM Orman Spor Kulübü,83,64,İY 43-34
+892,2020-12-02,18:00,TOFAŞ Spor Kulübü,Fethiye Belediye Basketbol Kulübü,110,81,İY 56-36
+893,2020-12-02,20:15,Bahçeşehir Koleji Spor Kulübü,Galatasaray,78,95,İY 37-46
+894,2020-12-02,20:15,Darüşşafaka Spor Kulübü,Beşiktaş,82,86,İY 37-43
+895,2020-12-02,17:00,Düzce Bld.,Kocaeli,71,73,İY 46-39
+896,2020-12-02,17:00,Gemlik Basketbol Kulübü,Manisa Bşb,87,84,İY 37-45
+897,2020-12-02,22:45,Bourg Basket,Venezia,87,59,İY 47-34
+898,2020-12-02,19:00,Nadezhda (K),P. Avenida (K),42,70,İY 24-43
+899,2020-12-02,23:15,Real Madrid,CD Saski Baskonia,92,83,İY 40-43
+900,2020-12-02,00:00,Cardinal,North Carolina,63,67,İY 33-29
+901,2020-12-02,00:00,New Hampshire,Bulldogs,85,93,İY 44-46
+902,2020-12-02,00:00,Virginia Cavs,Red Flash,76,51,İY 45-13
+903,2020-12-02,01:00,Commodores,Connecticut,,,
+904,2020-12-02,01:00,Hartford Hawks,Villanova,53,87,İY 24-43
+905,2020-12-02,01:00,V. Keydets,Lancers,84,71,İY 37-36
+906,2020-12-02,01:00,East Carolina,Bishops,91,62,İY 44-30
+907,2020-12-02,01:00,Bluejays,Mavericks,94,67,İY 50-26
+908,2020-12-02,01:00,Wisconsin,Phoenix,82,42,İY 34-12
+909,2020-12-02,02:00,Louisville,Hilltoppers,75,54,İY 34-29
+910,2020-12-02,02:00,Mountaineers,Knights,,,
+911,2020-12-02,02:00,Georgetown,Midshipmen,71,78,İY 26-29
+912,2020-12-02,02:00,Peacocks,Stony Brook,82,68,İY 40-35
+913,2020-12-02,02:00,Stony Brook,Pioneers,,,
+914,2020-12-02,02:00,Bears,Lions,102,94,İY 43-43
+915,2020-12-02,03:00,Rockets,Vikings,70,61,İY 23-35
+916,2020-12-02,03:00,Golden Eagles,Cowboys,62,70,İY 35-32
+917,2020-12-02,03:00,West Virginia,Penguins,,,
+918,2020-12-02,03:00,Dayton Flyers,Braves,,,
+919,2020-12-02,03:00,Jaguars,E. Lions,86,47,İY 42-21
+920,2020-12-02,03:00,Falcons,Pioneers,,,
+921,2020-12-02,03:00,Dayton Flyers,Panthers,66,63,İY 38-33
+922,2020-12-02,03:00,Buccaneers,Aggies,63,70,İY 28-31
+923,2020-12-02,03:00,Flames,Valparaiso,66,50,İY 28-19
+924,2020-12-02,03:00,Maryland,Towson,,,
+925,2020-12-02,03:00,Providence,Wildcats,63,62,İY 35-31
+926,2020-12-02,03:00,Maryland,Hawks,,,
+927,2020-12-02,03:00,Gold. Panthers,Chippewas,96,76,İY 41-30
+928,2020-12-02,03:30,Lumberjacks,Yellowjackets,102,57,İY 54-23
+929,2020-12-02,03:30,Bulls,Gaels,,,
+930,2020-12-02,03:30,Duke Blue,M. Spartans,69,75,İY 33-37
+931,2020-12-02,04:00,Bears,Bears,,,
+932,2020-12-02,04:00,Bulldogs,Scots,98,73,İY 54-33
+933,2020-12-02,04:00,Colonials,Pirates,78,82,İY 33-37
+934,2020-12-02,04:00,Braves,Eagles,105,32,İY 53-17
+935,2020-12-02,04:30,Wildcats,Yellow Jackets,81,51,İY 44-25
+936,2020-12-02,04:30,Spartans,Winthrop,67,75,İY 31-32
+937,2020-12-02,05:00,Antelopes,Delta Devils,88,49,İY 48-26
+938,2020-12-02,05:00,Nebraska,Coyotes,76,69,İY 36-29
+939,2020-12-02,05:30,Kansas,Wildcats,65,62,İY 29-35
+940,2020-12-02,05:30,Crimson Tide,Rebels,86,74,İY 38-38
+941,2020-12-02,05:30,South Florida,River Hawks,,,
+942,2020-12-02,06:00,Gaels,Colonels,73,50,İY 39-25
+943,2020-12-02,12:00,Huskies,UC Riverside,42,57,İY 22-29
+944,2020-12-02,21:30,Cardinal,I. Hoosiers,63,79,İY 26-31
+945,2020-12-02,22:30,Gators,Army,76,69,İY 31-39
+946,2020-12-02,22:00,Wolves,Bristol Flyers,66,73,İY 28-38
+947,2020-12-02,06:00,JS Dragons,Jilin Tigers,98,100,İY 45-46
+948,2020-12-02,07:30,BF Dragons,QD Eagles,105,92,İY 55-34
+949,2020-12-02,10:30,Tianjin,Tongxi King,92,84,İY 34-48
+950,2020-12-02,14:35,GZ Long-Lions,LF Leopards,96,102,İY 52-45
+951,2020-12-02,15:00,Xinjiang Tiger,SD Tigers,111,94,İY 55-53
+952,2020-12-02,13:05,Levanga,Chiba Jets,68,72,İY 31-32
+953,2020-12-02,13:05,Akita NH,Niigata Abirex,102,110,İY 40-44
+954,2020-12-02,13:05,Sun Rockers,Yokohama BC,87,72,İY 48-35
+955,2020-12-02,13:05,Toyama Grouses,Toyota Alvark,104,85,İY 58-49
+956,2020-12-02,13:05,Shinshu BW,Osaka Evessa,73,66,İY 29-31
+957,2020-12-02,13:05,SeaHorses,Ryukyu,86,82,İY 36-40
+958,2020-12-02,13:05,Kyoto Hannaryz,Dolphins,71,72,İY 35-31
+959,2020-12-02,13:05,Shimane SM,NeoPhoenix,77,75,İY 36-36
+960,2020-12-02,13:05,H. Dragonflies,Shiga L-Stars,97,109,İY 46-58
+961,2020-12-02,13:25,Tochigi Brex,Brave Thunders,60,67,İY 22-27
+962,2020-12-02,20:30,Cerrado,Unifacisa,67,75,İY 36-34
+963,2020-12-02,23:30,Cearense,Caxias,85,78,İY 45-37
+964,2020-12-02,20:00,GKK Sibenik,Split,111,96,İY 57-43
+965,2020-12-02,18:30,KKK Radnicki,Kolubara LA,90,97,İY 49-44
+966,2020-12-02,21:00,KK Sencur,Krka,73,60,İY 31-31
+967,2020-12-02,19:00,CEZ Nymburk,Usti nad Labem,102,85,İY 63-52
+968,2020-12-02,20:00,Decin,Kolin,75,105,İY 37-55
+969,2020-12-02,20:00,Opava,USK Praha,92,79,İY 51-34
+970,2020-12-02,21:00,Traiskirchen,Kapfenberg,71,65,İY 41-29
+971,2020-12-02,21:30,St. Pölten,Timberwolves,103,63,İY 62-33
+972,2020-12-02,17:15,Ufimets,MBA Moskva,69,77,İY 32-36
+973,2020-12-02,18:00,BK Samara,Kupol Rodniki,88,72,İY 41-44
+974,2020-12-01,18:00,Petkim Spor,Gaziantep BB,67,66,İY 40-32
+975,2020-12-01,20:15,Büyükçekmece,Fenerbahçe,93,91,İY 47-49
+976,2020-12-01,20:15,Anadolu Efes Spor Kulübü,Pınar Karşıyaka Spor Kulübü,74,61,İY 38-23
+977,2020-12-01,22:45,Asvel,Panathinaikos BC Superfoods,97,73,İY 44-30
+978,2020-12-01,22:45,Olimpia Milano,ALBA Berlin,75,55,İY 42-22
+979,2020-12-01,19:00,Dynm Kursk (K),Nadezhda (K),74,77,İY 47-34
+980,2020-12-01,17:00,Fenerbahçe Spor Kulübü,USK Praha (K),77,70,İY 32-43
+981,2020-12-01,20:00,ASVEL Lyon (K),Gdynia (K),89,57,İY 48-36
+982,2020-12-01,19:00,UMMC (K),F. Schio (K),83,61,İY 40-24
+983,2020-12-01,22:00,TTT Rīga,UNI Girona (K),79,81,İY 41-40
+984,2020-12-01,20:00,Bourges (K),Sopron (K),60,70,İY 29-34
+985,2020-12-01,23:15,FC Barcelona Lassa Bàsquet,Valencia,90,100,İY 51-51
+986,2020-12-01,00:00,Duquesne Dukes,Trojans,66,76,İY 30-34
+987,2020-12-01,01:00,CSU Northridge,Redhawks,76,65,İY 39-28
+988,2020-12-01,01:00,Campbell,Knights,85,51,İY 38-18
+989,2020-12-01,01:30,Redhawks,Yellow Jackets,,,
+990,2020-12-01,02:00,Boston College,SJ Red Storm,93,97,İY 40-52
+991,2020-12-01,02:00,Mountaineers,Falcons,76,78,İY 36-34
+992,2020-12-01,02:00,Charlotte 49ers,Crusaders,,,
+993,2020-12-01,03:00,Musketeers,EK Colonels,99,96,İY 48-39
+994,2020-12-01,03:00,Rebels,North Carolina,51,78,İY 30-37
+995,2020-12-01,03:00,knights,Tigers,63,55,İY 30-21
+996,2020-12-01,03:00,Wolfpack,WM Tribe,,,
+997,2020-12-01,03:00,Hofstra Pride,Knights,73,58,İY 31-40
+998,2020-12-01,03:00,Eagles,Mocs,54,62,İY 25-24
+999,2020-12-01,03:00,Mercer Bears,G. Panthers,86,69,İY 42-37
+1000,2020-12-01,03:00,Stetson,E. Lions,61,64,İY 36-37
+1001,2020-12-01,03:30,Firestorm,Aggies,77,83,İY 30-35
+1002,2020-12-01,03:30,Cowboys,Warriors,,,
+1003,2020-12-01,04:00,Golden Gophers,Lions,67,64,İY 31-26
+1004,2020-12-01,04:00,Kansas State,Kangaroos,62,58,İY 33-23
+1005,2020-12-01,04:00,Mississippi,Bobcats,68,51,İY 26-24
+1006,2020-12-01,04:00,Mustangs,Islanders,91,54,İY 47-22
+1007,2020-12-01,04:00,Tigers,Lions,96,43,İY 50-18
+1008,2020-12-01,04:30,Golden Bears,Colonels,60,49,İY 23-18
+1009,2020-12-01,05:00,Seton Hall,Gaels,86,64,İY 35-37
+1010,2020-12-01,05:00,Cowboys,Tigers,74,76,İY 50-31
+1011,2020-12-01,05:05,W. Eagles,Orediggers,,,
+1012,2020-12-01,05:30,Crimson Tide,Cardinal,64,82,İY 29-41
+1013,2020-12-01,06:00,Wolf Pack,Pacific Tigers,70,58,İY 37-35
+1014,2020-12-01,19:30,Catamounts,Bonaventure,,,
+1015,2020-12-01,21:30,I. Hoosiers,Longhorns,44,66,İY 19-31
+1016,2020-12-01,22:30,Cougars,Trojans,53,79,İY 20-31
+1017,2020-12-01,23:00,Purdue,Grizzlies,93,50,İY 49-27
+1018,2020-12-01,23:00,Spartans,Panthers,,,
+1019,2020-12-01,19:00,BC Nevėžis Kėdainiai,BC Juventus Utena,70,87,İY 37-49
+1020,2020-12-01,22:00,Leyma Coruna,Breogan,60,68,İY 35-39
+1021,2020-12-01,20:00,BC Siauliai,Neptunas,79,65,İY 43-35
+1022,2020-12-01,03:30,Küba,Dominik,60,96,İY 29-41
+1023,2020-12-01,00:00,Porto Riko,Bahamalar,91,85,İY 41-47
+1024,2020-12-01,03:30,ABD,Meksika,94,78,İY 52-34
+1025,2020-11-30,18:30,Israel,Poland,78,72,İY 41-32
+1026,2020-11-30,21:30,Spain,Romania,94,41,İY 45-21
+1027,2020-11-30,17:00,Russia,Italy,66,70,İY 31-36
+1028,2020-11-30,17:00,İsviçre,Georgia,74,80,İY 39-46
+1029,2020-11-30,20:00,Serbia,Finland,75,66,İY 35-25
+1030,2020-11-30,19:10,Ukraine,Austria,70,67,İY 29-30
+1031,2020-11-30,16:00,Tayland,Filipinler,69,93,İY 34-53
+1032,2020-11-30,16:00,Suriye,İran,77,70,İY 40-42
+1033,2020-11-30,19:00,Katar,S. Arabistan,67,73,İY 37-37
+1034,2020-11-30,00:00,Eagles,Red Wolves,69,61,İY 23-21
+1035,2020-11-30,00:00,Rutgers,Hofstra Pride,70,56,İY 32-21
+1036,2020-11-30,00:00,Sun Devils,Huskies,100,77,İY 65-31
+1037,2020-11-30,00:00,Ohio State,River Hawks,74,64,İY 33-33
+1038,2020-11-30,00:30,Bluejays,Bison,69,58,İY 36-24
+1039,2020-11-30,01:00,Redhawks,Falcons,63,45,İY 27-25
+1040,2020-11-30,01:00,Jaguars,Gamecocks,73,77,İY 29-39
+1041,2020-11-30,01:00,Racers,Panthers,173,95,İY 87-41
+1042,2020-11-30,01:00,Kangaroos,Redhawks,66,71,İY 31-37
+1043,2020-11-30,01:30,Red Raiders,H. Cougars,53,64,İY 19-37
+1044,2020-11-30,01:30,Rhode Island,Dons,84,71,İY 38-28
+1045,2020-11-30,02:00,Louisville,Panthers,86,64,İY 41-31
+1046,2020-11-30,02:00,Hurricanes,North Florida,77,59,İY 42-34
+1047,2020-11-30,02:00,Huskies,Baylor Bears,52,86,İY 24-38
+1048,2020-11-30,02:00,Arizona,Miners,,,
+1049,2020-11-30,02:00,M. Wolverines,Grizzlies,81,71,İY 31-33
+1050,2020-11-30,02:00,Gold Hurricane,Gamecocks,58,69,İY 33-34
+1051,2020-11-30,02:30,Bulldogs,Panthers,,,
+1052,2020-11-30,03:00,JM Dukes,Radford,67,59,İY 34-25
+1053,2020-11-30,03:00,Santa Barbara,St. Katherine,92,55,İY 48-23
+1054,2020-11-30,03:00,Flashes,Mastadons,,,
+1055,2020-11-30,03:00,Bulldogs,UC Riverside,,,
+1056,2020-11-30,04:00,South Florida,Virginia Tech,58,76,İY 23-36
+1057,2020-11-30,11:30,Frogs,Liberty Flames,56,52,İY 27-26
+1058,2020-11-30,19:00,Catamounts,Lions,96,58,İY 43-39
+1059,2020-11-30,19:30,Bulls,Catamounts,,,
+1060,2020-11-30,20:00,Wildcats,Longhorns,76,78,İY 39-43
+1061,2020-11-30,22:30,Providence,I. Hoosiers,58,79,İY 24-37
+1062,2020-11-30,23:00,Gamecocks,Rams,85,66,İY 36-33
+1063,2020-11-30,16:00,Temp,Vostok 65,89,87,İY 33-37
+1064,2020-11-30,19:00,Burevestnik,Uralmash,78,94,İY 43-45
+1065,2020-11-30,00:30,US Virgin Ad,Dominik,75,89,İY 31-49
+1066,2020-11-30,00:00,ABD,Bahamalar,99,59,İY 53-29
+1067,2020-11-30,03:30,Porto Riko,Meksika,56,81,İY 32-35
+1068,2020-11-29,17:30,Danimarka,Czech Republic,91,90,İY 51-48
+1069,2020-11-29,20:30,Lithuania,Belgium,84,71,İY 49-36
+1070,2020-11-29,17:00,Netherlands,Turkey,71,73,İY 37-41
+1071,2020-11-29,20:00,Sweden,Croatia,72,87,İY 31-48
+1072,2020-11-29,22:10,Austria,Slovenia,64,77,İY 25-50
+1073,2020-11-29,17:00,France,Germany,86,74,İY 42-41
+1074,2020-11-29,20:00,Great Britain,Montenegro,74,59,İY 40-37
+1075,2020-11-29,20:00,Bulgaria,Greece,78,84,İY 41-31
+1076,2020-11-29,23:00,Bosnia-Herzegovina,Latvia,79,73,İY 40-28
+1077,2020-11-29,14:00,Akhisar Belediye,Ankara Anadolu,90,74,İY 47-31
+1078,2020-11-29,15:00,Mamak Belediyesi,Balıkesir BŞB,85,71,İY 44-37
+1079,2020-11-29,16:00,Ist. Basket,Final Spor,60,65,İY 27-39
+1080,2020-11-29,17:00,Düzce Bld.,Samsunspor,83,62,İY 44-25
+1081,2020-11-29,13:00,Irak,Lübnan,69,78,İY 40-36
+1082,2020-11-29,19:00,Hindistan,Bahreyn,72,88,İY 45-37
+1083,2020-11-29,12:00,Congo DR,Madagaskar,82,64,İY 36-33
+1084,2020-11-29,15:00,Tunus,Orta Afrika C.,80,63,İY 40-39
+1085,2020-11-29,18:00,Nijerya,Mali,91,68,İY 39-31
+1086,2020-11-29,21:00,Ruanda,South Sudan,55,67,İY 22-33
+1087,2020-11-29,18:30,Uganda,Y. Burun Ada,101,98,İY 52-43
+1088,2020-11-29,21:30,Fas,Mısır,76,99,İY 43-45
+1089,2020-11-29,00:00,Trailblazers,Weber State,,,
+1090,2020-11-29,00:00,UNC Asheville,Catamounts,81,83,İY 28-44
+1091,2020-11-29,00:00,Vaqueros,Roadrunners,81,64,İY 34-29
+1092,2020-11-29,00:00,Kennesaw State,Eagles,106,44,İY 53-22
+1093,2020-11-29,00:00,C. Carolina,Bishops,117,68,İY 58-35
+1094,2020-11-29,00:00,Eagles,Mariners,91,79,İY 46-39
+1095,2020-11-29,00:00,Idaho State,UC Davis,61,70,İY 30-25
+1096,2020-11-29,00:00,Cowboys,Delta Devils,97,61,İY 57-26
+1097,2020-11-29,00:00,Mavericks,Demons,80,71,İY 45-36
+1098,2020-11-29,00:00,Liberty Flames,Gamecocks,78,62,İY 43-26
+1099,2020-11-29,00:00,Saints,Delaware,,,
+1100,2020-11-29,00:00,Pheonix,High Point,76,75,İY 34-37
+1101,2020-11-29,01:00,Cardinals,Lipscomb,73,76,İY 30-30
+1102,2020-11-29,01:00,Falcons,CSU Northridge,66,61,İY 38-25
+1103,2020-11-29,01:30,South Florida,Rhode Island,68,84,İY 20-36
+1104,2020-11-29,02:00,Golden Gophers,Lions,88,73,İY 41-37
+1105,2020-11-29,02:00,Pacific Tigers,Bulldogs,,,
+1106,2020-11-29,02:00,Razorbacks,Mean Green,69,54,İY 38-27
+1107,2020-11-29,03:00,Flames,Chippewas,74,72,İY 43-31
+1108,2020-11-29,03:00,Radford,Spartans,54,57,İY 20-34
+1109,2020-11-29,03:00,Old Dominion,WM Tribe,86,78,İY 39-32
+1110,2020-11-29,03:00,Eagles,Titans,,,
+1111,2020-11-29,03:00,Seton Hall,Baylor Bears,,,
+1112,2020-11-29,03:00,Broncos,Colonels,73,57,İY 34-26
+1113,2020-11-29,03:00,Bison,Lions,,,
+1114,2020-11-29,03:00,Bobcats,Black Bears,,,
+1115,2020-11-29,03:00,Ragin Cajuns,Wolf Pack,,,
+1116,2020-11-29,03:00,Hilltoppers,Trojans,,,
+1117,2020-11-29,03:30,Frogs,Gold Hurricane,70,65,İY 36-30
+1118,2020-11-29,03:30,Cowboys,Tigers,85,65,İY 41-30
+1119,2020-11-29,04:00,Temple Owls,Virginia Tech,,,
+1120,2020-11-29,04:00,Antelopes,Redhawks,94,63,İY 51-34
+1121,2020-11-29,04:00,Racers,Panthers,,,
+1122,2020-11-29,04:00,M. Spartans,Fighting Irish,80,70,İY 39-26
+1123,2020-11-29,04:00,Villanova,Virginia Tech,73,81,İY 29-29
+1124,2020-11-29,04:00,Baylor Bears,Ragin Cajuns,112,82,İY 53-40
+1125,2020-11-29,04:00,Bears,Royals,,,
+1126,2020-11-29,04:00,Golden Eagles,Hillcats,93,63,İY 39-28
+1127,2020-11-29,04:30,Cougars,St. Louis College of Pharmacy Eutectic,80,45,İY 42-14
+1128,2020-11-29,05:00,Cougars,Wolverines,82,60,İY 38-24
+1129,2020-11-29,05:00,Huskies,CSU Fullerton,,,
+1130,2020-11-29,05:00,Trojans,M. Grizzlies,76,62,İY 44-25
+1131,2020-11-29,07:00,Cougars,W. Eagles,71,68,İY 33-39
+1132,2020-11-29,21:00,Wildcats,Richmond,64,76,İY 32-28
+1133,2020-11-29,21:00,Purple Eagles,Gannon,,,
+1134,2020-11-29,21:00,Iowa State,Golden Lions,80,63,İY 34-37
+1135,2020-11-29,22:00,Cardinals,Our Lady of the Lake,84,71,İY 40-28
+1136,2020-11-29,22:00,Bulldogs,Demons,91,77,İY 43-38
+1137,2020-11-29,22:00,Bearkats,Broncos,55,86,İY 27-42
+1138,2020-11-29,22:00,Tulane,Lipscomb,68,66,İY 33-34
+1139,2020-11-29,22:00,Maryland,Mountaineers,79,61,İY 41-32
+1140,2020-11-29,22:00,Pioneers,Stags,,,
+1141,2020-11-29,22:00,Bulldogs,Rattlers,85,75,İY 38-37
+1142,2020-11-29,23:00,Lions,Freed-Hardeman Lions,,,
+1143,2020-11-29,23:00,Pilots,NWU Eagles,74,69,İY 31-27
+1144,2020-11-29,23:00,Bulldogs,Bulldogs,76,78,İY 43-32
+1145,2020-11-29,23:00,Texas A&M,Privateers,82,53,İY 41-24
+1146,2020-11-29,22:00,Ironi Nahariya,M. Tel Aviv,81,98,İY 47-45
+1147,2020-11-29,20:00,Glasgow Rocks,Man Giants,83,73,İY 46-34
+1148,2020-11-29,18:00,Sharks,Eagles,79,90,İY 38-43
+1149,2020-11-29,20:00,Tamis,Dunav,89,85,İY 44-37
+1150,2020-11-29,20:00,Vrsac,KK Pirot,97,79,İY 49-37
+1151,2020-11-29,18:00,CSKA Moskva II,Runa,85,98,İY 38-54
+1152,2020-11-29,04:10,Arjantin,Kolombiya,75,67,İY 44-44
+1153,2020-11-29,01:10,Uruguay,Panama,74,67,İY 41-27
+1154,2020-11-28,18:30,Romania,Poland,61,91,İY 24-45
+1155,2020-11-28,21:30,Israel,Spain,95,87,İY 36-52
+1156,2020-11-28,21:30,Estonia,Russia,56,84,İY 27-41
+1157,2020-11-28,17:30,İsviçre,Serbia,92,90,İY 49-44
+1158,2020-11-28,20:30,Finland,Georgia,85,91,İY 40-44
+1159,2020-11-28,22:10,Slovenia,Ukraine,84,73,İY 50-28
+1160,2020-11-28,15:00,Semt77 Yalova,Manisa Bşb,81,62,İY 40-33
+1161,2020-11-28,16:00,Sigortam.net,Bornova Belediye Spor Kulübü,73,80,İY 37-45
+1162,2020-11-28,16:30,Gemlik Basketbol Kulübü,Kocaeli,76,97,İY 40-52
+1163,2020-11-28,14:00,Elazığ İl Özel İdare Basketbol,Çukurova (K),73,92,İY 39-57
+1164,2020-11-28,15:00,Orman G. (K),Botaş (K),60,64,İY 24-40
+1165,2020-11-28,16:00,Kayseri BB (K),Samsun Canik Belediye Spor Kulübü,107,54,İY 47-31
+1166,2020-11-28,17:00,Nesibe Aydın Spor Kulübü,Çankaya Üniversitesi Spor Kulübü,91,80,İY 51-42
+1167,2020-11-28,18:00,Belarus,Güney Kıbrıs,89,53,İY 48-18
+1168,2020-11-28,21:00,Albania,Portugal,70,88,İY 37-48
+1169,2020-11-28,18:00,Iceland,Kosovo,86,62,İY 45-29
+1170,2020-11-28,21:00,Lüksemburg,Slovakia,77,73,İY 31-30
+1171,2020-11-28,16:00,Tayland,Endonezya,76,90,İY 47-48
+1172,2020-11-28,16:00,İran,S. Arabistan,71,64,İY 38-33
+1173,2020-11-28,19:00,Katar,Suriye,59,61,İY 33-37
+1174,2020-11-28,12:00,Congo DR,Tunus,50,61,İY 26-35
+1175,2020-11-28,15:00,Madagaskar,Orta Afrika C.,79,95,İY 36-53
+1176,2020-11-28,18:00,South Sudan,Mali,77,64,İY 43-42
+1177,2020-11-28,21:00,Ruanda,Nijerya,62,83,İY 28-47
+1178,2020-11-28,18:30,Uganda,Fas,94,90,İY 40-38
+1179,2020-11-28,21:30,Y. Burun Ada,Mısır,82,91,İY 38-44
+1180,2020-11-28,00:00,Louisville,Seton Hall,71,70,İY 38-38
+1181,2020-11-28,00:00,Marshall Herd,Red Wolves,70,56,İY 29-22
+1182,2020-11-28,00:00,Peacocks,La Salle,62,51,İY 21-19
+1183,2020-11-28,00:00,Broncos,UC Davis,66,63,İY 36-35
+1184,2020-11-28,00:00,Roadrunners,Texas-Permian,97,71,İY 57-29
+1185,2020-11-28,00:00,Panthers,Aggies,71,82,İY 40-39
+1186,2020-11-28,00:00,G. Panthers,Eagles,105,60,İY 62-26
+1187,2020-11-28,00:30,Delaware,River Hawks,,,
+1188,2020-11-28,00:30,Bulls,Towson,74,65,İY 41-25
+1189,2020-11-28,01:00,Bears,Tigers,,,
+1190,2020-11-28,01:00,Queens Royals,Bison,85,71,İY 47-32
+1191,2020-11-28,01:00,Redhawks,N. Colorado,,,
+1192,2020-11-28,01:00,Arizona,Tigers,74,55,İY 39-23
+1193,2020-11-28,01:00,Iowa Hawkeyes,Jaguars,103,76,İY 58-35
+1194,2020-11-28,01:00,Kangaroos,Panthers,138,97,İY 65-46
+1195,2020-11-28,01:30,Wolfpack,North Florida,86,51,İY 42-28
+1196,2020-11-28,02:00,Mountaineers,Cougars,105,23,İY 56-12
+1197,2020-11-28,02:00,Richmond,Eagles,82,64,İY 47-40
+1198,2020-11-28,02:00,Firestorm,Aggies,,,
+1199,2020-11-28,02:30,Gaels,Jackrabbits,72,59,İY 38-24
+1200,2020-11-28,03:00,Gamecocks,Northwestern,,,
+1201,2020-11-28,03:00,Great Danes,Red Foxes,,,
+1202,2020-11-28,03:00,Aztecs,UC Irvine,77,58,İY 34-25
+1203,2020-11-28,03:00,Jaguars,Rams,95,75,İY 44-34
+1204,2020-11-28,03:00,Wake Forest,Lancers,71,60,İY 34-34
+1205,2020-11-28,03:00,Idaho State,Colonels,51,70,İY 15-35
+1206,2020-11-28,03:00,Cal Poly,Bethesda,100,46,İY 41-24
+1207,2020-11-28,03:00,Pilots,Vandals,,,
+1208,2020-11-28,03:00,Rutgers,Knights,96,75,İY 47-33
+1209,2020-11-28,03:00,Commodores,Valparaiso,77,71,İY 34-34
+1210,2020-11-28,03:00,Wildcats,Titans,,,
+1211,2020-11-28,03:00,Trojans,Spartans,70,77,İY 30-36
+1212,2020-11-28,03:30,Bulldogs,Mavericks,76,71,İY 38-28
+1213,2020-11-28,03:30,Golden Eagles,Panthers,75,50,İY 38-26
+1214,2020-11-28,04:00,Georgia Tech,Mercer Bears,73,83,İY 35-38
+1215,2020-11-28,04:00,Connecticut,Hartford Hawks,69,57,İY 38-26
+1216,2020-11-28,04:00,Bears,Crusaders,,,
+1217,2020-11-28,04:30,Kansas State,Buffaloes,58,76,İY 31-30
+1218,2020-11-28,05:00,Wisconsin,Golden Lions,92,58,İY 53-19
+1219,2020-11-28,05:00,Utes,Privateers,,,
+1220,2020-11-28,05:00,Memphis Tigers,VCU Rams,59,70,İY 29-33
+1221,2020-11-28,19:00,Mavericks,Wildcats,58,70,İY 28-28
+1222,2020-11-28,20:00,Queens Royals,Belmont Bruins,61,73,İY 29-37
+1223,2020-11-28,20:00,Falcons,Bulldogs,101,78,İY 45-43
+1224,2020-11-28,20:00,Nebraska,Bison,79,57,İY 43-36
+1225,2020-11-28,21:00,Cougars,Limestone,99,59,İY 46-21
+1226,2020-11-28,21:00,Seahawks,Trojans,73,50,İY 42-29
+1227,2020-11-28,21:00,Pittsburgh,Drexel Dragons,83,74,İY 46-34
+1228,2020-11-28,21:00,Penn State,V. Keydets,86,65,İY 37-35
+1229,2020-11-28,21:00,Redbirds,River Hawks,82,72,İY 42-30
+1230,2020-11-28,22:00,Owls,Rams,83,41,İY 44-17
+1231,2020-11-28,22:00,Flashes,Braves,,,
+1232,2020-11-28,22:00,Jacksonville,Southern Miss,66,51,İY 26-20
+1233,2020-11-28,22:00,Paladins,SC Spartans,91,63,İY 43-25
+1234,2020-11-28,22:00,Rice Owls,Our Lady of the Lake,103,64,İY 51-30
+1235,2020-11-28,22:00,Duke Blue,Eagles,81,71,İY 45-28
+1236,2020-11-28,22:00,Trine University Thunder,Broncos,,,
+1237,2020-11-28,22:00,Bears,Bowie,,,
+1238,2020-11-28,22:00,Terriers,Cougars,111,37,İY 59-10
+1239,2020-11-28,23:00,Blazers,Lions,84,59,İY 43-17
+1240,2020-11-28,23:00,Bison,George Mason,70,84,İY 33-41
+1241,2020-11-28,23:00,Pioneers,Rangers,82,66,İY 34-37
+1242,2020-11-28,23:00,Thunderbirds,St. Katherine,95,47,İY 45-26
+1243,2020-11-28,23:00,Pilots,William Jessup,83,73,İY 42-33
+1244,2020-11-28,23:00,Islanders,Bobcats,63,75,İY 33-35
+1245,2020-11-28,23:00,Mountaineers,Midshipmen,67,73,İY 31-32
+1246,2020-11-28,23:00,Saint Louis,Tigers,85,81,İY 38-28
+1247,2020-11-28,23:00,Redhawks,Panthers,,,
+1248,2020-11-28,23:00,Bulls,Army,74,78,İY 42-44
+1249,2020-11-28,23:00,Red Flash,Retrievers,65,80,İY 33-32
+1250,2020-11-28,21:00,Scorchers,Wolves,76,72,İY 28-34
+1251,2020-11-28,22:00,Corinthians,Cruzes,81,87,İY 37-34
+1252,2020-11-28,21:00,Sloga,Vojvodina,81,96,İY 48-42
+1253,2020-11-28,21:00,Napredak,OKK Beograd,91,88,İY 57-45
+1254,2020-11-28,20:00,KK Rogaska,Podcetrtek,79,84,İY 42-37
+1255,2020-11-28,21:30,Kapfenberg,Graz,62,65,İY 32-37
+1256,2020-11-28,18:00,Khimki Pod,MBA Moskva,71,75,İY 47-27
+1257,2020-11-28,03:10,Arjantin,Şili,67,61,İY 31-34
+1258,2020-11-28,22:10,Venezuela,Şili,86,77,İY 33-28
+1259,2020-11-28,00:10,Uruguay,Paraguay,97,77,İY 42-28
+1260,2020-11-28,19:10,Brezilya,Paraguay,73,50,İY 46-27
+1261,2020-11-27,17:30,Czech Republic,Belgium,62,90,İY 36-47
+1262,2020-11-27,20:30,Lithuania,Danimarka,76,80,İY 46-38
+1263,2020-11-27,16:00,Netherlands,Sweden,78,76,İY 38-42
+1264,2020-11-27,19:00,Croatia,Turkey,79,62,İY 45-24
+1265,2020-11-27,20:00,Great Britain,France,56,79,İY 20-46
+1266,2020-11-27,23:00,Germany,Montenegro,74,80,İY 39-38
+1267,2020-11-27,20:00,Greece,Latvia,66,77,İY 30-42
+1268,2020-11-27,23:00,Bosnia-Herzegovina,Bulgaria,88,49,İY 45-21
+1269,2020-11-27,20:45,Fenerbahçe,Valencia,86,90,İY 43-33
+1270,2020-11-27,22:00,Panathinaikos BC Superfoods,FC Bayern München,83,76,İY 44-35
+1271,2020-11-27,22:45,Asvel,FC Barcelona Lassa Bàsquet,80,68,İY 45-36
+1272,2020-11-27,18:00,Merkezefendi,Selçuklu Bld,69,86,İY 33-34
+1273,2020-11-27,16:00,Filipinler,Tayland,93,61,İY 53-29
+1274,2020-11-27,13:00,Hindistan,Lübnan,60,115,İY 32-55
+1275,2020-11-27,19:00,Irak,Bahreyn,92,95,İY 31-45
+1276,2020-11-27,12:00,Tunus,Madagaskar,89,52,İY 42-29
+1277,2020-11-27,15:00,Orta Afrika C.,Congo DR,51,55,İY 25-33
+1278,2020-11-27,18:00,Mozambik,Kenya,62,79,İY 36-33
+1279,2020-11-27,21:00,Senegal,Angola,66,51,İY 37-19
+1280,2020-11-27,18:30,Mısır,Uganda,96,77,İY 52-44
+1281,2020-11-27,21:30,Fas,Y. Burun Ada,73,80,İY 37-37
+1282,2020-11-27,00:00,Jaguars,Eagles,78,85,İY 38-36
+1283,2020-11-27,00:30,Saint Joseph's,Tigers,91,96,İY 36-44
+1284,2020-11-27,01:00,Bison,Belmont Bruins,78,95,İY 27-48
+1285,2020-11-27,01:00,Gaels,Panthers,66,64,İY 31-39
+1286,2020-11-27,02:00,Golden Bears,NWU Eagles,86,61,İY 41-21
+1287,2020-11-27,02:00,Mississippi,Liberty Flames,73,84,İY 41-40
+1288,2020-11-27,03:00,Rebels,Red Wolves,,,
+1289,2020-11-27,03:00,Rhode Island,Boston College,64,69,İY 31-30
+1290,2020-11-27,03:00,Tigers,Cougars,94,81,İY 49-34
+1291,2020-11-27,03:30,Jackrabbits,Aggies,83,59,İY 44-29
+1292,2020-11-27,04:00,Mean Green,Delta Devils,116,62,İY 51-27
+1293,2020-11-27,04:30,Clemson,Purdue,81,70,İY 36-28
+1294,2020-11-27,05:00,Cougars,Privateers,86,61,İY 41-27
+1295,2020-11-27,05:00,Sun Devils,Villanova,74,83,İY 32-41
+1296,2020-11-27,19:00,Tigers,Bulldogs,67,90,İY 35-49
+1297,2020-11-27,19:00,Buccaneers,Blue Raiders,57,43,İY 24-22
+1298,2020-11-27,19:30,Dons,Virginia Cavs,61,60,İY 21-24
+1299,2020-11-27,20:00,JM Dukes,Spartans,73,83,İY 38-35
+1300,2020-11-27,20:00,Musketeers,Rockets,76,73,İY 34-38
+1301,2020-11-27,21:00,Catamounts,Trojans,64,66,İY 26-26
+1302,2020-11-27,21:00,Illinois,Bobcats,77,75,İY 35-34
+1303,2020-11-27,21:00,Gamecocks,Owls,60,50,İY 24-20
+1304,2020-11-27,21:00,Beavers,NWU Eagles,114,42,İY 57-15
+1305,2020-11-27,21:00,Panthers,Aces,64,61,İY 32-34
+1306,2020-11-27,21:30,West Virginia,Hilltoppers,70,64,İY 33-36
+1307,2020-11-27,22:00,EK Colonels,Buccaneers,60,50,İY 38-21
+1308,2020-11-27,22:00,Red Raiders,Bearkats,84,52,İY 43-15
+1309,2020-11-27,22:00,Towson,Lumberjacks,,,
+1310,2020-11-27,22:00,Saint Joseph's,Kansas,72,94,İY 36-44
+1311,2020-11-27,22:00,Belmont Bruins,George Mason,77,67,İY 41-40
+1312,2020-11-27,22:00,Army,Blue Devils,79,57,İY 38-22
+1313,2020-11-27,22:00,Tulane,Cardinals,66,57,İY 21-30
+1314,2020-11-27,22:00,Governors,Wildcats,72,80,İY 26-43
+1315,2020-11-27,22:00,Cardinals,Rice Owls,53,68,İY 31-32
+1316,2020-11-27,22:00,Gold. Panthers,Saints,82,75,İY 29-29
+1317,2020-11-27,22:00,Bulldogs,Coyotes,69,53,İY 30-20
+1318,2020-11-27,23:00,Grizzlies,Braves,60,74,İY 28-43
+1319,2020-11-27,23:00,William Jessup,Redhawks,53,77,İY 23-37
+1320,2020-11-27,23:00,H. Cougars,Broncos,68,58,İY 34-19
+1321,2020-11-27,23:00,Maryland,Midshipmen,82,52,İY 32-25
+1322,2020-11-27,23:00,Syracuse,Bulldogs,85,84,İY 44-51
+1323,2020-11-27,23:00,Aggies,Cougars,74,44,İY 31-23
+1324,2020-11-27,23:00,Waves,Bruins,98,107,İY 39-32
+1325,2020-11-27,23:00,Charlotte 49ers,East Carolina,57,66,İY 32-32
+1326,2020-11-27,23:30,UNC Asheville,Seahawks,68,76,İY 35-31
+1327,2020-11-27,22:00,Wolves,Raiders,57,59,İY 37-32
+1328,2020-11-27,22:30,Man Giants,Glasgow Rocks,95,58,İY 50-31
+1329,2020-11-27,19:45,Kolin,Usti nad Labem,86,90,İY 51-56
+1330,2020-11-27,17:00,Uralmash,Vostok 65,84,72,İY 46-34
+1331,2020-11-27,21:10,Venezuela,Kolombiya,73,69,İY 30-34
+1332,2020-11-27,18:10,Brezilya,Panama,77,71,İY 40-35
+1333,2020-11-26,20:00,PBK CSKA Moskva,Real Madrid,74,73,İY 35-38
+1334,2020-11-26,21:00,KK Crvena Zvezda,Anadolu Efes Spor Kulübü,64,75,İY 36-40
+1335,2020-11-26,21:00,BC Žalgiris Kaunas,BK Zenit Saint Petersburg,75,83,İY 32-45
+1336,2020-11-26,22:00,ALBA Berlin,BC Khimki,100,80,İY 50-44
+1337,2020-11-26,22:00,Olympiacos BC,CD Saski Baskonia,76,90,İY 31-47
+1338,2020-11-26,22:05,M. Tel Aviv,Olimpia Milano,85,86,İY 35-46
+1339,2020-11-26,16:00,Adana BK,İzmit Belediye spor Kulübü,78,91,İY 29-38
+1340,2020-11-26,19:30,Belarus,Albania,90,50,İY 45-23
+1341,2020-11-26,22:30,Portugal,Güney Kıbrıs,74,56,İY 44-33
+1342,2020-11-26,18:00,Iceland,Lüksemburg,90,76,İY 34-38
+1343,2020-11-26,21:00,Slovakia,Kosovo,91,67,İY 42-29
+1344,2020-11-26,15:00,Kenya,Angola,66,83,İY 25-39
+1345,2020-11-26,18:00,Mozambik,Senegal,53,60,İY 20-32
+1346,2020-11-26,12:00,Nijerya,South Sudan,76,56,İY 46-29
+1347,2020-11-26,21:00,Mali,Ruanda,70,64,İY 38-36
+1348,2020-11-26,00:00,Catamounts,Seahawks,98,76,İY 44-40
+1349,2020-11-26,00:00,Mavericks,Cowboys,68,75,İY 27-32
+1350,2020-11-26,00:00,Kennesaw State,Cougars,87,40,İY 39-17
+1351,2020-11-26,00:00,Iowa Hawkeyes,Eagles,97,67,İY 44-29
+1352,2020-11-26,00:00,Wake Forest,Hornets,111,51,İY 59-30
+1353,2020-11-26,00:00,Kangaroos,Wildcats,105,35,İY 57-15
+1354,2020-11-26,00:00,Dons,River Hawks,68,76,İY 30-24
+1355,2020-11-26,00:00,Georgetown,Retrievers,70,62,İY 36-30
+1356,2020-11-26,00:00,Paladins,Tusculum,95,62,İY 50-30
+1357,2020-11-26,00:00,M. Wolverines,Falcons,96,82,İY 43-36
+1358,2020-11-26,00:00,Bobcats,Knights,84,66,İY 42-35
+1359,2020-11-26,00:00,Louisville,Aces,79,44,İY 36-16
+1360,2020-11-26,00:30,Panthers,Hilltoppers,87,93,İY 31-39
+1361,2020-11-26,00:30,Bulls,Gannon,,,
+1362,2020-11-26,01:00,Mavericks,Governors,66,72,İY 26-27
+1363,2020-11-26,01:00,Bulldogs,Columbus State,,,
+1364,2020-11-26,01:00,Redhawks,Vandals,,,
+1365,2020-11-26,01:00,Pacific Tigers,UC Riverside,66,60,İY 38-27
+1366,2020-11-26,01:00,Cardinal,Wolverines,,,
+1367,2020-11-26,01:00,Spartans,Red Hawks,,,
+1368,2020-11-26,01:00,Red Wolves,Tigers,,,
+1369,2020-11-26,01:30,North Florida,EK Colonels,67,80,İY 34-50
+1370,2020-11-26,01:30,Purdue,Liberty Flames,77,64,İY 39-32
+1371,2020-11-26,02:00,Marshall Herd,Eagles,,,
+1372,2020-11-26,02:00,Bulldogs,Broncos,66,62,İY 32-26
+1373,2020-11-26,02:00,Terriers,Eagles,88,49,İY 49-15
+1374,2020-11-26,02:00,Bulldogs,William Jessup,87,47,İY 48-17
+1375,2020-11-26,02:00,M. Spartans,Eagles,83,67,İY 43-27
+1376,2020-11-26,02:00,Norse,Cardinals,74,73,İY 44-41
+1377,2020-11-26,02:00,North Carolina,Cougars,79,60,İY 39-32
+1378,2020-11-26,02:00,Wildcats,Eagles,81,45,İY 45-26
+1379,2020-11-26,02:30,Gamecocks,Cobras,,,
+1380,2020-11-26,02:30,Lions,Ambassadors,98,74,İY 49-33
+1381,2020-11-26,02:30,Army,Mariners,93,32,İY 45-19
+1382,2020-11-26,02:30,Waves,UC Irvine,86,72,İY 41-36
+1383,2020-11-26,03:00,Red Raiders,Demons,101,58,İY 57-29
+1384,2020-11-26,03:00,CSU Northridge,Warriors,97,79,İY 59-31
+1385,2020-11-26,03:00,Ragin Cajuns,Gold Rush,,,
+1386,2020-11-26,03:00,Pheonix,Bishops,82,52,İY 40-23
+1387,2020-11-26,03:00,Florida Eagles,Rattlers,65,56,İY 32-28
+1388,2020-11-26,03:00,Bluejays,Jackrabbits,,,
+1389,2020-11-26,03:00,Bears,Red Wolves,,,
+1390,2020-11-26,03:00,Beavers,Golden Bears,71,63,İY 36-31
+1391,2020-11-26,03:00,Gold. Panthers,Saints,85,81,İY 37-33
+1392,2020-11-26,03:00,Cougars,Bobcats,61,84,İY 29-41
+1393,2020-11-26,03:00,Rhode Island,Sun Devils,88,94,İY 41-48
+1394,2020-11-26,03:00,V. Keydets,Knights,90,63,İY 54-28
+1395,2020-11-26,03:00,Jacksonville,Mariners,99,57,İY 53-27
+1396,2020-11-26,03:00,Miners,Texas-Permian,100,81,
+1397,2020-11-26,03:00,Golden Gophers,Phoenix,99,69,İY 53-22
+1398,2020-11-26,03:00,Wildcats,High Point,82,73,İY 31-29
+1399,2020-11-26,03:00,Hawks,Hofstra Pride,,,
+1400,2020-11-26,03:00,Broncos,Idaho State,62,49,İY 30-18
+1401,2020-11-26,03:00,Rutgers,Pioneers,86,63,İY 40-25
+1402,2020-11-26,03:00,Golden Bears,Rams,,,
+1403,2020-11-26,03:00,Jaguars,Owls,68,66,İY 38-27
+1404,2020-11-26,03:00,Bobcats,Mary Hardin-Baylor Crusaders,98,59,İY 44-23
+1405,2020-11-26,03:00,West Virginia,Jackrabbits,79,71,İY 0-0
+1406,2020-11-26,03:00,Pittsburgh,Red Flash,70,80,İY 33-46
+1407,2020-11-26,03:00,Mastadons,Lions,67,63,İY 37-27
+1408,2020-11-26,03:00,SJ Red Storm,Peacocks,76,75,İY 44-38
+1409,2020-11-26,03:00,Saint Louis,Cougars,89,52,İY 48-18
+1410,2020-11-26,03:00,NIU,Flames,61,65,İY 38-18
+1411,2020-11-26,03:00,Missouri,Golden Eagles,91,64,İY 42-32
+1412,2020-11-26,03:30,Razorbacks,Delta Devils,142,62,İY 61-30
+1413,2020-11-26,04:00,Crimson Tide,Gamecocks,81,57,İY 36-24
+1414,2020-11-26,04:00,Longhorns,Vaqueros,91,55,İY 45-29
+1415,2020-11-26,04:00,Frogs,Huskies,69,45,İY 38-16
+1416,2020-11-26,04:00,East Carolina,Sycamores,,,
+1417,2020-11-26,04:00,Tarleton State Texans,Crusaders,103,48,İY 53-28
+1418,2020-11-26,04:00,Racers,Bearcats,,,
+1419,2020-11-26,04:00,Lions,Thunderbirds,85,83,İY 41-42
+1420,2020-11-26,04:00,Mustangs,Bearkats,97,67,İY 42-27
+1421,2020-11-26,04:00,Pioneers,Cougars,,,
+1422,2020-11-26,04:00,Cougars,Griffins,108,59,İY 54-31
+1423,2020-11-26,04:00,I. Hoosiers,Eagles,89,59,İY 48-19
+1424,2020-11-26,04:00,Connecticut,Blue Devils,102,75,İY 48-41
+1425,2020-11-26,04:00,Lipscomb,Campbellsville,,,
+1426,2020-11-26,04:00,Wolfpack,Buccaneers,95,61,İY 43-31
+1427,2020-11-26,04:00,Buffaloes,Coyotes,84,61,İY 45-31
+1428,2020-11-26,04:00,Bulldogs,Red Hawks,,,
+1429,2020-11-26,04:00,Duke Blue,Gardner-Webb,,,
+1430,2020-11-26,04:00,Volunteers,Charlotte 49ers,,,
+1431,2020-11-26,04:30,Islanders,Dustdevils,64,53,İY 33-22
+1432,2020-11-26,04:30,Mississippi,Clemson,42,53,İY 19-26
+1433,2020-11-26,05:00,Weber State,Grizzlies,88,60,İY 36-20
+1434,2020-11-26,05:00,Georgia Tech,G. Panthers,120,123,İY 31-38
+1435,2020-11-26,05:00,Antelopes,Tigers,69,53,İY 34-23
+1436,2020-11-26,05:00,Cougars,Tigers,56,52,İY 28-31
+1437,2020-11-26,05:00,Sun Devils,Baylor Bears,,,
+1438,2020-11-26,05:00,Trojans,Lancers,95,87,İY 39-39
+1439,2020-11-26,05:00,Richmond,Titans,,,
+1440,2020-11-26,05:30,Aggies,Shockers,,,
+1441,2020-11-26,05:30,Aggies,VCU Rams,69,85,İY 41-38
+1442,2020-11-26,05:30,Rebels,M. Bobcats,78,91,İY 31-49
+1443,2020-11-26,05:30,Boston College,Villanova,67,76,İY 34-34
+1444,2020-11-26,06:00,Wisconsin,Panthers,77,67,İY 43-20
+1445,2020-11-26,06:00,Colonels,UC Davis,101,93,İY 44-48
+1446,2020-11-26,06:00,Golden Eagles,Golden Lions,99,57,İY 50-18
+1447,2020-11-26,06:05,S. Hornets,Bethesda,101,57,İY 54-27
+1448,2020-11-26,06:30,Aztecs,Bruins,73,58,İY 34-28
+1449,2020-11-26,07:00,Pilots,Redhawks,72,84,İY 39-31
+1450,2020-11-26,07:00,Huskies,Portland State,,,
+1451,2020-11-26,19:00,Rhode Island,Towson,,,
+1452,2020-11-26,19:00,Blue Raiders,Mavericks,59,60,İY 19-32
+1453,2020-11-26,20:00,Musketeers,Braves,51,50,İY 22-20
+1454,2020-11-26,20:00,Dons,Lumberjacks,,,
+1455,2020-11-26,20:00,Lancers,Hornets,,,
+1456,2020-11-26,20:00,Illinois,Cougars,97,38,İY 47-17
+1457,2020-11-26,20:00,Eagles,Tigers,,,
+1458,2020-11-26,20:00,Memphis Tigers,Hilltoppers,69,75,İY 35-34
+1459,2020-11-26,21:30,Bulldogs,Kansas,102,90,İY 54-46
+1460,2020-11-26,21:30,Lumberjacks,Bonaventure,,,
+1461,2020-11-26,22:00,SJ Red Storm,La Salle,82,65,İY 34-28
+1462,2020-11-26,22:00,Rebels,Tigers,,,
+1463,2020-11-26,22:00,Northeastern,George Mason,,,
+1464,2020-11-26,22:00,George Mason,Queens Royals,66,65,İY 33-32
+1465,2020-11-26,22:00,Nebraska,Wolf Pack,66,69,İY 29-35
+1466,2020-11-26,22:00,Governors,Buccaneers,67,66,İY 36-36
+1467,2020-11-26,22:30,West Virginia,VCU Rams,78,66,İY 42-33
+1468,2020-11-26,23:00,Grizzlies,Rockets,53,80,İY 20-43
+1469,2020-11-26,23:00,Aggies,Bobcats,72,84,İY 35-35
+1470,2020-11-26,23:30,Dons,Towson,79,68,İY 34-30
+1471,2020-11-26,02:00,Cerrado,Caxias,67,63,İY 35-30
+1472,2020-11-26,15:30,Novosibirsk,Temp,74,76,İY 43-35
+1473,2020-11-26,18:00,Khimki Pod,CSKA Moskva II,80,78,İY 37-42
+1474,2020-11-25,16:00,Ankara Anadolu,Samsunspor,76,70,İY 45-34
+1475,2020-11-25,18:00,Kocaeli,Ist. Basket,87,73,İY 41-31
+1476,2020-11-25,18:00,Balıkesir BŞB,Final Spor,71,68,İY 22-26
+1477,2020-11-25,15:00,Fenerbahçe Spor Kulübü,Beşiktaş (K),84,76,İY 45-38
+1478,2020-11-25,17:15,Galatasaray Spor Kulübü,Hatay Büyükşehir Belediye Spor Kulübü,85,61,İY 49-28
+1479,2020-11-25,18:00,Senegal,Kenya,92,54,İY 47-33
+1480,2020-11-25,21:00,Angola,Mozambik,87,58,İY 40-26
+1481,2020-11-25,03:00,Northwestern,Panthers,,,
+1482,2020-11-25,03:00,Fordham Rams,Gaels,,,
+1483,2020-11-25,17:00,Towson,River Hawks,,,
+1484,2020-11-25,19:00,Wildcats,Buccaneers,70,47,İY 34-24
+1485,2020-11-25,19:30,Lumberjacks,Rhode Island,,,
+1486,2020-11-25,19:30,South Florida,Florida College Falcons,94,84,İY 42-46
+1487,2020-11-25,20:00,Midshipmen,Colonials,78,71,İY 41-30
+1488,2020-11-25,20:00,Musketeers,Grizzlies,101,49,İY 53-12
+1489,2020-11-25,20:00,JM Dukes,Limestone,89,55,İY 48-29
+1490,2020-11-25,20:00,Bears,Mountaineers,55,62,İY 22-28
+1491,2020-11-25,20:00,Nebraska,Cowboys,102,55,İY 50-28
+1492,2020-11-25,20:00,Virginia Tech,Radford,77,62,İY 37-31
+1493,2020-11-25,21:00,Mercer Bears,North Georgia,79,48,İY 36-29
+1494,2020-11-25,21:00,Trojans,Panthers,71,66,İY 29-32
+1495,2020-11-25,21:00,New Hampshire,Keene State Owls,93,54,İY 42-31
+1496,2020-11-25,21:00,Redhawks,Hawks,81,67,İY 34-28
+1497,2020-11-25,21:00,Bulldogs,Stony Brook,,,
+1498,2020-11-25,21:00,Penn State,Drexel Dragons,,,
+1499,2020-11-25,21:00,Eagles,Florida National University,97,65,İY 45-31
+1500,2020-11-25,21:30,Virginia Cavs,Towson,89,54,İY 42-19
+1501,2020-11-25,22:00,Mocs,Bellarmine Knights,,,
+1502,2020-11-25,22:00,Kansas State,Bulldogs,70,80,İY 36-38
+1503,2020-11-25,22:00,Rebels,Bears,,,
+1504,2020-11-25,22:00,Maryland,Old Dominion,85,67,İY 42-29
+1505,2020-11-25,22:00,Providence,Stags,97,56,İY 41-29
+1506,2020-11-25,22:00,Blue Raiders,Zips,,,
+1507,2020-11-25,22:00,Illinois,Aggies,122,60,İY 58-19
+1508,2020-11-25,22:00,Ohio State,Redbirds,94,67,İY 42-25
+1509,2020-11-25,22:00,Gaels,Memphis Tigers,56,73,İY 26-43
+1510,2020-11-25,22:00,Trojans,MGS Knights,,,
+1511,2020-11-25,22:00,Mocs,Bearcats,99,63,İY 50-31
+1512,2020-11-25,22:00,Black Bears,Virginia Cavs,,,
+1513,2020-11-25,22:00,SC Spartans,Warriors,72,82,İY 30-39
+1514,2020-11-25,22:00,Bulldogs,Mountaineers,61,81,İY 20-47
+1515,2020-11-25,23:00,Braves,Rockets,61,59,İY 20-28
+1516,2020-11-25,23:00,Wolf Pack,Bison,62,48,İY 29-20
+1517,2020-11-25,23:00,H. Cougars,Cardinals,89,45,İY 35-15
+1518,2020-11-25,23:00,Bulldogs,Lions,89,64,İY 39-31
+1519,2020-11-25,23:30,Blazers,Braves,99,50,İY 50-27
+1520,2020-11-25,22:00,Breogan,Tizona,90,53,İY 44-26
+1521,2020-11-25,19:30,BC Nevėžis Kėdainiai,Pieno Pasvalys,57,79,İY 30-43
+1522,2020-11-25,19:00,Sloboda Uzice,Napredak,95,82,İY 46-43
+1523,2020-11-25,19:00,OKK Beograd,Novi Pazar,74,81,İY 31-36
+1524,2020-11-25,20:00,Vojvodina,Tamis,94,74,İY 41-27
+1525,2020-11-25,20:30,KK Pirot,Sloga,67,81,İY 31-35
+1526,2020-11-25,21:00,Dunav,KKK Radnicki,98,90,İY 52-46
+1527,2020-11-25,20:00,Decin,Ostrava,94,75,İY 46-34
+1528,2020-11-25,16:00,Burevestnik,Kupol Rodniki,67,106,İY 26-45
+1529,2020-11-24,02:00,Cruzes,Cerrado,81,75,İY 37-42
+1530,2020-11-24,19:00,Gorica,Hermes,113,67,İY 54-34
+1531,2020-11-24,20:00,Zlatibor,Kolubara LA,103,69,İY 45-35
+1532,2020-11-24,15:30,Novosibirsk,Uralmash,77,87,İY 41-43
+1533,2020-11-24,18:00,Kupol Rodniki,Burevestnik,84,75,İY 37-31
+1534,2020-11-23,21:30,CD Saski Baskonia,BK Zenit Saint Petersburg,70,77,İY 28-34
+1535,2020-11-23,22:00,M. Tel Aviv,Hapoel Haifa,81,75,İY 46-34
+1536,2020-11-23,23:00,Partizan,KK Crvena Zvezda,85,86,İY 40-50
+1537,2020-11-23,01:00,Flamengo,Pato Basquete,105,70,İY 55-43
+1538,2020-11-23,23:00,Brasilia,Corinthians,71,85,İY 31-44
+1539,2020-11-23,13:00,Winnus (K),Blueminx (K),73,82,İY 27-38
+1540,2020-11-23,21:00,KK Diadora Zadar,Osijek,73,90,İY 34-41
+1541,2020-11-23,13:00,Avtodor U21,CSKA U21,82,75,İY 29-28
+1542,2020-11-23,14:00,UNICS U21,Khimki U21,70,76,İY 39-38
+1543,2020-11-23,14:00,Lokomotiv U21,MBA Moskva Under 21,79,61,İY 41-25
+1544,2020-11-23,19:30,Nizhny U21,Parma,87,70,İY 39-44
+1545,2020-11-23,18:00,BC Novomoskovsk,SumDU,94,116,İY 44-53
+1546,2020-11-23,09:30,Otago Gold Rush,Harbour Breeze,47,58,İY 21-24
+1547,2020-11-22,15:15,Fenerbahçe,Bahçeşehir Koleji Spor Kulübü,70,56,İY 26-25
+1548,2020-11-22,17:30,Beşiktaş,TOFAŞ Spor Kulübü,94,85,İY 47-46
+1549,2020-11-22,16:00,Ankara Anadolu,Final Spor,75,65,İY 31-32
+1550,2020-11-22,16:00,Samsunspor,Ist. Basket,89,69,İY 46-31
+1551,2020-11-22,17:00,Kocaeli,Mamak Belediyesi,80,91,İY 28-43
+1552,2020-11-22,13:00,Beşiktaş (K),Nesibe Aydın Spor Kulübü,60,76,İY 30-39
+1553,2020-11-22,14:00,Çankaya Üniversitesi Spor Kulübü,Adana BK,75,59,İY 30-26
+1554,2020-11-22,14:30,Estudiantes,Unicaja Baloncesto Málaga,90,92,İY 51-42
+1555,2020-11-22,14:30,Gipuzkoa,Club Joventut de Badalona,68,99,İY 28-49
+1556,2020-11-22,18:00,Real Betis,CB RETAbet Bilbao Berri Basket,89,96,İY 37-42
+1557,2020-11-22,19:00,Valencia,Tenerife,89,95,İY 38-42
+1558,2020-11-22,20:30,Zaragoza,FC Barcelona Lassa Bàsquet,85,97,İY 42-41
+1559,2020-11-22,22:00,Real Madrid,Manresa,100,78,İY 47-40
+1560,2020-11-22,18:00,Olimpia Milano,Venezia,86,72,İY 44-39
+1561,2020-11-22,20:00,F. Bologna,Virtus Bologna,71,91,İY 41-47
+1562,2020-11-22,21:00,Trento,Varese,74,77,İY 36-34
+1563,2020-11-22,21:30,Enel Brindisi,Brescia,74,71,İY 38-36
+1564,2020-11-22,22:45,Pesaro,Reggio Emilia,84,63,İY 42-37
+1565,2020-11-22,20:50,Levallois,Nanterre,73,67,İY 39-42
+1566,2020-11-22,17:00,ALBA Berlin,Telekom Basket,97,74,İY 48-38
+1567,2020-11-22,17:00,Würzburg,Hamburg Towers,61,90,İY 31-46
+1568,2020-11-22,17:00,Medi Bayreuth,Mitteldeutsche,99,81,İY 48-43
+1569,2020-11-22,20:00,FC Bayern München,Riesen,93,70,İY 38-38
+1570,2020-11-22,22:30,Crailsheim,Brose Baskets,101,95,İY 58-54
+1571,2020-11-22,13:00,BC UNICS Kazan,BC Khimki,83,76,İY 41-34
+1572,2020-11-22,14:00,BC Enisey Krasnoyarsk,L. Kuban,79,106,İY 46-51
+1573,2020-11-22,15:30,Parma Basket,PBK CSKA Moskva,61,95,İY 31-50
+1574,2020-11-22,20:00,H. Tel Aviv,Maccabi Haifa,83,92,İY 36-48
+1575,2020-11-22,20:00,Hapoel Elyon,Hapoel Eilat,77,100,İY 35-48
+1576,2020-11-22,22:00,H. Jerusalem,Hapoel Holon,82,73,İY 41-38
+1577,2020-11-22,18:00,Iraklis,Peristeri,71,75,İY 33-33
+1578,2020-11-22,18:00,Kymis Lavrio,Ionikos,81,91,İY 43-51
+1579,2020-11-22,20:30,Panathinaikos BC Superfoods,C. Rodos,90,67,İY 44-30
+1580,2020-11-22,19:00,KK Budućnost VOLI,Cibona,87,68,İY 53-31
+1581,2020-11-22,21:00,Cedevita,Igokea,103,92,İY 47-45
+1582,2020-11-22,17:30,D. Gornicza,Slask Wroclaw,82,88,İY 33-37
+1583,2020-11-22,19:35,Spojnia,Starogard,71,60,İY 43-25
+1584,2020-11-22,18:00,BC Siauliai,BC Nevėžis Kėdainiai,87,85,İY 47-46
+1585,2020-11-22,18:20,BC Žalgiris Kaunas,Neptunas,81,59,İY 36-34
+1586,2020-11-22,20:00,Phoenix,Glasgow Rocks,73,86,İY 32-39
+1587,2020-11-22,17:30,Lions,Riders,98,89,İY 45-40
+1588,2020-11-22,02:00,Brasilia,Pinheiros/SKY,84,78,İY 40-33
+1589,2020-11-22,22:30,Caxias,Paulistano,62,86,İY 28-45
+1590,2020-11-22,19:00,Dubrava,Gorica,84,78,İY 43-39
+1591,2020-11-22,20:00,Puntamika,Osijek,97,92,İY 45-47
+1592,2020-11-22,14:00,Krka,Podcetrtek,84,75,İY 45-38
+1593,2020-11-22,19:30,Flyers Wels,BC Hallmann,72,90,İY 43-41
+1594,2020-11-22,19:30,Swans Gmunden,St. Pölten,77,74,İY 46-42
+1595,2020-11-22,19:00,Burevestnik,CSKA Moskva II,97,90,İY 45-42
+1596,2020-11-22,19:00,Vostok 65,MBA Moskva,64,61,İY 32-32
+1597,2020-11-22,21:30,Uniamérica / Itaipu / Smel / Foz Basquete,ADRM / Maringá,37,44,İY 19-21
+1598,2020-11-22,19:00,São José dos Pinhais / Guaxo,APVE Londrina Basketball,63,50,İY 28-19
+1599,2020-11-22,00:00,Uniamérica / Itaipu / Smel / Foz Basquete,APVE Londrina Basketball,66,35,İY 35-14
+1600,2020-11-22,02:30,São José dos Pinhais / Guaxo,ADRM / Maringá,49,54,İY 23-29
+1601,2020-11-22,09:30,Hsinchu Lioneers,Taoyuan Air Ape,96,87,İY 53-42
+1602,2020-11-22,18:00,Tartu (K),OSK (K),104,69,İY 53-35
+1603,2020-11-22,16:15,Fos Provence,Quimper,68,57,İY 35-33
+1604,2020-11-22,12:00,KEB Hana (K),KB Stars (K),64,81,İY 30-43
+1605,2020-11-22,20:00,Zamora,UDEA,73,70,İY 30-35
+1606,2020-11-22,15:30,Clarinos (K),P. Avenida (K),55,84,İY 24-42
+1607,2020-11-22,20:00,Ensino (K),Promete (K),48,56,İY 27-36
+1608,2020-11-22,20:15,Bembibre (K),Araski (K),52,54,İY 27-31
+1609,2020-11-22,17:30,Forli,Ferrara,79,68,İY 34-48
+1610,2020-11-22,20:00,Leonis Roma,Cuore Napoli,72,83,İY 38-39
+1611,2020-11-22,20:00,Rieti,Pistoia,71,67,İY 35-38
+1612,2020-11-22,19:00,P. Trapani,Derthona,57,85,İY 29-47
+1613,2020-11-22,20:00,Orlandina,Novipiù JB Monferrato,100,82,İY 49-41
+1614,2020-11-22,07:00,Sendai 89ers,Eagles,76,58,İY 33-30
+1615,2020-11-22,09:00,Earthfriends,P Yamagata,63,89,İY 28-45
+1616,2020-11-22,17:30,PKK 99 Pabianice,KS Kutno,93,88,İY 33-37
+1617,2020-11-22,14:00,Barreirense Dif Broker Basket II,Moscavide,57,75,İY 29-35
+1618,2020-11-22,13:45,Guiföes,Barcelos,73,60,İY 40-36
+1619,2020-11-22,14:00,Braga,GDB Leça / CARGOLANDIA,78,75,İY 32-43
+1620,2020-11-22,19:00,Ginásio Clube Olhanense,Sangalhos,81,76,İY 45-27
+1621,2020-11-22,14:00,Vagos (K),Essa (K),60,64,İY 31-29
+1622,2020-11-22,14:00,Esgueira (K),CLIP (K),61,53,İY 36-33
+1623,2020-11-22,15:00,BC MitsuBasket Lipetsk,Dynamo MGTU,71,80,İY 32-29
+1624,2020-11-22,20:30,BC Bars RSUE,Rusichi,88,77,İY 47-37
+1625,2020-11-22,13:00,Avtodor U21,CSKA U21,70,64,İY 34-32
+1626,2020-11-22,17:00,UNICS U21,Khimki U21,42,66,İY 25-24
+1627,2020-11-22,15:30,MBA Moskva (K),UMMC (K),57,94,İY 34-49
+1628,2020-11-22,14:00,Vinnytski Blyskavky,Odessa (K),80,72,İY 45-37
+1629,2020-11-22,13:00,KDPU,Dnipro II,90,76,İY 44-34
+1630,2020-11-22,17:30,Niko,Politekhnik,68,76,İY 31-52
+1631,2020-11-22,17:50,Gladiadores de Anzoátegui,Centauros de Portuguesa,72,64,İY 38-27
+1632,2020-11-22,21:05,Brillantes de Maracaibo,Supersónicos de Miranda,66,75,İY 29-30
+1633,2020-11-22,23:30,Guayana,Spartans Distrito Capital de Caracas,60,69,İY 22-32
+1634,2020-11-22,09:30,Harbour Breeze,Capital Swish,88,65,İY 38-38
+1635,2020-11-21,13:00,OGM Orman Spor Kulübü,Darüşşafaka Spor Kulübü,64,80,İY 36-47
+1636,2020-11-21,15:15,Pınar Karşıyaka Spor Kulübü,M.Y. Afyon Bld,96,82,İY 55-36
+1637,2020-11-21,17:30,Galatasaray,Türk Telekom Basketbol Kulübü,94,89,İY 52-29
+1638,2020-11-21,20:00,Fethiye Belediye Basketbol Kulübü,Petkim Spor,75,74,İY 43-34
+1639,2020-11-21,15:00,Manisa Bşb,Sigortam.net,85,71,İY 38-33
+1640,2020-11-21,16:00,Selçuklu Bld,Semt77 Yalova,90,83,İY 39-39
+1641,2020-11-21,19:00,Akhisar Belediye,Merkezefendi,85,68,İY 37-33
+1642,2020-11-21,13:00,Samsun Canik Belediye Spor Kulübü,Orman G. (K),62,117,İY 36-65
+1643,2020-11-21,15:00,Çukurova (K),Hatay Büyükşehir Belediye Spor Kulübü,86,67,İY 48-35
+1644,2020-11-21,15:15,İzmit Belediye spor Kulübü,Galatasaray Spor Kulübü,62,80,İY 35-41
+1645,2020-11-21,17:30,Fenerbahçe Spor Kulübü,Botaş (K),79,51,İY 38-27
+1646,2020-11-21,20:00,UCAM Murcia,Fuenlabrada,84,81,İY 37-42
+1647,2020-11-21,22:45,CB Herbalife Gran Canaria Claret,BC MoraBanc Andorra,62,79,İY 36-34
+1648,2020-11-21,22:45,Obradoiro,Burgos,63,78,İY 35-42
+1649,2020-11-21,22:30,AS Monaco,Limoges Cercle Saint-Pierre,86,59,İY 40-27
+1650,2020-11-21,20:00,Braunschweig,Rasta Vechta,96,78,İY 44-46
+1651,2020-11-21,20:00,Oldenburg,S. Frankfurt,86,69,İY 55-38
+1652,2020-11-21,22:30,Chemnitz 99,BG Göttingen,99,103,İY 47-47
+1653,2020-11-21,22:30,Giessen 46ers,Ratiopharm Ulm,81,106,İY 33-60
+1654,2020-11-21,20:00,H. Be'er Sheva,Ironi Nahariya,104,80,İY 48-33
+1655,2020-11-21,21:00,Rishon LeZion,Bnei Herzliya,93,85,İY 39-49
+1656,2020-11-21,18:00,Promitheas,PAOK,83,80,İY 43-36
+1657,2020-11-21,20:30,Charilaos Trikoupis,AEK,66,87,İY 37-56
+1658,2020-11-21,19:00,Split,KK Mornar,87,95,İY 50-49
+1659,2020-11-21,21:00,Primorska,Mega,69,71,İY 42-37
+1660,2020-11-21,20:00,Denain Voltair,Gravelines,100,107,İY 42-36
+1661,2020-11-21,19:35,Zielona Gora,Stal Ostrow,105,85,İY 60-53
+1662,2020-11-21,21:30,KK Anwil,Asseco Gdynia,86,78,İY 41-42
+1663,2020-11-21,18:00,BC CBet Prienai,Pieno Pasvalys,96,99,İY 47-42
+1664,2020-11-21,21:00,CB Ourense,Leyma Coruna,71,88,İY 35-46
+1665,2020-11-21,18:45,CB Granada,Girona,83,60,İY 40-33
+1666,2020-11-21,20:00,Almansa,Fundacion,93,99,İY 51-44
+1667,2020-11-21,22:00,Myrtia,Real Canoe NC,76,67,İY 38-30
+1668,2020-11-21,21:30,Bristol Flyers,Wolves,64,69,İY 32-37
+1669,2020-11-21,00:30,Bauru,Caxias,74,54,İY 39-24
+1670,2020-11-21,03:00,Flamengo,C Mourao,78,63,İY 32-25
+1671,2020-11-21,21:00,São Paulo Futebol Clube,Franca,90,96,İY 35-52
+1672,2020-11-21,23:30,Minas,Unifacisa,108,99,İY 59-49
+1673,2020-11-21,17:00,Hermes,Alkar Sinj,75,88,İY 36-42
+1674,2020-11-21,20:00,Skrljevo,GKK Sibenik,88,77,İY 45-32
+1675,2020-11-21,21:00,Zabok,Zadar,66,80,İY 22-41
+1676,2020-11-21,20:00,Zlatibor,Dunav,97,77,İY 46-34
+1677,2020-11-21,20:00,Vrsac,OKK Beograd,91,86,İY 52-45
+1678,2020-11-21,21:00,Tamis,KK Pirot,71,65,İY 46-42
+1679,2020-11-21,20:00,Sentjur,Hopsi Polzela,81,74,İY 35-35
+1680,2020-11-21,19:30,Usti nad Labem,Turi Svitavy,90,88,İY 36-47
+1681,2020-11-21,20:00,Kolin,Ostrava,74,72,İY 30-33
+1682,2020-11-21,20:45,Decin,Opava,68,77,İY 44-38
+1683,2020-11-21,19:30,Timberwolves,Traiskirchen,78,70,İY 45-40
+1684,2020-11-21,22:00,Oberwart,Dukes,70,67,İY 44-31
+1685,2020-11-21,15:15,Ufimets,BK Samara,71,98,İY 32-49
+1686,2020-11-21,15:00,Uralmash,Temp,70,85,İY 37-47
+1687,2020-11-21,19:30,MBA Moskva,Vostok 65,80,81,İY 37-35
+1688,2020-11-21,15:00,BC Kalev Cramo,TTÜ,113,59,İY 55-30
+1689,2020-11-21,18:00,Tallinna Kalev,Rapla KK,83,89,İY 48-42
+1690,2020-11-21,09:05,Townsville (K),B. Spirit (K),91,81,İY 40-47
+1691,2020-11-21,01:00,Santo Andre(K),Araraquara (K),55,52,İY 28-22
+1692,2020-11-21,21:00,Vera Cruz (K),Funvic (K),73,38,İY 30-16
+1693,2020-11-21,16:00,Champion (K),Cherno More (K,84,51,İY 52-22
+1694,2020-11-21,16:00,Ostrava (K),Slovanka (K),76,56,İY 38-25
+1695,2020-11-21,17:00,Horsens,Wolfpack,83,63,İY 35-35
+1696,2020-11-21,19:00,Amager,Svendborg,69,119,İY 32-50
+1697,2020-11-21,09:30,Taoyuan Air Ape,Formosa Dreamers,86,93,İY 38-53
+1698,2020-11-21,12:00,Fubon Braves,Hsinchu Lioneers,107,71,İY 50-37
+1699,2020-11-21,20:00,Ura,Vilpas Vikings,59,81,İY 30-47
+1700,2020-11-21,16:00,Kouvottaret (K,Helmi HBA (K),94,56,İY 52-26
+1701,2020-11-21,18:00,F. Alku (K),Espoo (K),69,95,İY 34-41
+1702,2020-11-21,22:00,Agustinos Eras,Gijon,66,67,İY 29-34
+1703,2020-11-21,20:30,Valladolid,Cantbasket 04,65,80,İY 32-42
+1704,2020-11-21,22:00,CAB Estepona,Malaga II,76,98,İY 37-49
+1705,2020-11-21,14:30,Barcelona II,Menorca,70,45,İY 29-21
+1706,2020-11-21,20:30,Pardinyas,Villarrobledo,67,74,İY 34-31
+1707,2020-11-21,20:30,L'Hospitalet,Tarragona,67,65,İY 36-28
+1708,2020-11-21,19:00,FEDESA Rosalia,Iraurgi SB (K),69,71,İY 34-37
+1709,2020-11-21,21:45,Ardoi (K),Ibaizabal (K),61,53,İY 34-28
+1710,2020-11-21,19:00,Real Canoe (K),Claret (K),65,57,İY 28-21
+1711,2020-11-21,19:00,CAB Estepona,Málaga (K),54,57,İY 31-18
+1712,2020-11-21,21:04,Boras,Nassjö,86,75,İY 48-37
+1713,2020-11-21,20:30,Vigarano (K),Costa (K),76,92,İY 37-40
+1714,2020-11-21,22:30,Martino II (K),S. Giorgio (K),65,71,İY 40-25
+1715,2020-11-21,11:00,Earthfriends,P Yamagata,71,79,İY 32-31
+1716,2020-11-21,15:00,MKKS Żak Koszalin,Arka AMW Gdynia II,90,78,İY 43-25
+1717,2020-11-21,18:00,Tarnovia Basket Tarnowo Podgórne,AZS Basket Nysa,86,80,İY 44-34
+1718,2020-11-21,20:00,E. Kotwica,Pogon Prudnik,76,71,İY 42-48
+1719,2020-11-21,20:00,BC Dziki Warszawa,Krosno,69,61,İY 34-31
+1720,2020-11-21,19:00,Gdynia (K),AZS Poznan (K),99,62,İY 52-38
+1721,2020-11-21,00:00,GRIB Escondnovoengenho,Clube dos Galitos / Clínica Dr. Semblano,35,56,İY 19-34
+1722,2020-11-21,14:00,Ovarense Basquetebol B,Académico,56,59,İY 19-33
+1723,2020-11-21,14:00,Queluz,Ginásio Clube Olhanense,54,58,İY 24-30
+1724,2020-11-21,13:45,Sanjoanense,Sampaense,77,79,İY 42-31
+1725,2020-11-21,14:00,Quinta (K),Vitoria (K),66,60,İY 25-33
+1726,2020-11-21,14:00,S. SKFU (K),Sparta&K II(K),67,69,İY 39-35
+1727,2020-11-21,14:00,Neftyanik (K),Petersburg (K),86,74,İY 52-37
+1728,2020-11-21,18:00,Shakhty (K),Energiya (K),71,64,İY 40-29
+1729,2020-11-21,18:30,Moskova II (K),Kursk II (K),84,81,İY 50-43
+1730,2020-11-21,19:00,UMB (K),Poprad (K),50,70,İY 27-31
+1731,2020-11-21,16:00,Vinnytski Blyskavky,Odessa (K),68,76,İY 37-42
+1732,2020-11-21,16:00,Niko,Politekhnik,58,91,İY 31-48
+1733,2020-11-21,18:00,KDPU,Dnipro II,101,85,İY 48-40
+1734,2020-11-21,17:50,Centauros de Portuguesa,Cangrejeros de Monagas,84,75,İY 43-35
+1735,2020-11-21,21:05,Broncos de Caracas,Brillantes de Maracaibo,66,54,İY 37-28
+1736,2020-11-21,09:30,Capital Swish,Canterbury Wildcats,55,42,İY 25-25
+1737,2020-11-20,22:00,ALBA Berlin,BK Zenit Saint Petersburg,66,73,İY 22-33
+1738,2020-11-20,22:45,Olimpia Milano,BC Žalgiris Kaunas,98,92,İY 52-40
+1739,2020-11-20,23:00,FC Barcelona Lassa Bàsquet,KK Crvena Zvezda,76,65,İY 39-22
+1740,2020-11-20,23:00,Real Madrid,Fenerbahçe,94,74,İY 49-36
+1741,2020-11-20,23:00,Valencia,M. Tel Aviv,82,80,İY 43-37
+1742,2020-11-20,20:45,Brescia,KK Budućnost VOLI,66,75,İY 40-31
+1743,2020-11-20,20:00,Virtus Bologna,Lietkabelis,82,73,İY 37-34
+1744,2020-11-20,19:30,Le Portel,Blois 41,90,92,İY 49-49
+1745,2020-11-20,22:05,Legia Warszawa,Gliwice,95,85,İY 39-40
+1746,2020-11-20,20:30,Melilla,Breogan,74,67,İY 37-31
+1747,2020-11-20,22:00,Palencia,Tizona,71,85,İY 44-48
+1748,2020-11-20,21:00,Scorchers,Raiders,73,84,İY 36-42
+1749,2020-11-20,21:00,Sharks,Riders,64,85,İY 31-45
+1750,2020-11-20,22:30,Eagles,Lions,79,99,İY 47-47
+1751,2020-11-20,00:30,Pinheiros/SKY,São Paulo Futebol Clube,73,100,İY 32-45
+1752,2020-11-20,03:00,Franca,Cruzes,94,82,İY 44-32
+1753,2020-11-20,22:00,Paulistano,Cerrado,72,61,İY 34-30
+1754,2020-11-20,20:00,KKK Radnicki,Vojvodina,77,63,İY 38-19
+1755,2020-11-20,18:00,BK Samara,Univ Yugra,20,0,
+1756,2020-11-20,20:00,RSK Tarvas,Parnu,72,76,İY 28-32
+1757,2020-11-20,19:30,Bakken Bears,Bakken II,92,80,İY 47-36
+1758,2020-11-20,20:00,Viimsi,Rae Koss/Hansaviimistlus,105,54,İY 50-29
+1759,2020-11-20,21:15,Paide Viking,Los Toros,85,71,İY 48-46
+1760,2020-11-20,10:45,Meralco Bolts,Ginebra SM,95,77,İY 42-50
+1761,2020-11-20,13:30,Phoenix,TNT Ka Tropa,110,103,İY 60-45
+1762,2020-11-20,19:30,Kouvot,Kauhajoki,78,83,İY 39-36
+1763,2020-11-20,19:30,Catz (K),T. Honka (K),59,87,İY 25-41
+1764,2020-11-20,21:04,Norrköping,Köping Stars,87,79,İY 47-38
+1765,2020-11-20,19:00,Kibirkstis (K),Neptūnas (K),52,68,İY 24-29
+1766,2020-11-20,20:00,Energa Czarni,Sokol Lancut,86,74,İY 47-38
+1767,2020-11-20,00:00,Vasco da Gama,Povoa,76,88,İY 32-40
+1768,2020-11-20,14:00,Zenit U21,MBA Moskva Under 21,62,54,İY 31-26
+1769,2020-11-20,14:00,Enisey (K),Novosibirsk(K),71,72,İY 35-45
+1770,2020-11-20,18:00,ZHBK Sparta(K),Spartak M. (K),106,39,İY 56-22
+1771,2020-11-20,17:50,Diablos de Miranda,La Guaira,75,87,İY 23-47
+1772,2020-11-20,21:05,Llaneros de Guárico BBC,Condores de Zulia,77,51,İY 41-23
+1773,2020-11-20,23:30,Spartans Distrito Capital de Caracas,Gladiadores de Anzoátegui,60,52,İY 28-31
+1774,2020-11-20,09:30,Canterbury Wildcats,Auckland Dream,51,66,İY 20-33
+1775,2020-11-19,20:00,BC Khimki,Anadolu Efes Spor Kulübü,77,105,İY 51-58
+1776,2020-11-19,22:30,FC Bayern München,PBK CSKA Moskva,81,89,İY 39-36
+1777,2020-11-19,22:30,CD Saski Baskonia,Panathinaikos BC Superfoods,93,72,İY 46-39
+1778,2020-11-19,14:30,Final Spor,Kocaeli,90,85,İY 48-37
+1779,2020-11-19,17:00,Samsunspor,Balıkesir BŞB,86,74,İY 40-44
+1780,2020-11-19,22:30,Partizan,Club Joventut de Badalona,78,75,İY 41-33
+1781,2020-11-19,22:45,Bourg Basket,BC UNICS Kazan,74,86,İY 37-37
+1782,2020-11-19,22:00,BC MoraBanc Andorra,Antwerp,82,69,İY 50-38
+1783,2020-11-19,21:00,Medi Bayreuth,Telekom Basket,83,77,İY 38-46
+1784,2020-11-19,21:00,Brose Baskets,Chemnitz 99,93,86,İY 44-47
+1785,2020-11-19,20:25,Hapoel Haifa,Hapoel Eilat,84,97,İY 33-41
+1786,2020-11-19,22:15,H. Jerusalem,Maccabi Haifa,111,77,İY 64-34
+1787,2020-11-19,20:00,Borac Cacak,Krka,86,90,İY 41-50
+1788,2020-11-19,19:35,KS ROSA Radom,Wilki Morskie,83,73,İY 32-38
+1789,2020-11-19,21:30,Starogard,D. Gornicza,91,99,İY 46-53
+1790,2020-11-19,22:00,Man Giants,Phoenix,106,64,İY 57-23
+1791,2020-11-19,01:00,Comunicaciones,La Union,81,91,İY 36-42
+1792,2020-11-19,03:30,Obera,Quimsa,62,78,İY 30-38
+1793,2020-11-19,00:30,Cerrado,Bauru,81,83,İY 29-46
+1794,2020-11-19,03:00,Paulistano,Corinthians,75,74,İY 41-33
+1795,2020-11-19,19:30,Pato Basquete,Unifacisa,85,76,İY 30-42
+1796,2020-11-19,22:00,Cearense,Minas,67,82,İY 27-46
+1797,2020-11-19,19:00,Osijek,Gorica,86,106,İY 47-59
+1798,2020-11-19,22:00,Split,Cibona,96,85,İY 55-38
+1799,2020-11-19,19:00,Turi Svitavy,Decin,78,69,İY 42-44
+1800,2020-11-19,20:00,Usti nad Labem,Brno,79,89,İY 46-44
+1801,2020-11-19,21:30,St. Pölten,Flyers Wels,81,82,İY 38-47
+1802,2020-11-19,21:00,KK TFT,Beroe,80,75,İY 40-38
+1803,2020-11-19,11:05,D. Rangers (K),Townsville (K),101,89,İY 52-45
+1804,2020-11-19,01:00,FR/Semelp Pindamonhangaba Under 19,Sao Jose U19,83,85,İY 48-36
+1805,2020-11-19,19:00,BC Kadrina Karud,Keila KK,105,84,İY 50-44
+1806,2020-11-19,20:00,T. Kalev II,Maaülikooli,85,78,İY 37-35
+1807,2020-11-19,20:30,Tartu II,TSKK / Nord,78,59,İY 40-29
+1808,2020-11-19,13:00,Ulsan,Incheon ET,79,64,İY 31-38
+1809,2020-11-19,13:00,Dongu Promy,KT Sonicboom,81,88,İY 44-46
+1810,2020-11-19,21:00,Promete (K),UNI Girona (K),70,96,İY 37-43
+1811,2020-11-19,21:00,P. Avenida (K),Stadium (K),92,73,İY 34-43
+1812,2020-11-19,22:00,Zamarat (K),Clarinos (K),99,84,İY 45-39
+1813,2020-11-19,23:00,Estudiantes(K),Islas Can. (K),71,68,İY 31-28
+1814,2020-11-19,22:30,Alcobendas (K),Leganes,72,75,İY 37-38
+1815,2020-11-19,19:00,Vilkaviskio Perlas,Z. Kaunas II,77,80,İY 35-38
+1816,2020-11-19,23:30,Illiabum Clube,Sangalhos,94,65,İY 43-25
+1817,2020-11-19,17:00,BC Chelbasket,Neftekhimik,85,81,İY 45-33
+1818,2020-11-19,17:00,BC MitsuBasket Lipetsk,Dynamo Stavro,72,79,İY 34-31
+1819,2020-11-19,13:00,Avtodor U21,Enisey U21,83,76,İY 45-46
+1820,2020-11-19,14:00,UNICS U21,Parma,62,74,İY 37-36
+1821,2020-11-19,14:00,Lokomotiv U21,BC Runa Under 21,82,44,İY 31-25
+1822,2020-11-19,19:30,Nizhny U21,Khimki U21,85,80,İY 37-37
+1823,2020-11-19,14:00,Nadezhda II(K),Dynamo II (K),67,49,İY 30-25
+1824,2020-11-19,17:50,Brillantes de Maracaibo,Centauros de Portuguesa,53,59,İY 28-27
+1825,2020-11-19,21:05,Supersónicos de Miranda,Llaneros de Guárico BBC,71,64,İY 27-30
+1826,2020-11-19,23:30,Margarita,Broncos de Caracas,73,71,İY 34-39
+1827,2020-11-19,15:00,L. Warriors,Hanoi Buffaloes,60,73,İY 24-39
+1828,2020-11-18,20:30,Real Madrid,M. Tel Aviv,79,63,İY 45-32
+1829,2020-11-18,22:00,ALBA Berlin,Asvel,76,75,İY 36-43
+1830,2020-11-18,22:45,Olimpia Milano,KK Crvena Zvezda,79,87,İY 44-48
+1831,2020-11-18,18:00,Akhisar Belediye,Mamak Belediyesi,86,72,İY 49-39
+1832,2020-11-18,16:00,Hatay Büyükşehir Belediye Spor Kulübü,Samsun Canik Belediye Spor Kulübü,121,70,İY 66-34
+1833,2020-11-18,22:00,Bakken Bears,Dinamo Sassari,84,91,İY 43-49
+1834,2020-11-18,20:00,TOFAŞ Spor Kulübü,Dijon,81,87,İY 28-28
+1835,2020-11-18,20:30,CEZ Nymburk,K. Strovolou,96,69,İY 59-38
+1836,2020-11-18,20:30,Burgos,Enel Brindisi,93,71,İY 49-45
+1837,2020-11-18,21:00,KK Budućnost VOLI,Unicaja Baloncesto Málaga,66,90,İY 37-45
+1838,2020-11-18,22:30,Brescia,KK Mornar,77,75,İY 41-38
+1839,2020-11-18,19:30,L. Kuban,Lietkabelis,94,90,İY 52-38
+1840,2020-11-18,22:00,Trento,Nanterre,102,104,İY 37-37
+1841,2020-11-18,23:00,CB Herbalife Gran Canaria Claret,Cedevita,90,82,İY 41-40
+1842,2020-11-18,20:00,Uni Treviso,Cantu,89,82,İY 44-44
+1843,2020-11-18,19:55,Hapoel Elyon,H. Be'er Sheva,86,73,İY 45-39
+1844,2020-11-18,16:00,PAOK,Kymis Lavrio,83,65,İY 41-40
+1845,2020-11-18,21:00,Iraklis,C. Rodos,66,65,İY 42-29
+1846,2020-11-18,21:30,Astoria,Zielona Gora,87,101,İY 46-55
+1847,2020-11-18,22:30,Raiders,Bristol Flyers,65,78,İY 31-34
+1848,2020-11-18,01:00,Quimsa,I. Atletico Central Cordoba,90,97,İY 48-41
+1849,2020-11-18,03:30,Libertad,Comunicaciones,93,79,İY 46-31
+1850,2020-11-18,17:00,Penarol,Bahia,78,83,İY 46-38
+1851,2020-11-18,17:00,Regatas,Olimpico,77,64,İY 35-31
+1852,2020-11-18,20:00,Corrientes,Atenas,93,78,İY 44-35
+1853,2020-11-18,22:30,I. Atletico Central Cordoba,Libertad,96,81,İY 46-37
+1854,2020-11-18,02:00,Cruzes,São Paulo Futebol Clube,75,112,İY 34-45
+1855,2020-11-18,22:00,Caxias,Brasilia,84,69,İY 43-31
+1856,2020-11-18,21:00,Zabok,Dubrava,92,82,İY 45-40
+1857,2020-11-18,19:45,Kolin,Olomoucko,98,85,İY 49-38
+1858,2020-11-18,20:00,Kralovsti Soko,Pardubice,75,73,İY 44-36
+1859,2020-11-18,14:00,Khimki Pod,BK Samara,71,93,İY 39-45
+1860,2020-11-18,18:00,CSKA Moskva II,Ufimets,104,107,İY 40-56
+1861,2020-11-18,18:00,Kupol Rodniki,Temp,99,77,İY 48-47
+1862,2020-11-18,19:00,MBA Moskva,Uralmash,100,104,İY 46-54
+1863,2020-11-18,20:00,Tartu,RSK Tarvas,72,93,İY 42-62
+1864,2020-11-18,20:30,TTÜ,BC Kalev Cramo,67,81,İY 31-44
+1865,2020-11-18,18:00,Impuls,Rubon,65,60,İY 43-35
+1866,2020-11-18,01:00,Paulistano U19,FR/Semelp Pindamonhangaba Under 19,86,54,İY 39-29
+1867,2020-11-18,10:45,TNT Ka Tropa,Phoenix,95,92,İY 36-37
+1868,2020-11-18,13:30,Ginebra SM,Meralco Bolts,96,79,İY 48-36
+1869,2020-11-18,19:30,KTP,Lahti,85,91,İY 42-33
+1870,2020-11-18,13:00,Seoul Thunders,Seoul Knights,84,65,İY 42-30
+1871,2020-11-18,21:15,Basquet Maresme Boet Mataro,Segle XXI (K),66,62,İY 27-31
+1872,2020-11-18,18:30,Kibirkstis (K),Kibirkstis (K),28,91,İY 21-51
+1873,2020-11-18,20:00,KK Gostivar,KK Crn Drim Struga,109,95,İY 51-42
+1874,2020-11-18,21:00,Rycerze Rydzyna,Tarnovia Basket Tarnowo Podgórne,99,85,İY 44-40
+1875,2020-11-18,20:15,Uni.Gdański(K),MPKK Sokołów S.A. Sokołów Podlaski,68,57,İY 36-24
+1876,2020-11-18,20:00,E. Kotwica,Sokol Lancut,82,69,İY 48-36
+1877,2020-11-18,20:00,BC Dziki Warszawa,Tychy,64,82,İY 32-52
+1878,2020-11-18,23:45,Sanjoanense,Ginasio,100,76,İY 43-42
+1879,2020-11-18,13:00,Avtodor U21,Enisey U21,75,46,İY 37-28
+1880,2020-11-18,14:00,UNICS U21,Parma,69,64,İY 44-25
+1881,2020-11-18,19:30,Nizhny U21,Khimki U21,101,102,İY 33-43
+1882,2020-11-18,17:50,Cangrejeros de Monagas,Spartans Distrito Capital de Caracas,63,75,İY 28-36
+1883,2020-11-18,21:05,Condores de Zulia,Diablos de Miranda,65,67,İY 33-24
+1884,2020-11-18,23:30,Gladiadores de Anzoátegui,Guayana,60,72,İY 31-31
+1885,2020-11-17,20:00,BK Zenit Saint Petersburg,BC Khimki,83,88,İY 47-44
+1886,2020-11-17,20:30,Anadolu Efes Spor Kulübü,FC Bayern München,71,74,İY 37-42
+1887,2020-11-17,21:00,BC Žalgiris Kaunas,PBK CSKA Moskva,78,87,İY 38-45
+1888,2020-11-17,22:30,CD Saski Baskonia,Fenerbahçe,86,68,İY 45-36
+1889,2020-11-17,23:00,Valencia,Panathinaikos BC Superfoods,95,83,İY 45-41
+1890,2020-11-17,22:00,Tenerife,Galatasaray,85,72,İY 45-25
+1891,2020-11-17,20:30,Hapoel Holon,BC Tsmoki-Minsk,69,79,İY 32-47
+1892,2020-11-17,20:30,AEK,Cholet Basket,83,81,İY 43-37
+1893,2020-11-17,22:30,Partizan,BC UNICS Kazan,89,86,İY 40-39
+1894,2020-11-17,22:45,Club Joventut de Badalona,Bahçeşehir Koleji Spor Kulübü,77,87,İY 41-48
+1895,2020-11-17,22:00,Levallois,Ratiopharm Ulm,72,65,İY 32-39
+1896,2020-11-17,22:00,Antwerp,AS Monaco,67,75,İY 32-44
+1897,2020-11-17,21:00,Chalons-Reims,Besançon,104,67,İY 47-28
+1898,2020-11-17,22:00,Chorale Roanne,Vichy Clermont,93,70,İY 46-41
+1899,2020-11-17,20:00,Polski Torun,Spojnia,108,95,İY 55-50
+1900,2020-11-17,22:00,Real Canoe NC,Penas Huesca,75,84,İY 41-45
+1901,2020-11-17,22:00,Eagles,Sharks,97,87,İY 47-29
+1902,2020-11-17,17:00,La Union,Corrientes,51,70,İY 28-32
+1903,2020-11-17,20:00,Atenas,Regatas,62,98,İY 28-47
+1904,2020-11-17,22:30,Olimpico,Obera,85,63,İY 42-28
+1905,2020-11-17,00:30,Bauru,Brasilia,93,70,İY 48-27
+1906,2020-11-17,03:00,Corinthians,Pinheiros/SKY,76,74,İY 49-42
+1907,2020-11-17,21:00,C Mourao,Pato Basquete,78,82,İY 43-40
+1908,2020-11-17,23:30,Unifacisa,Cearense,69,67,İY 40-29
+1909,2020-11-17,21:00,Puntamika,Zadar,78,73,İY 45-35
+1910,2020-11-17,21:00,KK Rogaska,Triglav,93,75,İY 47-36
+1911,2020-11-17,19:00,Brno,USK Praha,89,85,İY 43-38
+1912,2020-11-17,19:00,Burevestnik,Novosibirsk,96,76,İY 39-47
+1913,2020-11-17,01:00,Paulistano U19,Sao Jose U19,79,69,İY 31-29
+1914,2020-11-17,13:00,LG Sakers,Jeonju KCC,73,68,İY 34-37
+1915,2020-11-17,20:00,Ibaizabal (K),Celta (K),59,66,İY 30-27
+1916,2020-11-17,21:04,Fryshuset,Norrköping,67,79,İY 22-42
+1917,2020-11-17,21:00,KK TFT,Kozuv,83,62,İY 55-34
+1918,2020-11-17,22:00,Lider Swarzędz,Tecza Leszno,78,86,İY 46-40
+1919,2020-11-17,17:50,Diablos de Miranda,Supersónicos de Miranda,69,86,İY 34-47
+1920,2020-11-17,21:05,La Guaira,Condores de Zulia,73,67,İY 33-37
+1921,2020-11-17,23:30,Spartans Distrito Capital de Caracas,Brillantes de Maracaibo,70,59,İY 34-26
+1922,2020-11-16,20:00,Hapoel Haifa,Ironi N. Ziona,106,91,İY 51-48
+1923,2020-11-16,22:00,H. Tel Aviv,H. Jerusalem,76,88,İY 30-37
+1924,2020-11-16,19:35,D. Gornicza,Trefl Sopot,72,81,İY 31-39
+1925,2020-11-16,21:00,Zielona Gora,KS ROSA Radom,111,80,İY 53-39
+1926,2020-11-16,22:00,Cerrado,Franca,79,86,İY 43-39
+1927,2020-11-16,22:00,Podcetrtek,KK Sencur,70,88,İY 34-54
+1928,2020-11-16,19:00,Olomoucko,Turi Svitavy,86,96,İY 43-54
+1929,2020-11-16,19:45,Kolin,Kralovsti Soko,95,93,İY 51-58
+1930,2020-11-16,20:00,Decin,Usti nad Labem,88,87,İY 47-48
+1931,2020-11-16,20:00,Opava,Pardubice,85,69,İY 49-39
+1932,2020-11-16,14:10,BK Irkut,Vostok 65,70,93,İY 37-47
+1933,2020-11-16,20:30,BC Elva/CHK,Keila (K),60,65,İY 30-31
+1934,2020-11-16,13:00,Incheon ET,Goyang Orions,63,68,İY 30-27
+1935,2020-11-16,21:34,Jamtland,Södertalje,112,71,İY 61-31
+1936,2020-11-16,15:15,DYSUSSH,Niko,42,83,İY 15-31
+1937,2020-11-16,17:50,Guayana,Cangrejeros de Monagas,77,71,İY 41-38
+1938,2020-11-16,21:05,Llaneros de Guárico BBC,Broncos de Caracas,60,65,İY 23-30
+1939,2020-11-16,23:30,Centauros de Portuguesa,Margarita,60,59,İY 39-25
+1940,2020-11-15,13:00,Petkim Spor,Beşiktaş,82,72,İY 42-38
+1941,2020-11-15,20:00,Anadolu Efes Spor Kulübü,M.Y. Afyon Bld,86,67,İY 41-36
+1942,2020-11-15,17:00,Sigortam.net,Selçuklu Bld,80,91,İY 39-48
+1943,2020-11-15,17:30,Danimarka (K),Romanya (K),91,74,İY 37-44
+1944,2020-11-15,20:45,Çekya (K),İtalya K,63,69,İY 32-35
+1945,2020-11-15,00:00,Finlandiya K,Portekiz K,70,62,İY 30-30
+1946,2020-11-15,14:30,CD Saski Baskonia,Obradoiro,80,74,İY 34-36
+1947,2020-11-15,14:30,Unicaja Baloncesto Málaga,Gipuzkoa,104,69,İY 51-41
+1948,2020-11-15,19:00,Burgos,Estudiantes,91,71,İY 38-38
+1949,2020-11-15,20:30,Tenerife,CB Herbalife Gran Canaria Claret,99,80,İY 43-30
+1950,2020-11-15,22:00,CB RETAbet Bilbao Berri Basket,UCAM Murcia,63,73,İY 32-30
+1951,2020-11-15,14:00,Dinamo Sassari,Enel Brindisi,87,100,İY 46-56
+1952,2020-11-15,20:00,Cantu,Olimpia Milano,71,89,İY 44-43
+1953,2020-11-15,22:45,Brescia,Trento,73,80,İY 37-35
+1954,2020-11-15,17:00,S. Frankfurt,FC Bayern München,52,75,İY 34-28
+1955,2020-11-15,17:00,Telekom Basket,Riesen,82,86,İY 34-46
+1956,2020-11-15,20:00,Oldenburg,ALBA Berlin,86,89,İY 38-55
+1957,2020-11-15,16:00,BC Avtodor Saratov,L. Kuban,89,85,İY 38-40
+1958,2020-11-15,20:20,Hapoel Eilat,Rishon LeZion,86,84,İY 51-38
+1959,2020-11-15,20:30,Bnei Herzliya,M. Tel Aviv,86,92,İY 34-43
+1960,2020-11-15,18:00,Peristeri,Charilaos Trikoupis,84,72,İY 49-35
+1961,2020-11-15,15:00,Mega,Krka,71,70,İY 36-31
+1962,2020-11-15,19:00,Cedevita,Borac Cacak,97,88,İY 49-39
+1963,2020-11-15,21:00,KK Crvena Zvezda,Split,78,76,İY 38-42
+1964,2020-11-15,19:35,Slask Wroclaw,Legia Warszawa,73,68,İY 29-33
+1965,2020-11-15,18:20,BC Žalgiris Kaunas,BC CBet Prienai,103,100,İY 51-50
+1966,2020-11-15,14:30,Valladolid,Caceres,73,67,İY 29-34
+1967,2020-11-15,21:00,Leyma Coruna,Melilla,93,71,İY 43-39
+1968,2020-11-15,14:00,Bahia San Agustin,Amics Castello,73,79,İY 26-44
+1969,2020-11-15,14:30,Lleida,Myrtia,78,55,İY 38-28
+1970,2020-11-15,18:00,Raiders,Wolves,96,60,İY 41-26
+1971,2020-11-15,20:00,Glasgow Rocks,Phoenix,93,63,İY 43-32
+1972,2020-11-15,20:00,Riders,Lions,97,76,İY 53-31
+1973,2020-11-15,07:05,Niigata Abirex,Levanga,76,82,İY 34-44
+1974,2020-11-15,07:35,H. Dragonflies,Tochigi Brex,71,85,İY 35-43
+1975,2020-11-15,08:05,Shiga L-Stars,Kyoto Hannaryz,82,79,İY 34-30
+1976,2020-11-15,08:05,Ryukyu,Shinshu BW,80,71,İY 36-32
+1977,2020-11-15,08:05,Sun Rockers,Dolphins,54,78,İY 25-37
+1978,2020-11-15,08:05,Yokohama BC,SeaHorses,84,88,İY 43-40
+1979,2020-11-15,09:05,Chiba Jets,Akita NH,102,58,İY 53-27
+1980,2020-11-15,09:05,Toyota Alvark,NeoPhoenix,88,65,İY 45-30
+1981,2020-11-15,10:05,Osaka Evessa,Shimane SM,90,71,İY 54-36
+1982,2020-11-15,10:05,Brave Thunders,Toyama Grouses,82,93,İY 35-53
+1983,2020-11-15,00:30,Brasilia,Paulistano,57,73,İY 33-31
+1984,2020-11-15,02:00,Flamengo,Unifacisa,86,79,İY 40-45
+1985,2020-11-15,03:00,Franca,Pinheiros/SKY,80,60,İY 46-34
+1986,2020-11-15,19:00,GKK Sibenik,Zabok,87,81,İY 43-37
+1987,2020-11-15,19:00,Osijek,Skrljevo,83,69,İY 54-38
+1988,2020-11-15,17:00,USK Praha,CEZ Nymburk,88,72,İY 39-39
+1989,2020-11-15,16:00,Kupol Rodniki,Uralmash,68,97,İY 35-54
+1990,2020-11-15,17:00,Khimki Pod,Ufimets,59,51,İY 34-19
+1991,2020-11-15,18:00,CSKA Moskva II,BK Samara,72,96,İY 40-53
+1992,2020-11-15,19:00,MBA Moskva,Temp,55,77,İY 32-34
+1993,2020-11-15,18:00,Parnu,TTÜ,77,69,İY 34-33
+1994,2020-11-15,07:05,D. Rangers (K),S. Flames (K),99,72,İY 49-38
+1995,2020-11-15,06:00,Adelaide 36ers,Bullets,87,62,İY 50-31
+1996,2020-11-15,18:00,Lahti,Kobrat,109,102,İY 56-49
+1997,2020-11-15,09:00,Dongu Promy,Seoul Knights,82,73,İY 38-43
+1998,2020-11-15,09:00,Ulsan,LG Sakers,89,74,İY 46-30
+1999,2020-11-15,11:00,KT Sonicboom,Seoul Thunders,66,58,İY 32-27
+2000,2020-11-15,11:00,Anyang KGC,Jeonju KCC,73,81,İY 31-44
+2001,2020-11-15,20:45,Salou,El Olivar,79,65,İY 45-30
+2002,2020-11-15,20:00,TAU Castello II,Puerto Sagunto,77,84,İY 41-41
+2003,2020-11-15,13:00,Iraurgi SB (K),Celta (K),73,66,İY 35-40
+2004,2020-11-15,19:00,KS Kosz Pleszew,BM Slam Stal Ostrów Wielkopolski II,99,106,İY 51-34
+2005,2020-11-15,14:00,Ovarense Basquetebol B,Clube dos Galitos / Clínica Dr. Semblano,72,55,İY 33-35
+2006,2020-11-15,14:00,Illiabum Clube,Sampaense,89,78,İY 42-41
+2007,2020-11-15,14:00,Esgueira (K),Academico (K),77,42,İY 38-25
+2008,2020-11-15,14:00,ESA (K),Alges (K),71,58,İY 35-27
+2009,2020-11-15,13:00,Maia BC,CD Povoa (K),61,45,İY 31-25
+2010,2020-11-15,11:00,Nadezhda II(K),Enisey II (K),75,70,İY 39-32
+2011,2020-11-15,14:00,Spartak II (K),Parma-KOR Permskiy Kray,105,69,İY 52-37
+2012,2020-11-15,17:15,DYSUSSH,Niko,65,94,İY 27-35
+2013,2020-11-15,18:00,Dnipro II,SC Prometei II,76,71,İY 42-39
+2014,2020-11-15,12:00,Hanoi Buffaloes,Danang Dragons,72,79,İY 34-36
+2015,2020-11-14,13:00,Bahçeşehir Koleji Spor Kulübü,FruttiEx Bursa,101,71,İY 43-31
+2016,2020-11-14,15:15,Türk Telekom Basketbol Kulübü,Fenerbahçe,81,82,İY 43-36
+2017,2020-11-14,17:30,TOFAŞ Spor Kulübü,OGM Orman Spor Kulübü,99,82,İY 52-43
+2018,2020-11-14,20:00,Darüşşafaka Spor Kulübü,Galatasaray,91,82,İY 45-45
+2019,2020-11-14,14:00,Final Spor,Samsunspor,62,76,İY 23-42
+2020,2020-11-14,15:00,Merkezefendi,Ankara Anadolu,87,68,İY 47-37
+2021,2020-11-14,16:00,Ist. Basket,Balıkesir BŞB,66,85,İY 33-38
+2022,2020-11-14,16:00,Mamak Belediyesi,Bornova Belediye Spor Kulübü,86,77,İY 53-51
+2023,2020-11-14,17:00,Semt77 Yalova,Akhisar Belediye,75,49,İY 45-33
+2024,2020-11-14,18:00,Bulgaristan K,İzlanda (K),74,53,İY 44-21
+2025,2020-11-14,21:00,Yunanistan K,Slovenya K,70,77,İY 36-38
+2026,2020-11-14,15:00,İsveç K,İsrail K,90,51,İY 52-25
+2027,2020-11-14,19:00,Estonya K,İsviçre K,60,63,İY 30-23
+2028,2020-11-14,22:00,B. Hersek (K),Rusya K,68,72,İY 40-34
+2029,2020-11-14,15:00,Arnavutluk (K),Litvanya K,,,
+2030,2020-11-14,18:00,Türkiye K,Sırbistan K,76,83,İY 34-38
+2031,2020-11-14,21:00,B. Britanya K,Polonya K,77,49,İY 37-28
+2032,2020-11-14,21:00,Ukrayna K,Belçika K,65,87,İY 37-45
+2033,2020-11-14,20:00,Macaristan (K),Hollanda K,63,68,İY 23-35
+2034,2020-11-14,17:30,Makedonya K,Almanya K,59,74,İY 33-29
+2035,2020-11-14,20:45,Hırvatistan K,Letonya K,69,83,İY 27-44
+2036,2020-11-14,20:00,Fuenlabrada,Zaragoza,82,81,İY 33-48
+2037,2020-11-14,22:45,FC Barcelona Lassa Bàsquet,Real Betis,82,53,İY 46-22
+2038,2020-11-14,14:00,Bursa Büyükşehir Belediyesi Spor Kulübü,Emlak Konut(K),61,67,İY 33-35
+2039,2020-11-14,16:55,Levallois,Bourg Basket,76,79,İY 36-32
+2040,2020-11-14,22:30,AS Monaco,Dijon,70,62,İY 38-29
+2041,2020-11-14,20:00,Ratiopharm Ulm,Medi Bayreuth,104,76,İY 51-39
+2042,2020-11-14,22:30,Mitteldeutsche,Crailsheim,66,84,İY 33-44
+2043,2020-11-14,22:30,BG Göttingen,Braunschweig,79,76,İY 40-45
+2044,2020-11-14,17:00,Nizhny,Parma Basket,88,73,İY 42-28
+2045,2020-11-14,20:00,Zielona Gora,BC UNICS Kazan,92,86,İY 46-35
+2046,2020-11-14,17:00,C. Rodos,Kymis Lavrio,77,62,İY 38-39
+2047,2020-11-14,18:00,Ionikos,Iraklis,67,77,İY 35-34
+2048,2020-11-14,19:00,Cibona,Partizan,75,82,İY 40-50
+2049,2020-11-14,23:00,KK Mornar,Primorska,87,66,İY 48-41
+2050,2020-11-14,19:35,Stal Ostrow,Astoria,78,86,İY 42-43
+2051,2020-11-14,18:00,Neptunas,Pieno Pasvalys,80,74,İY 41-42
+2052,2020-11-14,18:00,BC Juventus Utena,Vilnius Rytas,79,100,İY 37-46
+2053,2020-11-14,21:30,Girona,Almansa,78,89,İY 41-45
+2054,2020-11-14,22:00,Wolves,Scorchers,86,85,İY 45-39
+2055,2020-11-14,07:00,ZJ Gold Bulls,Fujian Xunxing,143,90,İY 67-44
+2056,2020-11-14,07:30,Tongxi King,Xinjiang Tiger,108,112,İY 52-60
+2057,2020-11-14,11:30,SD Tigers,Tianjin,131,100,İY 71-40
+2058,2020-11-14,12:00,JS Dragons,BF Dragons,76,94,İY 39-39
+2059,2020-11-14,09:05,Chiba Jets,Akita NH,70,68,İY 39-34
+2060,2020-11-14,09:05,Toyota Alvark,NeoPhoenix,94,76,İY 45-32
+2061,2020-11-14,09:05,Yokohama BC,SeaHorses,75,85,İY 33-44
+2062,2020-11-14,10:05,Osaka Evessa,Shimane SM,80,73,İY 36-36
+2063,2020-11-14,11:05,Niigata Abirex,Levanga,77,68,İY 30-34
+2064,2020-11-14,11:05,Shiga L-Stars,Kyoto Hannaryz,74,84,İY 31-35
+2065,2020-11-14,12:05,Brave Thunders,Toyama Grouses,84,78,İY 43-35
+2066,2020-11-14,12:05,H. Dragonflies,Tochigi Brex,54,84,İY 17-43
+2067,2020-11-14,12:30,Sun Rockers,Dolphins,88,84,İY 29-50
+2068,2020-11-14,13:05,Ryukyu,Shinshu BW,66,73,İY 29-36
+2069,2020-11-14,01:00,Obera,I. Atletico Central Cordoba,65,71,İY 29-39
+2070,2020-11-14,03:30,Regatas,La Union,75,85,İY 33-38
+2071,2020-11-14,17:00,Almagro,Boca Juniors,63,82,İY 32-36
+2072,2020-11-14,20:00,Obras,Hispano,75,81,İY 31-41
+2073,2020-11-14,02:00,Cruzes,Bauru,85,90,İY 43-50
+2074,2020-11-14,21:00,C Mourao,Minas,54,90,İY 28-44
+2075,2020-11-14,22:00,São Paulo Futebol Clube,Corinthians,107,61,İY 52-40
+2076,2020-11-14,23:30,Pato Basquete,Cearense,69,76,İY 30-41
+2077,2020-11-14,21:00,Alkar Sinj,Puntamika,85,94,İY 39-49
+2078,2020-11-14,18:30,OKK Beograd,Sloga,83,75,İY 34-35
+2079,2020-11-14,19:00,Dynamic,Napredak,94,90,İY 41-44
+2080,2020-11-14,21:30,KK Pirot,KKK Radnicki,75,76,İY 43-31
+2081,2020-11-14,22:00,Dunav,Kolubara LA,99,85,İY 56-41
+2082,2020-11-14,20:00,Triglav,Sentjur,62,80,İY 23-53
+2083,2020-11-14,21:00,Hopsi Polzela,KK Rogaska,96,93,İY 52-51
+2084,2020-11-14,19:00,Runa,Novosibirsk,85,72,İY 37-26
+2085,2020-11-14,18:00,Tartu,Tallinna Kalev,75,67,İY 40-36
+2086,2020-11-14,08:05,M. Boomers (K),D. Rangers (K),89,72,İY 35-40
+2087,2020-11-14,22:30,Spirou,Phoenix Brussels,86,80,İY 47-35
+2088,2020-11-14,15:00,Tsmoki II,Rubon,79,67,İY 40-32
+2089,2020-11-14,01:00,Santo Andre(K),Vera Cruz (K),59,67,İY 29-32
+2090,2020-11-14,19:00,Cherno More,Chernomorets,85,82,İY 43-41
+2091,2020-11-14,16:00,Bakken Bears,Svendborg,96,87,İY 44-50
+2092,2020-11-14,17:00,Wolfpack,Vaerlose,64,78,İY 34-41
+2093,2020-11-14,19:30,Bakken II,Horsens,122,116,İY 38-41
+2094,2020-11-14,18:00,Ura,Kataja,87,94,İY 40-48
+2095,2020-11-14,09:00,Seoul Thunders,Goyang Orions,83,86,İY 41-35
+2096,2020-11-14,09:00,KT Sonicboom,LG Sakers,91,75,İY 39-36
+2097,2020-11-14,11:00,Jeonju KCC,Incheon ET,83,77,İY 39-41
+2098,2020-11-14,20:30,Carramimbre CBC Valladolid II,Tormes,69,79,İY 35-41
+2099,2020-11-14,22:00,Carbajosa,Fragata Moron,84,48,İY 38-21
+2100,2020-11-14,21:00,Tarragona,Albacete,68,79,İY 40-40
+2101,2020-11-14,22:00,Navarra,L'Hospitalet,67,64,İY 42-35
+2102,2020-11-14,18:00,Lima Horta (K),Club Sant Josep Obrer,61,59,İY 39-43
+2103,2020-11-14,21:04,Boras,Umea BBK,89,61,İY 41-31
+2104,2020-11-14,23:00,S. Giorgio (K),Carugate (K),77,68,İY 45-34
+2105,2020-11-14,12:00,P Yamagata,Fukuoka Rizing,77,61,İY 29-23
+2106,2020-11-14,15:00,KK AZS UW Warszawa,Zubry,81,78,İY 42-50
+2107,2020-11-14,18:00,WKS Śląsk Wrocław III,Tarnovia Basket Tarnowo Podgórne,71,79,İY 45-33
+2108,2020-11-14,19:00,BC Obra Kościan,Röben Gimbasket Wrocław,81,76,İY 38-36
+2109,2020-11-14,19:30,Warszawski (K),Mon-Pol (K),71,63,İY 33-33
+2110,2020-11-14,00:00,GDB Leça / CARGOLANDIA,Porto II,72,57,İY 42-21
+2111,2020-11-14,00:15,Barcelos,CB Viana Nortaluga,77,69,İY 36-34
+2112,2020-11-14,00:00,GRIB Escondnovoengenho,Ovarense Basquetebol B,68,93,İY 50-49
+2113,2020-11-14,14:00,Barreirense,Sporting Clube de Portugal,77,103,İY 32-56
+2114,2020-11-14,14:00,Vitoria,Oliveirense,84,74,İY 37-29
+2115,2020-11-14,19:00,Imortal,Maia,89,80,İY 44-31
+2116,2020-11-14,14:00,CD Povoa (K),Ovarense (K),63,77,İY 34-33
+2117,2020-11-14,14:00,Sparta&K II(K),Rostov Don (K),46,69,İY 25-36
+2118,2020-11-14,14:00,Energiya (K),Neftyanik (K),66,74,İY 34-43
+2119,2020-11-14,17:00,Kazanochka (K),S. SKFU (K),76,61,İY 45-35
+2120,2020-11-14,14:00,Nadezhda II(K),Enisey II (K),92,67,İY 45-35
+2121,2020-11-14,14:00,Spartak II (K),Parma-KOR Permskiy Kray,80,65,İY 43-37
+2122,2020-11-14,10:00,Luxgen Dinos,Taiwan Beer,72,69,İY 34-34
+2123,2020-11-14,15:00,Mariupol,Politekhnik,85,99,İY 33-46
+2124,2020-11-14,20:30,Dnipro II,SC Prometei II,86,73,İY 56-28
+2125,2020-11-13,21:00,KK Crvena Zvezda,Real Madrid,67,73,İY 42-36
+2126,2020-11-13,22:00,Panathinaikos BC Superfoods,Anadolu Efes Spor Kulübü,77,80,İY 40-36
+2127,2020-11-13,22:30,FC Bayern München,Valencia,90,79,İY 37-39
+2128,2020-11-13,22:45,Asvel,BK Zenit Saint Petersburg,53,66,İY 21-28
+2129,2020-11-13,23:00,CB Herbalife Gran Canaria Claret,Trento,71,61,İY 33-29
+2130,2020-11-13,17:30,Çekya (K),Danimarka (K),84,64,İY 46-41
+2131,2020-11-13,20:45,Romanya (K),İtalya K,68,90,İY 31-51
+2132,2020-11-13,15:15,Bursa Büyükşehir Belediyesi Spor Kulübü,Botaş G. (K),78,63,İY 31-27
+2133,2020-11-13,17:30,Emlak Konut(K),Antalya 07 (K),66,57,İY 31-27
+2134,2020-11-13,22:30,Rasta Vechta,Würzburg,80,88,İY 37-40
+2135,2020-11-13,19:00,Le Mans,Tours,110,54,İY 61-25
+2136,2020-11-13,19:35,Asseco Gdynia,Spojnia,82,92,İY 44-37
+2137,2020-11-13,21:30,KK Anwil,KS ROSA Radom,97,86,İY 53-41
+2138,2020-11-13,21:00,Tizona,CB Ourense,69,80,İY 21-41
+2139,2020-11-13,22:00,Real Canoe NC,CB Granada,68,94,İY 32-50
+2140,2020-11-13,22:45,Fundacion,Penas Huesca,84,50,İY 34-23
+2141,2020-11-13,20:00,Lions,Sharks,88,73,İY 55-36
+2142,2020-11-13,22:30,Eagles,Riders,82,88,İY 38-43
+2143,2020-11-13,07:00,SJ Whale,SH Leopards,100,92,İY 44-39
+2144,2020-11-13,14:35,GZ Long-Lions,Jilin Tigers,94,101,İY 47-48
+2145,2020-11-13,15:00,QD Eagles,LF Leopards,99,105,İY 48-44
+2146,2020-11-13,01:00,Libertad,Regatas,66,84,İY 34-42
+2147,2020-11-13,03:30,Quimsa,Corrientes,85,86,İY 48-39
+2148,2020-11-13,17:00,Olimpico,Atenas,115,58,İY 47-19
+2149,2020-11-13,20:00,Comunicaciones,Quimsa,68,83,İY 34-40
+2150,2020-11-13,22:30,Corrientes,Libertad,82,76,İY 46-36
+2151,2020-11-13,00:00,Cearense,Flamengo,69,82,İY 33-40
+2152,2020-11-13,02:30,Minas,Pato Basquete,76,54,İY 41-26
+2153,2020-11-13,19:00,Brno,Olomoucko,87,74,İY 49-48
+2154,2020-11-13,19:00,CEZ Nymburk,Kolin,93,83,İY 42-44
+2155,2020-11-13,19:30,Pardubice,Decin,87,75,İY 34-40
+2156,2020-11-13,20:00,RSK Tarvas,TTÜ,82,68,İY 48-36
+2157,2020-11-13,20:00,BC Kalev Cramo,Rapla KK,76,74,İY 40-35
+2158,2020-11-13,01:00,Pro-Esporte (K,Funvic (K),49,66,İY 17-29
+2159,2020-11-13,11:30,Adelaide 36ers,Bullets,93,75,İY 41-35
+2160,2020-11-13,19:30,Audentes,Paide Viking,65,80,İY 20-37
+2161,2020-11-13,20:00,Viimsi,T. Kalev II,79,65,İY 40-30
+2162,2020-11-13,21:15,TSKK / Nord,Tartu Kalev,78,88,İY 42-47
+2163,2020-11-13,19:30,Seagulls,KTP,94,68,İY 48-31
+2164,2020-11-13,13:00,Ulsan,Seoul Knights,87,94,İY 49-40
+2165,2020-11-13,21:04,Nassjö,Jamtland,87,78,İY 50-38
+2166,2020-11-13,21:04,Norrköping,Södertalje,88,106,İY 35-59
+2167,2020-11-13,12:00,Earthfriends,C. Ibaraki,61,85,İY 18-46
+2168,2020-11-13,13:00,Otsuka Alphas,Fukushima FB,90,91,İY 41-47
+2169,2020-11-13,23:30,Porto,Esgueira,91,78,İY 49-37
+2170,2020-11-13,18:45,CS Universitatea U-Banca Transilvania Cluj-Napoca,Bucureşti,83,81,İY 45-45
+2171,2020-11-13,22:15,Piteşti,Galati,92,87,İY 32-50
+2172,2020-11-13,17:00,Athletic,CSM VKSC,85,76,İY 46-29
+2173,2020-11-13,20:30,Steaua BC,Oradea,83,86,İY 39-45
+2174,2020-11-13,12:00,Kinmen,Pauian Archiland Basketball Team,74,80,İY 33-34
+2175,2020-11-12,20:00,PBK CSKA Moskva,CD Saski Baskonia,89,86,İY 47-35
+2176,2020-11-12,22:00,Olympiacos BC,ALBA Berlin,75,71,İY 24-35
+2177,2020-11-12,22:05,M. Tel Aviv,BC Žalgiris Kaunas,85,57,İY 53-23
+2178,2020-11-12,23:00,FC Barcelona Lassa Bàsquet,Fenerbahçe,97,55,İY 51-29
+2179,2020-11-12,18:00,İzlanda (K),Slovenya K,58,94,İY 31-58
+2180,2020-11-12,21:00,Yunanistan K,Bulgaristan K,73,66,İY 32-26
+2181,2020-11-12,15:00,Karadağ K,İsrail K,73,66,İY 39-35
+2182,2020-11-12,19:00,İsviçre K,Rusya K,42,98,İY 10-53
+2183,2020-11-12,22:00,B. Hersek (K),Estonya K,92,54,İY 59-29
+2184,2020-11-12,18:00,Türkiye K,Arnavutluk (K),,,
+2185,2020-11-12,18:00,Litvanya K,Sırbistan K,71,82,İY 27-39
+2186,2020-11-12,18:00,Ukrayna K,Finlandiya K,84,66,İY 50-39
+2187,2020-11-12,21:00,Portekiz K,Belçika K,49,59,İY 17-33
+2188,2020-11-12,20:00,Slovakya K,Hollanda K,84,64,İY 36-43
+2189,2020-11-12,17:30,Hırvatistan K,Makedonya K,80,62,İY 46-35
+2190,2020-11-12,20:45,Almanya K,Letonya K,73,67,İY 26-32
+2191,2020-11-12,20:30,Burgos,UCAM Murcia,89,84,İY 37-43
+2192,2020-11-12,23:15,Manresa,Tenerife,80,88,İY 44-44
+2193,2020-11-12,13:00,Bursa Büyükşehir Belediyesi Spor Kulübü,Yalova VIP Gençlik Spor Kulübü,69,65,İY 35-43
+2194,2020-11-12,15:15,Botaş G. (K),Sakarya Y. (K),86,61,İY 38-31
+2195,2020-11-12,17:30,Emlak Konut(K),Çeşme Basketbol,79,69,İY 44-48
+2196,2020-11-12,19:45,Edremit Belediyesi Gürespor Kulübü,Antalya 07 (K),55,74,İY 22-37
+2197,2020-11-12,21:00,Medi Bayreuth,Crailsheim,77,81,İY 35-40
+2198,2020-11-12,20:00,Bnei Herzliya,Hapoel Eilat,78,103,İY 34-63
+2199,2020-11-12,20:05,H. Tel Aviv,Ironi N. Ziona,82,80,İY 38-35
+2200,2020-11-12,20:10,Ironi Nahariya,Hapoel Haifa,84,92,İY 41-41
+2201,2020-11-12,14:35,Beijing Ducks,Zhejiang Lions,104,109,İY 52-48
+2202,2020-11-12,15:00,Shanxi Dragons,SH Sharks,121,118,İY 57-65
+2203,2020-11-12,01:00,Boca Juniors,Esgrima,66,98,İY 26-51
+2204,2020-11-12,03:30,Bahia,Almagro,81,105,İY 44-61
+2205,2020-11-12,17:00,I. Atletico Central Cordoba,Comunicaciones,86,76,İY 49-33
+2206,2020-11-12,20:00,La Union,Olimpico,72,83,İY 31-43
+2207,2020-11-12,22:30,Atenas,Obera,84,67,İY 39-35
+2208,2020-11-12,21:30,Unifacisa,C Mourao,86,88,İY 47-41
+2209,2020-11-12,21:30,Corinthians,Franca,109,86,İY 51-43
+2210,2020-11-12,20:00,Zadar,Split,88,61,İY 40-23
+2211,2020-11-12,21:00,Graz,Swans Gmunden,87,88,İY 47-50
+2212,2020-11-12,21:00,Dukes,Timberwolves,110,76,İY 58-36
+2213,2020-11-12,21:00,BC Hallmann,Oberwart,71,85,İY 42-47
+2214,2020-11-12,18:30,Los Toros,Rae Koss/Hansaviimistlus,70,73,İY 38-35
+2215,2020-11-12,20:30,Tartu II,BC Kadrina Karud,82,88,İY 38-58
+2216,2020-11-12,21:15,Maaülikooli,Keila KK,77,67,İY 40-28
+2217,2020-11-12,13:00,KT Sonicboom,Anyang KGC,82,79,İY 42-47
+2218,2020-11-12,21:30,Iraurgi SB (K),Barakaldo (K),89,71,İY 43-33
+2219,2020-11-12,13:00,Earthfriends,C. Ibaraki,77,87,İY 32-43
+2220,2020-11-12,00:00,Barreirense,Porto,48,94,İY 29-49
+2221,2020-11-12,18:30,Oradea,U. Craiova,74,76,İY 32-37
+2222,2020-11-12,21:30,Steaua BC,Athletic,97,76,İY 53-42
+2223,2020-11-12,14:00,Khimki U21,Lokomotiv U21,79,78,İY 34-50
+2224,2020-11-12,14:00,Luxgen Dinos,Kinmen,77,59,İY 34-33
+2225,2020-11-12,12:00,Chien Hsin University of Science and Technology,Taiwan Beer,65,69,İY 39-36
+2226,2020-11-12,15:00,Cantho Catfish,NT Dolphins,70,58,İY 47-25
+2227,2020-11-11,22:45,Asvel,KK Crvena Zvezda,68,89,İY 38-44
+2228,2020-11-11,16:00,Mamak Belediyesi,Merkezefendi,66,70,İY 35-30
+2229,2020-11-11,17:00,Düzce Bld.,Akhisar Belediye,79,92,İY 40-57
+2230,2020-11-11,20:00,Galatasaray,Bakken Bears,91,81,İY 47-45
+2231,2020-11-11,20:30,AEK,BC Tsmoki-Minsk,95,69,İY 47-39
+2232,2020-11-11,22:00,Zaragoza,Nizhny,78,75,İY 33-44
+2233,2020-11-11,20:30,Igokea,Türk Telekom Basketbol Kulübü,77,66,İY 40-32
+2234,2020-11-11,22:00,H. Jerusalem,Limoges Cercle Saint-Pierre,81,75,İY 36-42
+2235,2020-11-11,22:30,Enel Brindisi,Darüşşafaka Spor Kulübü,92,81,İY 48-38
+2236,2020-11-11,21:30,Unicaja Baloncesto Málaga,KK Mornar,98,72,İY 54-34
+2237,2020-11-11,19:30,L. Kuban,Virtus Bologna,83,89,İY 44-49
+2238,2020-11-11,20:00,FruttiEx Bursa,Cedevita,80,97,İY 43-52
+2239,2020-11-11,20:30,Promitheas,Trento,80,89,İY 41-41
+2240,2020-11-11,22:00,Nanterre,CB Herbalife Gran Canaria Claret,90,74,İY 48-44
+2241,2020-11-11,21:00,Mitteldeutsche,Medi Bayreuth,123,114,İY 66-48
+2242,2020-11-11,20:25,Maccabi Haifa,Hapoel Elyon,77,82,İY 36-41
+2243,2020-11-11,20:25,H. Be'er Sheva,Rishon LeZion,98,84,İY 53-38
+2244,2020-11-11,22:00,Mulhouse,Besançon,0,20,
+2245,2020-11-11,19:30,Starogard,Zielona Gora,77,103,İY 38-47
+2246,2020-11-11,21:30,Polski Torun,D. Gornicza,94,99,İY 42-45
+2247,2020-11-11,06:00,JS Dragons,Xinjiang Tiger,97,109,İY 53-52
+2248,2020-11-11,06:00,Tianjin,SD Tigers,102,120,İY 45-62
+2249,2020-11-11,10:30,Fujian Xunxing,SH Leopards,94,115,İY 54-53
+2250,2020-11-11,10:30,GZ Long-Lions,BF Dragons,92,80,İY 46-40
+2251,2020-11-11,15:00,ZJ Gold Bulls,GS Tigers,125,133,İY 64-63
+2252,2020-11-11,15:00,LF Leopards,Jilin Tigers,111,99,İY 60-52
+2253,2020-11-11,13:05,Akita NH,Tochigi Brex,69,72,İY 29-36
+2254,2020-11-11,13:05,Chiba Jets,Brave Thunders,94,97,İY 51-44
+2255,2020-11-11,13:05,Toyota Alvark,Niigata Abirex,76,84,İY 36-41
+2256,2020-11-11,13:05,Yokohama BC,Levanga,94,90,İY 28-45
+2257,2020-11-11,13:05,Toyama Grouses,Sun Rockers,97,106,İY 49-53
+2258,2020-11-11,13:05,NeoPhoenix,Osaka Evessa,84,85,İY 39-44
+2259,2020-11-11,13:05,SeaHorses,Shimane SM,82,101,İY 48-46
+2260,2020-11-11,13:05,Dolphins,Ryukyu,76,80,İY 30-39
+2261,2020-11-11,13:05,Kyoto Hannaryz,H. Dragonflies,76,94,İY 44-44
+2262,2020-11-11,13:15,Shiga L-Stars,Shinshu BW,58,66,İY 25-17
+2263,2020-11-11,01:00,Obras,Platense,73,58,İY 41-36
+2264,2020-11-11,03:30,Ferro,Boca Juniors,60,76,İY 25-41
+2265,2020-11-11,17:00,Arjantin,Obras,84,83,İY 34-33
+2266,2020-11-11,20:00,Hispano,Penarol,72,80,İY 27-45
+2267,2020-11-11,22:30,Platense,Ferro,112,79,İY 57-48
+2268,2020-11-11,02:00,Flamengo,Minas,102,68,İY 59-40
+2269,2020-11-11,20:00,Cibona,Dubrava,85,67,İY 49-25
+2270,2020-11-11,22:00,Primorska,Sentjur,69,57,İY 40-23
+2271,2020-11-11,16:00,Univ Yugra,BK Samara,,,
+2272,2020-11-11,20:00,Parnu,Rapla KK,83,69,İY 44-37
+2273,2020-11-11,01:00,Paulistano,Franca,54,70,İY 30-40
+2274,2020-11-11,19:30,Ura,Pyrintö,113,132,İY 46-64
+2275,2020-11-11,19:30,Kouvot,Korihait,85,74,İY 36-35
+2276,2020-11-11,13:00,Seoul Thunders,Dongu Promy,79,75,İY 32-31
+2277,2020-11-11,20:00,E. Kotwica,Nysa Klodzko,87,78,İY 40-34
+2278,2020-11-11,20:00,BC Dziki Warszawa,Slask II,84,63,İY 48-41
+2279,2020-11-11,20:00,BC Decka Pelplin,Pogon Prudnik,80,77,İY 36-37
+2280,2020-11-11,21:00,Vitoria,Esgueira,99,71,İY 57-36
+2281,2020-11-11,23:00,Maia,Ovarense,80,96,İY 37-52
+2282,2020-11-11,18:45,Galati,Bucureşti,69,76,İY 32-36
+2283,2020-11-11,22:15,Piteşti,CS Universitatea U-Banca Transilvania Cluj-Napoca,63,91,İY 22-49
+2284,2020-11-11,17:00,ACS Targu Jiu,BC Timişoara,45,109,İY 18-51
+2285,2020-11-11,20:30,Voluntari,Sibiu,91,83,İY 46-38
+2286,2020-11-11,18:00,Dynamo Stavro,Cheboksary,80,62,İY 44-29
+2287,2020-11-11,14:00,CSKA U21,UNICS U21,89,85,İY 50-41
+2288,2020-11-11,15:30,Khimki U21,Lokomotiv U21,71,84,İY 37-45
+2289,2020-11-11,18:00,Energiya (K),UMMC Yeka. (K),85,96,İY 41-48
+2290,2020-11-11,18:00,Kazanochka (K),Moskova II (K),68,44,İY 34-22
+2291,2020-11-11,19:00,Chevakata (K),Neftyanik (K),68,83,İY 35-27
+2292,2020-11-11,19:30,Poprad (K),Spisska (K),62,50,İY 41-28
+2293,2020-11-11,12:00,Pauian Archiland Basketball Team,Luxgen Dinos,59,75,İY 24-42
+2294,2020-11-11,14:30,Taiwan Beer,Bank of Taiwan,83,80,İY 44-42
+2295,2020-11-10,20:00,TOFAŞ Spor Kulübü,CEZ Nymburk,93,96,İY 40-45
+2296,2020-11-10,22:00,Hapoel Holon,Cholet Basket,73,63,İY 41-36
+2297,2020-11-10,20:00,SIG Basket Strasbourg,Vilnius Rytas,81,83,İY 42-48
+2298,2020-11-10,20:30,Peristeri,VEF Riga,81,84,İY 35-39
+2299,2020-11-10,22:00,CB RETAbet Bilbao Berri Basket,Brose Baskets,71,77,İY 26-41
+2300,2020-11-10,22:00,Oostende,Burgos,99,98,İY 52-53
+2301,2020-11-10,19:00,Bahçeşehir Koleji Spor Kulübü,BC UNICS Kazan,67,70,İY 34-31
+2302,2020-11-10,21:30,Ratiopharm Ulm,Brescia,88,76,İY 43-30
+2303,2020-11-10,14:45,Çeşme Basketbol,Karşıyaka (K),86,75,İY 51-38
+2304,2020-11-10,17:00,İstanbul Üniversitesi Basketbol Kulübü,Urla Belediyesi Gençlik Spor Kulübü,67,82,İY 31-43
+2305,2020-11-10,19:15,Yalova VIP Gençlik Spor Kulübü,Emlak Konut(K),51,58,İY 32-29
+2306,2020-11-10,15:15,Fenerbahçe Gelişim Koleji Spor Kulübü,Antalya 07 (K),57,65,İY 33-41
+2307,2020-11-10,17:30,Düzce Belediye Gençlik ve Spor Kulübü,Botaş G. (K),74,77,İY 37-38
+2308,2020-11-10,19:45,Edremit Belediyesi Gürespor Kulübü,Sakarya Y. (K),84,77,İY 51-36
+2309,2020-11-10,21:00,Telekom Basket,ALBA Berlin,82,90,İY 40-39
+2310,2020-11-10,18:00,Aris,Iraklis,81,75,İY 40-44
+2311,2020-11-10,20:00,Trefl Sopot,Slask Wroclaw,79,60,İY 37-29
+2312,2020-11-10,21:00,Tizona,Leyma Coruna,50,78,İY 22-39
+2313,2020-11-10,07:30,Tongxi King,QD Eagles,104,118,İY 47-55
+2314,2020-11-10,14:35,Shanxi Dragons,SJ Whale,103,108,İY 48-49
+2315,2020-11-10,15:00,Zhejiang Lions,Beijing Ducks,99,101,İY 60-54
+2316,2020-11-10,01:00,Regatas,Quimsa,68,78,İY 40-41
+2317,2020-11-10,03:30,Corrientes,I. Atletico Central Cordoba,77,47,İY 32-17
+2318,2020-11-10,17:00,Almagro,Hispano,97,68,İY 52-35
+2319,2020-11-10,20:00,Penarol,Arjantin,92,71,İY 51-30
+2320,2020-11-10,22:30,Esgrima,Bahia,84,66,İY 40-24
+2321,2020-11-10,23:00,C Mourao,Cearense,61,74,İY 19-28
+2322,2020-11-10,19:30,Dzukija Alytus,BC Silute,98,66,İY 50-39
+2323,2020-11-10,20:00,Hermes,Cibona,76,116,İY 32-58
+2324,2020-11-10,11:00,Rain or Shine,TNT Ka Tropa,80,74,İY 43-38
+2325,2020-11-10,13:45,Beermen,Global Port,120,99,İY 57-47
+2326,2020-11-10,19:30,Seagulls,Lahti,87,74,İY 38-41
+2327,2020-11-10,13:00,Anyang KGC,Goyang Orions,81,73,İY 46-42
+2328,2020-11-10,21:04,Lulea,Fryshuset,92,78,İY 39-35
+2329,2020-11-10,18:45,CS Universitatea U-Banca Transilvania Cluj-Napoca,Galati,81,58,İY 39-33
+2330,2020-11-10,22:15,Bucureşti,Piteşti,75,81,İY 26-38
+2331,2020-11-10,17:00,U. Craiova,CSM VKSC,73,53,İY 43-26
+2332,2020-11-10,20:30,Athletic,Oradea,60,101,İY 44-46
+2333,2020-11-10,14:00,BC Runa Under 21,Avtodor U21,59,53,İY 35-24
+2334,2020-11-10,14:00,CSKA U21,UNICS U21,80,69,İY 41-34
+2335,2020-11-10,16:00,MBA Moskva Under 21,Samara U21,65,47,İY 32-21
+2336,2020-11-09,20:30,Cedevita,FruttiEx Bursa,104,88,İY 58-54
+2337,2020-11-09,14:45,Çeşme Basketbol,Bursa Büyükşehir Belediyesi Spor Kulübü,64,82,İY 32-41
+2338,2020-11-09,17:00,Yalova VIP Gençlik Spor Kulübü,İstanbul Üniversitesi Basketbol Kulübü,78,72,İY 38-38
+2339,2020-11-09,19:15,Emlak Konut(K),Urla Belediyesi Gençlik Spor Kulübü,93,73,İY 45-38
+2340,2020-11-09,13:00,Düzce Belediye Gençlik ve Spor Kulübü,Fenerbahçe Gelişim Koleji Spor Kulübü,68,82,İY 46-40
+2341,2020-11-09,15:15,Botaş G. (K),Antalya 07 (K),97,96,İY 40-27
+2342,2020-11-09,19:45,Sakarya Y. (K),Ceyhan Bld.(K),88,82,İY 35-49
+2343,2020-11-09,20:00,BC Khimki,PBK CSKA Moskva,86,78,İY 35-41
+2344,2020-11-09,20:05,Ironi N. Ziona,Bnei Herzliya,80,74,İY 40-46
+2345,2020-11-09,07:30,Tianjin,JS Dragons,105,108,İY 53-51
+2346,2020-11-09,14:35,SH Leopards,ZJ Gold Bulls,104,106,İY 56-39
+2347,2020-11-09,15:00,LF Leopards,GZ Long-Lions,117,82,İY 45-26
+2348,2020-11-09,13:05,Shinshu BW,SeaHorses,87,73,İY 40-34
+2349,2020-11-09,01:00,Libertad,Atenas,92,96,İY 38-41
+2350,2020-11-09,03:30,I. Atletico Central Cordoba,Regatas,88,85,İY 36-38
+2351,2020-11-09,17:00,Obera,Comunicaciones,79,71,İY 45-36
+2352,2020-11-09,20:30,Atenas,La Union,49,71,İY 26-43
+2353,2020-11-09,22:45,Olimpico,Libertad,74,65,İY 31-31
+2354,2020-11-09,20:00,Krka,Zlatorog Lasko,111,57,İY 52-36
+2355,2020-11-09,22:00,Hopsi Polzela,Podcetrtek,76,95,İY 42-50
+2356,2020-11-09,13:00,Dongu Promy,Incheon ET,72,77,İY 37-43
+2357,2020-11-09,21:34,Södertalje,Boras,75,97,İY 41-50
+2358,2020-11-09,17:00,MBA Moskva Under 21,Samara U21,82,66,İY 47-28
+2359,2020-11-09,19:00,BC Runa Under 21,Avtodor U21,73,52,İY 40-24
+2360,2020-11-08,13:00,Fenerbahçe,Darüşşafaka Spor Kulübü,90,79,İY 39-36
+2361,2020-11-08,15:15,Beşiktaş,Gaziantep BB,84,81,İY 34-27
+2362,2020-11-08,17:30,Galatasaray,TOFAŞ Spor Kulübü,79,91,İY 40-42
+2363,2020-11-08,20:00,M.Y. Afyon Bld,Büyükçekmece,79,74,İY 42-43
+2364,2020-11-08,14:30,Real Madrid,Fuenlabrada,79,68,İY 33-40
+2365,2020-11-08,15:00,Tenerife,Real Betis,77,73,İY 35-34
+2366,2020-11-08,19:00,Zaragoza,Manresa,102,103,İY 53-53
+2367,2020-11-08,20:30,Estudiantes,FC Barcelona Lassa Bàsquet,78,92,İY 27-48
+2368,2020-11-08,22:00,Valencia,Burgos,81,99,İY 39-53
+2369,2020-11-08,15:15,Bursa Büyükşehir Belediyesi Spor Kulübü,Karşıyaka (K),73,41,İY 33-16
+2370,2020-11-08,17:30,Urla Belediyesi Gençlik Spor Kulübü,Yalova VIP Gençlik Spor Kulübü,73,87,İY 33-26
+2371,2020-11-08,19:45,İstanbul Üniversitesi Basketbol Kulübü,Emlak Konut(K),57,86,İY 19-41
+2372,2020-11-08,13:30,Antalya 07 (K),Düzce Belediye Gençlik ve Spor Kulübü,70,49,İY 35-28
+2373,2020-11-08,15:45,Fenerbahçe Gelişim Koleji Spor Kulübü,Botaş G. (K),66,68,İY 24-28
+2374,2020-11-08,18:00,Ceyhan Bld.(K),Edremit Belediyesi Gürespor Kulübü,84,89,İY 40-46
+2375,2020-11-08,19:00,Olimpia Milano,Brescia,87,56,İY 44-24
+2376,2020-11-08,22:45,Pesaro,Varese,85,78,İY 34-39
+2377,2020-11-08,19:45,Asvel,Orleans,93,83,İY 39-39
+2378,2020-11-08,17:00,ALBA Berlin,S. Frankfurt,79,66,İY 49-22
+2379,2020-11-08,17:00,Hamburg Towers,Brose Baskets,78,75,İY 40-50
+2380,2020-11-08,17:00,Braunschweig,Oldenburg,83,111,İY 50-50
+2381,2020-11-08,20:00,FC Bayern München,Rasta Vechta,90,78,İY 44-40
+2382,2020-11-08,15:30,Parma Basket,BC Enisey Krasnoyarsk,67,84,İY 39-44
+2383,2020-11-08,21:00,Zielona Gora,BK Zenit Saint Petersburg,74,94,İY 38-53
+2384,2020-11-08,20:25,Hapoel Elyon,H. Tel Aviv,88,68,İY 44-27
+2385,2020-11-08,21:00,Maccabi Haifa,H. Be'er Sheva,61,102,İY 36-55
+2386,2020-11-08,22:10,H. Jerusalem,Ironi Nahariya,91,82,İY 47-36
+2387,2020-11-08,20:30,Panathinaikos BC Superfoods,PAOK,96,67,İY 51-28
+2388,2020-11-08,19:00,Primorska,KK Crvena Zvezda,72,84,İY 38-49
+2389,2020-11-08,23:00,Split,Cibona,77,74,İY 31-44
+2390,2020-11-08,17:30,KS ROSA Radom,Gliwice,87,80,İY 49-30
+2391,2020-11-08,19:35,KK Anwil,Spojnia,84,96,İY 43-46
+2392,2020-11-08,21:30,Astoria,Starogard,94,89,İY 47-51
+2393,2020-11-08,18:00,BC Siauliai,Neptunas,93,88,İY 56-42
+2394,2020-11-08,21:00,BC CBet Prienai,BC Žalgiris Kaunas,72,96,İY 31-46
+2395,2020-11-08,18:30,Bahia San Agustin,Lleida,82,71,İY 46-41
+2396,2020-11-08,20:00,Phoenix,Man Giants,92,98,İY 42-49
+2397,2020-11-08,20:00,Riders,Eagles,96,102,İY 57-57
+2398,2020-11-08,07:30,QD Eagles,Xinjiang Tiger,112,89,İY 64-38
+2399,2020-11-08,10:30,Tongxi King,Jilin Tigers,103,118,İY 35-58
+2400,2020-11-08,14:35,SD Tigers,BF Dragons,112,95,İY 59-40
+2401,2020-11-08,15:00,SH Sharks,Fujian Xunxing,117,93,İY 57-47
+2402,2020-11-08,07:05,Niigata Abirex,Tochigi Brex,67,85,İY 29-48
+2403,2020-11-08,07:35,Shimane SM,NeoPhoenix,81,74,İY 44-34
+2404,2020-11-08,08:05,Levanga,Chiba Jets,73,92,İY 36-50
+2405,2020-11-08,08:05,Akita NH,Osaka Evessa,73,72,İY 36-37
+2406,2020-11-08,08:05,Sun Rockers,Kyoto Hannaryz,90,78,İY 36-49
+2407,2020-11-08,08:05,Yokohama BC,Dolphins,71,79,İY 40-41
+2408,2020-11-08,08:05,Shinshu BW,SeaHorses,67,85,İY 34-52
+2409,2020-11-08,09:05,Toyota Alvark,Shiga L-Stars,80,87,İY 44-34
+2410,2020-11-08,10:05,Brave Thunders,Ryukyu,83,89,İY 41-36
+2411,2020-11-08,01:00,Obras,Penarol,84,71,İY 47-35
+2412,2020-11-08,03:30,Hispano,Esgrima,68,78,İY 35-46
+2413,2020-11-08,17:00,Quimsa,Olimpico,78,76,İY 43-43
+2414,2020-11-08,20:30,Comunicaciones,Corrientes,70,74,İY 36-37
+2415,2020-11-08,22:45,La Union,Obera,70,88,İY 39-38
+2416,2020-11-08,19:00,Osijek,GKK Sibenik,93,91,İY 46-50
+2417,2020-11-08,20:00,Puntamika,Gorica,69,90,İY 30-48
+2418,2020-11-08,19:30,Traiskirchen,Graz,84,90,İY 54-42
+2419,2020-11-08,13:00,Novosibirsk,BK Irkut,88,75,İY 42-30
+2420,2020-11-08,16:00,Temp,CSKA Moskva II,101,89,İY 45-46
+2421,2020-11-08,20:00,Tartu,Parnu,88,80,İY 40-47
+2422,2020-11-08,00:00,Paulistano,Bauru,84,70,İY 35-35
+2423,2020-11-08,17:00,ABLUJHE,Joinville,46,92,İY 24-47
+2424,2020-11-08,15:00,BLU,Brusque,53,43,İY 29-21
+2425,2020-11-08,17:00,Funvic (K),Santo Andre(K),64,63,İY 31-32
+2426,2020-11-08,16:00,Bakken Bears,Wolfpack,109,57,İY 47-27
+2427,2020-11-08,09:30,Hsinchu Lioneers,Taoyuan Air Ape,92,87,İY 39-50
+2428,2020-11-08,09:00,Seoul Thunders,Anyang KGC,76,71,İY 35-34
+2429,2020-11-08,09:00,Goyang Orions,LG Sakers,80,86,İY 39-42
+2430,2020-11-08,11:00,KT Sonicboom,Seoul Knights,90,91,İY 47-43
+2431,2020-11-08,11:00,Ulsan,Jeonju KCC,80,90,İY 37-40
+2432,2020-11-08,14:00,CB Roser,Barbera,75,85,İY 39-53
+2433,2020-11-08,20:00,TAU Castello II,Valencia II,62,70,İY 18-29
+2434,2020-11-08,20:00,Clavijo,Alcobendas,79,61,İY 33-22
+2435,2020-11-08,19:30,Ponzano (K),Sanga Milano (,71,73,İY 37-32
+2436,2020-11-08,20:00,Vicenza (K),BC Bolzano (K),55,51,İY 24-29
+2437,2020-11-08,00:30,Esgueira,Barreirense,80,82,İY 53-46
+2438,2020-11-08,21:00,Oliveirense,Academica,88,85,İY 34-35
+2439,2020-11-08,21:00,Belenenses,Illiabum Clube,79,81,İY 42-38
+2440,2020-11-08,21:30,Maia BC,Academico (K),63,54,İY 35-35
+2441,2020-11-08,15:30,Boa Viagem (K),ESA (K),76,70,İY 40-35
+2442,2020-11-08,21:00,U. Craiova,Athletic,101,68,İY 46-29
+2443,2020-11-08,13:00,BC Bars RSUE,BC Chelbasket,61,63,İY 25-27
+2444,2020-11-08,14:00,Dynamo Stavro,Neftekhimik,50,59,İY 20-30
+2445,2020-11-08,15:30,Khimki U21,Zenit U21,63,74,İY 25-31
+2446,2020-11-08,18:30,Moskova II (K),S. SKFU (K),74,58,İY 41-30
+2447,2020-11-08,19:00,Dnipro II,Odessa,74,87,İY 48-42
+2448,2020-11-08,15:00,Danang Dragons,Saigon Heat,78,92,İY 36-55
+2449,2020-11-07,15:15,Fethiye Belediye Basketbol Kulübü,Anadolu Efes Spor Kulübü,84,90,İY 46-46
+2450,2020-11-07,17:30,OGM Orman Spor Kulübü,Petkim Spor,90,106,İY 48-60
+2451,2020-11-07,20:00,FruttiEx Bursa,Türk Telekom Basketbol Kulübü,107,108,İY 54-53
+2452,2020-11-07,15:00,Manisa Bşb,Mamak Belediyesi,75,73,İY 34-27
+2453,2020-11-07,15:00,Bornova Belediye Spor Kulübü,Düzce Bld.,75,77,İY 38-45
+2454,2020-11-07,17:00,Selçuklu Bld,Gemlik Basketbol Kulübü,93,89,İY 40-43
+2455,2020-11-07,20:00,UCAM Murcia,CB Herbalife Gran Canaria Claret,74,78,İY 33-39
+2456,2020-11-07,22:45,CD Saski Baskonia,CB RETAbet Bilbao Berri Basket,82,68,İY 44-30
+2457,2020-11-07,22:00,Virtus Bologna,Enel Brindisi,88,98,İY 40-50
+2458,2020-11-07,22:00,Trento,Dinamo Sassari,92,78,İY 45-32
+2459,2020-11-07,22:30,F. Bologna,Uni Treviso,87,98,İY 49-54
+2460,2020-11-07,22:30,Levallois,Pau Orthez,84,77,İY 36-46
+2461,2020-11-07,22:30,Würzburg,Ratiopharm Ulm,77,90,İY 41-42
+2462,2020-11-07,13:00,BC Tsmoki-Minsk,BC Avtodor Saratov,69,86,İY 41-34
+2463,2020-11-07,19:00,M. Tel Aviv,Hapoel Eilat,86,74,İY 45-31
+2464,2020-11-07,21:00,Rishon LeZion,Hapoel Holon,100,91,İY 43-42
+2465,2020-11-07,18:00,Charilaos Trikoupis,Ionikos,79,66,İY 36-43
+2466,2020-11-07,20:30,Peristeri,AEK,62,66,İY 27-30
+2467,2020-11-07,21:00,Krka,KK Mornar,74,84,İY 40-48
+2468,2020-11-07,23:00,Partizan,Zadar,78,63,İY 38-34
+2469,2020-11-07,19:35,Stal Ostrow,Polski Torun,85,80,İY 49-44
+2470,2020-11-07,21:30,Start Lublin,D. Gornicza,76,74,İY 34-24
+2471,2020-11-07,18:00,Pieno Pasvalys,Vilnius Rytas,82,79,İY 45-38
+2472,2020-11-07,19:30,Dzukija Alytus,BC Nevėžis Kėdainiai,80,74,İY 39-38
+2473,2020-11-07,22:00,Breogan,Valladolid,87,82,İY 43-39
+2474,2020-11-07,18:00,Almansa,Real Canoe NC,74,69,İY 34-30
+2475,2020-11-07,20:00,CB Granada,Myrtia,73,67,İY 45-36
+2476,2020-11-07,21:00,Penas Huesca,Girona,90,84,İY 34-41
+2477,2020-11-07,22:30,Bristol Flyers,Scorchers,0,20,
+2478,2020-11-07,14:35,GS Tigers,SJ Whale,121,90,İY 66-51
+2479,2020-11-07,15:00,Beijing Ducks,Shanxi Dragons,97,109,İY 52-50
+2480,2020-11-07,09:05,Toyota Alvark,Shiga L-Stars,88,86,İY 54-36
+2481,2020-11-07,09:05,Yokohama BC,Dolphins,81,82,İY 40-39
+2482,2020-11-07,11:05,Sun Rockers,Kyoto Hannaryz,75,63,İY 39-33
+2483,2020-11-07,12:05,Brave Thunders,Ryukyu,65,79,İY 29-41
+2484,2020-11-07,01:00,Ferro,Hispano,77,85,İY 32-39
+2485,2020-11-07,03:30,Almagro,Obras,82,83,İY 31-40
+2486,2020-11-07,17:00,Platense,Boca Juniors,85,82,İY 39-43
+2487,2020-11-07,20:30,Bahia,Ferro,56,101,İY 36-56
+2488,2020-11-07,22:45,Arjantin,Almagro,78,80,İY 40-35
+2489,2020-11-07,21:30,Kolubara LA,Vojvodina,82,87,İY 34-35
+2490,2020-11-07,21:30,Tamis,OKK Beograd,93,89,İY 42-53
+2491,2020-11-07,22:00,Dunav,Dynamic,91,96,İY 44-46
+2492,2020-11-07,18:30,Zlatorog Lasko,Triglav,94,66,İY 52-33
+2493,2020-11-07,19:30,Timberwolves,BC Hallmann,65,91,İY 31-47
+2494,2020-11-07,22:00,Flyers Wels,Swans Gmunden,86,79,İY 54-39
+2495,2020-11-07,15:15,Ufimets,Burevestnik,73,63,İY 26-37
+2496,2020-11-07,18:00,BK Samara,Runa,85,82,İY 44-39
+2497,2020-11-07,18:00,Latvijas Univ.,Ventspils,69,78,İY 39-43
+2498,2020-11-07,18:00,Rapla KK,RSK Tarvas,76,84,İY 39-52
+2499,2020-11-07,20:00,Tallinna Kalev,BC Kalev Cramo,74,92,İY 36-48
+2500,2020-11-07,22:30,Oostende,Spirou,94,79,İY 52-46
+2501,2020-11-07,17:00,Sociedade Ginástica de Joinville,Clube Concórdia,64,55,İY 33-22
+2502,2020-11-07,23:30,Associação Grande Florianópolis Escola de Basket,Blumenau (K),24,82,İY 13-54
+2503,2020-11-07,22:00,São Paulo Futebol Clube,Franca,92,100,İY 38-47
+2504,2020-11-07,02:30,BLU,AVIBA,88,70,İY 40-30
+2505,2020-11-07,00:30,Joinville,ABLUJHE,70,49,İY 27-18
+2506,2020-11-07,19:30,Brusque,Joinville,44,60,İY 24-40
+2507,2020-11-07,21:30,ABLUJHE,BLU,73,62,İY 32-30
+2508,2020-11-07,09:30,Formosa Dreamers,Hsinchu Lioneers,122,104,İY 74-46
+2509,2020-11-07,12:00,Taoyuan Air Ape,Fubon Braves,71,109,İY 33-61
+2510,2020-11-07,18:00,Vilpas Vikings,Kauhajoki,68,74,İY 34-30
+2511,2020-11-07,09:00,Goyang Orions,KT Sonicboom,100,80,İY 49-35
+2512,2020-11-07,09:00,Seoul Thunders,Incheon ET,76,79,İY 39-37
+2513,2020-11-07,11:00,Dongu Promy,Ulsan,81,82,İY 38-44
+2514,2020-11-07,21:00,Tormes,Cantbasket 04,69,59,İY 28-18
+2515,2020-11-07,22:30,Zentro,Carbajosa,80,70,İY 44-32
+2516,2020-11-07,20:05,Pardinyas,Tarragona,64,65,İY 29-30
+2517,2020-11-07,20:00,Bembibre (K),Promete (K),63,80,İY 48-44
+2518,2020-11-07,22:30,Ardoi (K),Magec Tias (K),75,47,İY 35-17
+2519,2020-11-07,19:00,Leganes,Almeria (K),84,57,İY 47-32
+2520,2020-11-07,20:00,Castelnuovo(K),Crema (K),59,56,İY 31-20
+2521,2020-11-07,10:00,Fukushima FB,Sendai 89ers,75,59,İY 36-30
+2522,2020-11-07,11:00,Nishinomiya,Gunma,82,90,İY 42-37
+2523,2020-11-07,20:00,KS Sudety Jelenia Góra,BC Swiss Krono Żary,61,89,İY 34-47
+2524,2020-11-07,18:00,MUKS Poznan(K),Politechnika(K,76,74,İY 32-37
+2525,2020-11-07,17:00,Maia,CAB Madeira,73,85,İY 22-37
+2526,2020-11-07,18:00,Sport Lisboa e Benfica,Porto,79,88,İY 41-45
+2527,2020-11-07,21:00,Sporting Clube de Portugal,Vitoria,112,71,İY 49-37
+2528,2020-11-07,00:00,Benfica II,Electrico,75,78,İY 41-40
+2529,2020-11-07,18:00,Povoa,Illiabum Clube,84,82,İY 53-43
+2530,2020-11-07,19:00,Ovarense (K),CLIP (K),54,84,İY 27-44
+2531,2020-11-07,14:00,CSKA U21,Nizhny U21,84,74,İY 47-38
+2532,2020-11-07,15:00,Khimki U21,Zenit U21,77,70,İY 38-32
+2533,2020-11-07,22:00,Iskra Svit,Spisska,66,84,İY 40-47
+2534,2020-11-07,15:00,BK Khimik,Mavpi,64,61,İY 36-31
+2535,2020-11-07,12:00,Khimik II,SumDU,80,72,İY 43-31
+2536,2020-11-07,15:00,Mariupol,BC Novomoskovsk,90,76,İY 47-41
+2537,2020-11-07,15:00,L. Warriors,NT Dolphins,63,62,İY 33-24
+2538,2020-11-06,20:45,Fenerbahçe,BC Khimki,83,71,İY 42-35
+2539,2020-11-06,21:00,BC Žalgiris Kaunas,Real Madrid,90,93,İY 54-48
+2540,2020-11-06,22:30,FC Bayern München,KK Crvena Zvezda,74,59,İY 33-31
+2541,2020-11-06,22:30,Panathinaikos BC Superfoods,PBK CSKA Moskva,83,89,İY 42-51
+2542,2020-11-06,23:00,Valencia,Olimpia Milano,86,81,İY 42-44
+2543,2020-11-06,18:30,Akhisar Belediye,Sigortam.net,79,80,İY 43-45
+2544,2020-11-06,19:00,Merkezefendi,Semt77 Yalova,73,69,İY 40-33
+2545,2020-11-06,22:30,Riesen,BG Göttingen,100,73,İY 54-30
+2546,2020-11-06,22:00,Borac Cacak,Mega,83,97,İY 41-55
+2547,2020-11-06,19:35,Slask Wroclaw,Wilki Morskie,91,73,İY 46-37
+2548,2020-11-06,20:30,Melilla,Tizona,93,88,İY 48-46
+2549,2020-11-06,22:00,Palencia,Caceres,76,65,İY 40-38
+2550,2020-11-06,23:00,CB Ourense,Oviedo,69,82,İY 39-42
+2551,2020-11-06,22:45,Amics Castello,Fundacion,62,85,İY 25-40
+2552,2020-11-06,21:00,Sharks,Lions,70,61,İY 34-39
+2553,2020-11-06,06:00,QD Eagles,GZ Long-Lions,97,94,İY 49-52
+2554,2020-11-06,06:00,Jilin Tigers,Tianjin,91,99,İY 42-59
+2555,2020-11-06,10:30,JS Dragons,Tongxi King,108,93,İY 43-50
+2556,2020-11-06,10:30,SD Tigers,LF Leopards,128,127,İY 49-64
+2557,2020-11-06,15:00,BF Dragons,Xinjiang Tiger,109,78,İY 53-38
+2558,2020-11-06,15:00,SH Sharks,Zhejiang Lions,98,102,İY 52-45
+2559,2020-11-06,13:05,H. Dragonflies,Toyama Grouses,80,89,İY 50-42
+2560,2020-11-06,01:00,Olimpico,I. Atletico Central Cordoba,79,81,İY 39-36
+2561,2020-11-06,03:30,Regatas,Comunicaciones,82,77,İY 44-44
+2562,2020-11-06,17:00,Penarol,Platense,96,90,İY 55-54
+2563,2020-11-06,20:30,Boca Juniors,Bahia,96,95,İY 48-45
+2564,2020-11-06,22:45,Esgrima,Arjantin,82,71,İY 47-30
+2565,2020-11-06,21:00,Split,Zabok,102,69,İY 56-34
+2566,2020-11-06,20:00,Novi Pazar,Napredak,75,63,İY 29-34
+2567,2020-11-06,21:00,Zlatibor,KK Pirot,83,79,İY 42-40
+2568,2020-11-06,20:00,TTT Rīga,RSU (K),97,63,İY 52-31
+2569,2020-11-06,22:30,Phoenix Brussels,Antwerp,86,91,İY 49-45
+2570,2020-11-06,20:30,Clube Concórdia,Associação Grande Florianópolis Escola de Basket,41,56,İY 21-25
+2571,2020-11-06,22:30,Blumenau (K),Sociedade Ginástica de Joinville,84,31,İY 50-11
+2572,2020-11-06,02:30,AVIBA,Brusque,39,63,İY 10-38
+2573,2020-11-06,00:30,ABLUJHE,Grande Florianópolis Basket,69,56,İY 32-24
+2574,2020-11-06,01:00,Franca U19,SC Corinthians,66,68,İY 41-36
+2575,2020-11-06,01:00,Funvic (K),Catanduva (K),75,72,İY 36-41
+2576,2020-11-06,16:00,Champion (K),Academic (K),70,56,İY 32-23
+2577,2020-11-06,19:30,Tartu Kalev,Los Toros,103,71,İY 53-33
+2578,2020-11-06,20:00,Rae Koss/Hansaviimistlus,Paide Viking,86,67,İY 48-36
+2579,2020-11-06,20:00,T. Kalev II,BC Kadrina Karud,67,72,İY 40-36
+2580,2020-11-06,20:30,Keila KK,TSKK / Nord,97,53,İY 54-30
+2581,2020-11-06,19:30,KTP,Ura,100,71,İY 45-38
+2582,2020-11-06,13:00,Seoul Knights,Jeonju KCC,70,80,İY 33-43
+2583,2020-11-06,21:30,UNI Girona (K),Ensino (K),88,53,İY 45-21
+2584,2020-11-06,22:00,CD Ibaeta,AE Sedis (K),58,44,İY 22-25
+2585,2020-11-06,22:00,Islas Can. (K),P. Avenida (K),70,92,İY 33-52
+2586,2020-11-06,23:00,Clarinos (K),Araski (K),77,57,İY 41-26
+2587,2020-11-06,21:04,Lulea,Boras,84,103,İY 45-41
+2588,2020-11-06,14:00,BC Runa Under 21,Samara U21,77,62,İY 36-32
+2589,2020-11-06,14:00,CSKA U21,Nizhny U21,91,53,İY 45-30
+2590,2020-11-06,15:00,MBA Moskva Under 21,Avtodor U21,80,68,İY 39-34
+2591,2020-11-06,15:00,SumDU,Khimik II,66,74,İY 25-36
+2592,2020-11-06,19:00,BC Novomoskovsk,Mariupol,70,77,İY 34-43
+2593,2020-11-05,20:00,BK Zenit Saint Petersburg,Olympiacos BC,66,75,İY 27-41
+2594,2020-11-05,20:30,Anadolu Efes Spor Kulübü,M. Tel Aviv,91,89,İY 49-50
+2595,2020-11-05,21:00,ALBA Berlin,FC Barcelona Lassa Bàsquet,67,103,İY 36-56
+2596,2020-11-05,22:30,CD Saski Baskonia,Asvel,86,88,İY 43-43
+2597,2020-11-05,20:00,BC Kalev Cramo,BC Astana,85,92,İY 37-43
+2598,2020-11-05,19:35,Legia Warszawa,Trefl Sopot,78,72,İY 28-26
+2599,2020-11-05,07:30,SJ Whale,Beijing Ducks,81,80,İY 45-37
+2600,2020-11-05,14:35,GS Tigers,Shanxi Dragons,131,106,İY 73-43
+2601,2020-11-05,15:00,Fujian Xunxing,ZJ Gold Bulls,83,99,İY 46-50
+2602,2020-11-05,13:05,H. Dragonflies,Toyama Grouses,74,97,İY 34-51
+2603,2020-11-05,01:00,Quimsa,La Union,86,77,İY 44-34
+2604,2020-11-05,03:30,I. Atletico Central Cordoba,Atenas,81,71,İY 44-33
+2605,2020-11-05,17:00,La Union,Libertad,88,79,İY 49-44
+2606,2020-11-05,20:30,Atenas,Quimsa,66,86,İY 33-51
+2607,2020-11-05,22:45,Obera,Corrientes,65,78,İY 28-42
+2608,2020-11-05,21:00,Dubrava,Zadar,67,82,İY 35-38
+2609,2020-11-05,20:00,Vrsac,Mladost,73,84,İY 35-39
+2610,2020-11-05,21:30,Sloga,Sloboda Uzice,67,73,İY 40-29
+2611,2020-11-05,15:30,Novosibirsk,Vostok 65,85,83,İY 33-40
+2612,2020-11-05,16:00,Temp,Khimki Pod,75,67,İY 33-28
+2613,2020-11-05,19:00,MBA Moskva,Kupol Rodniki,75,66,İY 34-30
+2614,2020-11-05,20:30,Associação Grande Florianópolis Escola de Basket,Sociedade Ginástica de Joinville,63,60,İY 27-33
+2615,2020-11-05,22:30,Clube Concórdia,Blumenau (K),35,94,İY 10-40
+2616,2020-11-05,01:30,Paulistano,São Paulo Futebol Clube,69,86,İY 36-49
+2617,2020-11-05,02:30,Brusque,BLU,50,52,İY 38-10
+2618,2020-11-05,00:30,Grande Florianópolis Basket,Joinville,56,72,İY 19-47
+2619,2020-11-05,01:00,Vera Cruz (K),Araraquara (K),73,60,İY 40-21
+2620,2020-11-05,20:45,Horsens,Randers,101,91,İY 58-41
+2621,2020-11-05,20:30,Tartu II,Audentes,78,74,İY 31-29
+2622,2020-11-05,21:15,Maaülikooli,Viimsi,78,93,İY 41-48
+2623,2020-11-05,19:30,Helmi HBA (K),ToPo (K),66,72,İY 29-35
+2624,2020-11-05,19:30,Espoo (K),Kouvottaret (K,100,61,İY 53-32
+2625,2020-11-05,19:30,Catz (K),ViVe (K),75,73,İY 32-31
+2626,2020-11-05,13:00,Seoul Thunders,LG Sakers,79,73,İY 44-33
+2627,2020-11-05,22:30,Valencia (K),Al Qazeres (K),88,56,İY 47-30
+2628,2020-11-05,00:30,Esgueira,Academica,75,83,İY 42-35
+2629,2020-11-05,00:30,Barreirense,Sport Lisboa e Benfica,79,92,İY 41-51
+2630,2020-11-05,22:30,Oliveirense,CAB Madeira,87,79,İY 40-34
+2631,2020-11-05,14:00,BC Runa Under 21,Samara U21,73,75,İY 44-35
+2632,2020-11-05,15:00,MBA Moskva Under 21,Avtodor U21,83,53,İY 42-23
+2633,2020-11-05,09:00,Novosibirsk(K),Nadezhda (K),62,45,İY 26-32
+2634,2020-11-05,12:00,Dynamo II (K),Spartak II (K),55,107,İY 21-69
+2635,2020-11-05,19:00,BK Khimik,MBK Mykolaiv,84,76,İY 44-34
+2636,2020-11-05,15:00,Cantho Catfish,Saigon Heat,62,92,İY 35-47
+2637,2020-11-04,14:00,Hatay Büyükşehir Belediye Spor Kulübü,İzmit Belediye spor Kulübü,71,65,İY 31-38
+2638,2020-11-04,14:00,Orman G. (K),Elazığ İl Özel İdare Basketbol,92,77,İY 36-45
+2639,2020-11-04,16:00,Kayseri BB (K),Çukurova (K),82,96,İY 41-42
+2640,2020-11-04,17:00,Galatasaray Spor Kulübü,Çankaya Üniversitesi Spor Kulübü,95,90,İY 52-51
+2641,2020-11-04,17:00,Adana BK,Beşiktaş (K),66,77,İY 24-39
+2642,2020-11-04,22:30,Dinamo Sassari,Tenerife,92,72,İY 38-47
+2643,2020-11-04,20:00,BC Tsmoki-Minsk,Cholet Basket,82,75,İY 45-33
+2644,2020-11-04,20:30,AEK,Hapoel Holon,100,96,İY 50-52
+2645,2020-11-04,19:00,BC UNICS Kazan,Venezia,90,87,İY 40-49
+2646,2020-11-04,22:00,Antwerp,L. Kuban,94,114,İY 39-71
+2647,2020-11-04,20:30,Cedevita,Nanterre,75,63,İY 40-28
+2648,2020-11-04,22:00,Trento,FruttiEx Bursa,89,80,İY 50-37
+2649,2020-11-04,23:00,CB Herbalife Gran Canaria Claret,Promitheas,98,83,İY 51-52
+2650,2020-11-04,23:15,CB RETAbet Bilbao Berri Basket,Real Madrid,83,85,İY 29-44
+2651,2020-11-04,19:30,KK Anwil,Astoria,90,71,İY 51-30
+2652,2020-11-04,22:30,Zielona Gora,Asseco Gdynia,104,58,İY 49-23
+2653,2020-11-04,07:00,Tianjin,BF Dragons,80,87,İY 38-43
+2654,2020-11-04,07:30,Tongxi King,SD Tigers,96,114,İY 58-58
+2655,2020-11-04,14:35,Jilin Tigers,QD Eagles,105,84,İY 58-44
+2656,2020-11-04,15:00,Xinjiang Tiger,LF Leopards,108,121,İY 59-59
+2657,2020-11-04,17:00,Corrientes,Regatas,77,74,İY 33-34
+2658,2020-11-04,20:30,Libertad,Obera,78,72,İY 36-34
+2659,2020-11-04,22:45,Comunicaciones,Olimpico,83,90,İY 43-44
+2660,2020-11-04,20:00,Cibona,Puntamika,108,77,İY 56-26
+2661,2020-11-04,21:00,KK Rogaska,Primorska,82,70,İY 42-44
+2662,2020-11-04,21:00,Sentjur,Krka,67,89,İY 35-47
+2663,2020-11-04,15:15,Ufimets,Runa,73,85,İY 34-40
+2664,2020-11-04,18:00,BK Samara,Burevestnik,117,70,İY 60-38
+2665,2020-11-04,20:00,Tartu,TTÜ,64,71,İY 42-44
+2666,2020-11-04,20:30,Liepajas,VEF Riga,81,95,İY 38-48
+2667,2020-11-04,01:30,Paulistano,Cruzes,89,83,İY 48-43
+2668,2020-11-04,23:00,Cruzes,Sorocabana,101,69,İY 52-39
+2669,2020-11-04,01:00,Apage Bask / Guarulhos,Santo Andre(K),40,58,İY 14-33
+2670,2020-11-04,19:30,Kouvot,KTP,82,92,İY 28-42
+2671,2020-11-04,19:30,T. Honka (K),Peli-Karhut(K),69,80,İY 34-38
+2672,2020-11-04,13:00,Seoul Knights,Incheon ET,104,79,İY 39-37
+2673,2020-11-04,21:00,E. Kotwica,Znicz Pruszkow,72,56,İY 37-38
+2674,2020-11-04,18:00,Satu Mare (K),Agronomia (K),87,51,İY 44-23
+2675,2020-11-04,15:00,Neftyanik (K),Sparta&K II(K),57,48,İY 27-20
+2676,2020-11-04,15:00,Rostov Don (K),Samara (K),69,64,İY 38-27
+2677,2020-11-04,16:30,Black Bears(K),Chevakata (K),70,85,İY 34-35
+2678,2020-11-04,19:00,Shakhty (K),Kazanochka (K),42,64,İY 19-28
+2679,2020-11-04,12:00,Dynamo II (K),Spartak II (K),45,75,İY 19-29
+2680,2020-11-04,17:45,Spisska,Handlova,92,79,İY 45-50
+2681,2020-11-04,20:30,Spisska (K),UMB (K),47,67,İY 26-35
+2682,2020-11-03,15:00,Fenerbahçe Spor Kulübü,Samsun Canik Belediye Spor Kulübü,110,54,İY 60-36
+2683,2020-11-03,16:00,Nesibe Aydın Spor Kulübü,Botaş (K),69,68,İY 48-41
+2684,2020-11-03,20:00,Dijon,CEZ Nymburk,85,61,İY 50-41
+2685,2020-11-03,20:30,K. Strovolou,TOFAŞ Spor Kulübü,74,84,İY 39-35
+2686,2020-11-03,20:00,Szombathely,Start Lublin,84,75,İY 44-32
+2687,2020-11-03,21:00,Bourg Basket,Bahçeşehir Koleji Spor Kulübü,79,77,İY 43-35
+2688,2020-11-03,20:45,KK Mornar,Ratiopharm Ulm,66,82,İY 43-41
+2689,2020-11-03,22:45,Levallois,Unicaja Baloncesto Málaga,90,80,İY 40-44
+2690,2020-11-03,06:00,SJ Whale,Fujian Xunxing,90,80,İY 45-33
+2691,2020-11-03,10:30,JS Dragons,GZ Long-Lions,86,104,İY 40-51
+2692,2020-11-03,10:30,ZJ Gold Bulls,SH Sharks,102,84,İY 53-36
+2693,2020-11-03,15:00,SH Leopards,Zhejiang Lions,80,87,İY 32-49
+2694,2020-11-03,15:00,Beijing Ducks,GS Tigers,107,111,İY 43-57
+2695,2020-11-03,20:00,Gorica,Skrljevo,111,73,İY 49-38
+2696,2020-11-03,15:30,Vostok 65,Novosibirsk,75,70,İY 38-50
+2697,2020-11-03,20:00,Parnu,Tallinna Kalev,98,92,İY 60-42
+2698,2020-11-03,20:30,Rapla KK,BC Kalev Cramo,82,80,İY 30-48
+2699,2020-11-03,17:30,Prinemanie,Tsmoki II,53,80,İY 22-34
+2700,2020-11-03,01:30,Paulistano,Sorocabana,89,64,İY 45-30
+2701,2020-11-03,23:00,São Paulo Futebol Clube,Sorocabana,86,67,İY 42-33
+2702,2020-11-03,17:00,Slavia Sof (K),Montana (K),58,81,İY 34-45
+2703,2020-11-03,13:00,Goyang Orions,Dongu Promy,73,61,İY 32-28
+2704,2020-11-03,21:30,Bembibre (K),UNI Girona (K),46,77,İY 22-35
+2705,2020-11-03,21:04,Boras,Fryshuset,107,73,İY 51-38
+2706,2020-11-03,19:00,Sporting Clube de Portugal,Imortal,101,72,İY 61-32
+2707,2020-11-03,23:00,Porto,Ovarense,95,55,İY 41-30
+2708,2020-11-03,18:00,Alexandria (K),Agronomia (K),49,58,İY 24-32
+2709,2020-11-03,16:00,D.Moskova (K),UMMC (K),65,114,İY 35-64
+2710,2020-11-02,21:05,Ironi Nahariya,Hapoel Elyon,63,73,İY 31-41
+2711,2020-11-02,21:10,Hapoel Haifa,Bnei Herzliya,80,79,İY 40-41
+2712,2020-11-02,20:00,KK Crvena Zvezda,Krka,88,62,İY 44-29
+2713,2020-11-02,23:00,FMP Beograd,Borac Cacak,93,87,İY 47-47
+2714,2020-11-02,19:35,Stal Ostrow,D. Gornicza,83,70,İY 44-32
+2715,2020-11-02,14:35,Xinjiang Tiger,Tianjin,117,106,İY 63-58
+2716,2020-11-02,15:00,Jilin Tigers,SD Tigers,93,106,İY 46-44
+2717,2020-11-02,15:30,Novosibirsk,Vostok 65,80,82,İY 43-38
+2718,2020-11-02,01:00,Bauru,Franca,76,69,İY 34-33
+2719,2020-11-02,23:00,São Paulo Futebol Clube,Cruzes,100,63,İY 47-31
+2720,2020-11-02,20:30,BC Elva/CHK,Audentese (K),72,71,İY 31-33
+2721,2020-11-02,13:00,Jeonju KCC,KT Sonicboom,79,77,İY 36-42
+2722,2020-11-02,20:30,Satu Mare (K),Alexandria (K),105,52,İY 61-33
+2723,2020-11-02,15:00,Dynamo Stavro,Rusichi,105,67,İY 59-32
+2724,2020-11-02,12:30,Khimik II,Hoverla,69,57,İY 45-32
+2725,2020-11-01,13:00,Fethiye Belediye Basketbol Kulübü,Beşiktaş,87,83,İY 37-46
+2726,2020-11-01,15:15,Gaziantep BB,OGM Orman Spor Kulübü,76,87,İY 41-45
+2727,2020-11-01,17:30,Türk Telekom Basketbol Kulübü,Pınar Karşıyaka Spor Kulübü,81,61,İY 43-21
+2728,2020-11-01,20:00,Anadolu Efes Spor Kulübü,Büyükçekmece,98,79,İY 56-40
+2729,2020-11-01,16:00,Ist. Basket,Bornova Belediye Spor Kulübü,64,81,İY 31-38
+2730,2020-11-01,14:00,Çukurova (K),İzmit Belediye spor Kulübü,72,67,İY 42-37
+2731,2020-11-01,14:30,Unicaja Baloncesto Málaga,Obradoiro,82,76,İY 42-43
+2732,2020-11-01,18:00,Club Joventut de Badalona,Estudiantes,97,70,İY 51-33
+2733,2020-11-01,19:00,Burgos,Fuenlabrada,78,99,İY 40-42
+2734,2020-11-01,20:30,Valencia,Real Madrid,78,86,İY 25-50
+2735,2020-11-01,22:00,FC Barcelona Lassa Bàsquet,Tenerife,81,74,İY 41-32
+2736,2020-11-01,22:00,CB Herbalife Gran Canaria Claret,CD Saski Baskonia,71,75,İY 35-34
+2737,2020-11-01,19:00,Venezia,Virtus Bologna,68,83,İY 43-34
+2738,2020-11-01,19:30,Olimpia Milano,Trento,82,75,İY 41-44
+2739,2020-11-01,20:00,Pesaro,Vanoli,95,83,İY 40-25
+2740,2020-11-01,21:00,Dinamo Sassari,Varese,104,82,İY 67-32
+2741,2020-11-01,22:45,Enel Brindisi,F. Bologna,100,74,İY 53-40
+2742,2020-11-01,13:00,L. Kuban,BC UNICS Kazan,93,81,İY 41-39
+2743,2020-11-01,14:00,PBK CSKA Moskva,BC Enisey Krasnoyarsk,109,60,İY 55-34
+2744,2020-11-01,17:00,BK Zenit Saint Petersburg,BC Astana,85,52,İY 38-27
+2745,2020-11-01,20:00,Zielona Gora,BC Tsmoki-Minsk,89,75,İY 48-41
+2746,2020-11-01,20:00,Telekom Basket,Braunschweig,91,79,İY 49-39
+2747,2020-11-01,19:00,Cibona,Primorska,91,50,İY 37-27
+2748,2020-11-01,23:00,Zadar,Split,66,72,İY 34-39
+2749,2020-11-01,18:00,Pieno Pasvalys,BC CBet Prienai,104,89,İY 58-36
+2750,2020-11-01,14:00,Valladolid,Palencia,73,66,İY 37-28
+2751,2020-11-01,14:00,Oviedo,Melilla,82,76,İY 40-33
+2752,2020-11-01,14:30,Lleida,CB Granada,83,79,İY 45-39
+2753,2020-11-01,20:00,Girona,Amics Castello,72,74,İY 35-40
+2754,2020-11-01,17:30,Lions,Eagles,79,89,İY 36-38
+2755,2020-11-01,06:00,SJ Whale,Zhejiang Lions,96,97,İY 52-47
+2756,2020-11-01,06:00,GZ Long-Lions,Tongxi King,110,111,İY 50-55
+2757,2020-11-01,10:30,SH Leopards,SH Sharks,93,91,İY 48-41
+2758,2020-11-01,10:30,ZJ Gold Bulls,Beijing Ducks,94,92,İY 48-52
+2759,2020-11-01,15:00,BF Dragons,JS Dragons,87,79,İY 41-37
+2760,2020-11-01,15:00,LF Leopards,QD Eagles,126,103,İY 63-51
+2761,2020-11-01,23:00,Mladost,Sloga,102,85,İY 51-35
+2762,2020-11-01,19:30,Swans Gmunden,Oberwart,87,73,İY 45-40
+2763,2020-11-01,01:00,Bauru,Pinheiros/SKY,95,70,İY 42-37
+2764,2020-11-01,22:30,Pinheiros/SKY,Aerco Osasco,80,63,İY 46-32
+2765,2020-11-01,13:00,MU Varna,Shumen Basket,82,80,İY 45-30
+2766,2020-11-01,15:00,Showtime,Svetkavitsa,75,50,İY 47-35
+2767,2020-11-01,17:00,Cherno More Ticha II,Unstoppable,96,44,İY 46-30
+2768,2020-11-01,19:00,University of Economics,Shabla,91,70,İY 44-29
+2769,2020-11-01,18:00,BC Kalev Cramo,Tartu,88,55,İY 30-27
+2770,2020-11-01,18:00,Lahti,Ura,85,84,İY 42-41
+2771,2020-11-01,09:00,LG Sakers,Seoul Knights,97,82,İY 56-37
+2772,2020-11-01,11:00,Anyang KGC,Dongu Promy,96,87,İY 42-39
+2773,2020-11-01,11:00,Incheon ET,Ulsan,91,96,İY 43-48
+2774,2020-11-01,20:00,Zamora,Estela,69,80,İY 29-40
+2775,2020-11-01,14:00,Sant Adria (K),GEiEG (K),46,27,İY 26-10
+2776,2020-11-01,20:00,F. Schio (K),V. Bologna (K),85,78,İY 33-41
+2777,2020-11-01,20:00,Rabotnicki,Skopje,94,90,İY 45-45
+2778,2020-11-01,14:00,Neftyanik (K),Kursk II (K),77,80,İY 36-40
+2779,2020-11-01,09:00,Pauian Archiland Basketball Team,Bank of Taiwan,75,58,İY 38-31
+2780,2020-11-01,13:00,Kinmen,Taiwan Beer,63,84,İY 38-43
+2781,2020-11-01,11:00,Chinese White,Luxgen Dinos,87,73,İY 43-34
+2782,2020-11-01,15:00,Zaporizhya,Ternopil,74,81,İY 43-38
+2783,2020-11-01,14:00,Khimik II,Hoverla,77,66,İY 44-35
+2784,2020-11-01,12:00,Hanoi Buffaloes,Cantho Catfish,97,86,İY 41-51
+2785,2020-11-01,15:00,NT Dolphins,Hochiminh City,77,67,İY 39-18
+2786,2020-10-31,13:00,Bahçeşehir Koleji Spor Kulübü,M.Y. Afyon Bld,70,76,İY 26-37
+2787,2020-10-31,15:15,Petkim Spor,Galatasaray,83,64,İY 40-32
+2788,2020-10-31,17:30,Darüşşafaka Spor Kulübü,FruttiEx Bursa,78,75,İY 43-50
+2789,2020-10-31,20:00,TOFAŞ Spor Kulübü,Fenerbahçe,103,104,İY 51-50
+2790,2020-10-31,16:00,Düzce Bld.,Manisa Bşb,75,71,İY 33-36
+2791,2020-10-31,16:00,Mamak Belediyesi,Selçuklu Bld,66,70,İY 32-31
+2792,2020-10-31,17:00,Sigortam.net,Merkezefendi,70,68,İY 28-32
+2793,2020-10-31,17:00,Gemlik Basketbol Kulübü,Akhisar Belediye,80,81,İY 45-43
+2794,2020-10-31,17:00,Semt77 Yalova,Ankara Anadolu,76,67,İY 35-36
+2795,2020-10-31,14:00,Samsun Canik Belediye Spor Kulübü,Nesibe Aydın Spor Kulübü,57,100,İY 23-47
+2796,2020-10-31,14:00,Botaş (K),Adana BK,78,50,İY 43-26
+2797,2020-10-31,14:00,Elazığ İl Özel İdare Basketbol,Fenerbahçe Spor Kulübü,60,82,İY 27-37
+2798,2020-10-31,16:00,Kayseri BB (K),Orman G. (K),80,79,İY 37-50
+2799,2020-10-31,17:30,Beşiktaş (K),Galatasaray Spor Kulübü,73,84,İY 43-39
+2800,2020-10-31,20:00,Real Betis,Gipuzkoa,74,62,İY 35-32
+2801,2020-10-31,22:45,Manresa,CB RETAbet Bilbao Berri Basket,94,78,İY 45-33
+2802,2020-10-31,18:00,Ionikos,Peristeri,75,80,İY 28-40
+2803,2020-10-31,20:30,AEK,Ermis Agias,87,68,İY 45-35
+2804,2020-10-31,20:00,KK Mornar,Mega,80,73,İY 44-43
+2805,2020-10-31,22:00,Igokea,Partizan,90,84,İY 45-43
+2806,2020-10-31,17:30,Polski Torun,Starogard,99,90,İY 53-46
+2807,2020-10-31,19:35,Start Lublin,Legia Warszawa,79,82,İY 43-37
+2808,2020-10-31,21:00,Gliwice,Slask Wroclaw,85,91,İY 39-39
+2809,2020-10-31,22:00,Spojnia,KS ROSA Radom,84,71,İY 38-38
+2810,2020-10-31,18:00,BC Nevėžis Kėdainiai,Vilnius Rytas,100,94,İY 50-44
+2811,2020-10-31,22:00,Myrtia,Almansa,65,63,İY 33-31
+2812,2020-10-31,22:00,Scorchers,Bristol Flyers,20,0,
+2813,2020-10-31,14:35,Shanxi Dragons,Fujian Xunxing,102,85,İY 49-34
+2814,2020-10-31,02:00,Quimsa,Flamengo,92,86,İY 50-43
+2815,2020-10-31,21:30,Alkar Sinj,Osijek,86,99,İY 47-59
+2816,2020-10-31,19:00,Dynamic,Novi Pazar,85,87,İY 41-43
+2817,2020-10-31,21:00,Sloboda Uzice,Tamis,76,90,İY 36-32
+2818,2020-10-31,21:30,Metalac,Zlatibor,80,89,İY 37-50
+2819,2020-10-31,21:00,Hopsi Polzela,Krka,79,89,İY 41-34
+2820,2020-10-31,21:00,KK Sencur,Zlatorog Lasko,87,68,İY 37-34
+2821,2020-10-31,22:00,Dukes,Traiskirchen,91,81,İY 48-37
+2822,2020-10-31,10:15,Vostok 65,Ufimets,90,57,İY 44-27
+2823,2020-10-31,13:00,CSKA Moskva II,MBA Moskva,71,77,İY 33-36
+2824,2020-10-31,14:00,Khimki Pod,Kupol Rodniki,49,95,İY 30-47
+2825,2020-10-31,15:00,Runa,Uralmash,94,74,İY 44-41
+2826,2020-10-31,15:00,VEF Riga,BK Ogre,83,76,İY 49-38
+2827,2020-10-31,17:00,TTÜ,Rapla KK,49,63,İY 25-24
+2828,2020-10-31,18:00,Vidzemes,Latvijas Univ.,83,73,İY 38-36
+2829,2020-10-31,18:00,BC Kalev Cramo,Parnu,81,60,İY 44-31
+2830,2020-10-31,13:00,Grodno-93,GOTsOR,108,52,İY 54-24
+2831,2020-10-31,01:30,Bauru,Aerco Osasco,101,66,İY 50-29
+2832,2020-10-31,22:30,Franca,Aerco Osasco,88,81,İY 47-37
+2833,2020-10-31,01:00,Santo Andre(K),Pro-Esporte (K,81,77,İY 25-25
+2834,2020-10-31,09:00,Jeonju KCC,Seoul Thunders,78,82,İY 33-46
+2835,2020-10-31,09:00,Ulsan,KT Sonicboom,81,77,İY 35-41
+2836,2020-10-31,11:00,Incheon ET,Dongu Promy,86,78,İY 46-31
+2837,2020-10-31,20:00,Godella,Lliria,51,70,İY 29-40
+2838,2020-10-31,20:00,Alcobendas,Zornotza,74,89,İY 41-40
+2839,2020-10-31,20:30,Ponferrada,Clavijo,82,74,İY 48-39
+2840,2020-10-31,20:05,Tarragona,Barcelona II,61,79,İY 35-45
+2841,2020-10-31,20:00,Zamarat (K),Islas Can. (K),72,80,İY 40-41
+2842,2020-10-31,21:00,P. Avenida (K),Gernika (K),72,64,İY 42-34
+2843,2020-10-31,21:15,Ensino (K),Bembibre (K),70,65,İY 37-39
+2844,2020-10-31,21:30,CAB Estepona,Colegio La Salle,80,65,İY 50-32
+2845,2020-10-31,18:00,Barcelona (K),Anagan Stadium Casablanca,76,53,İY 42-32
+2846,2020-10-31,22:04,Jamtland,Boras,90,89,İY 48-37
+2847,2020-10-31,20:00,Pistoia,Leonis Roma,89,74,İY 51-33
+2848,2020-10-31,21:00,San Martino(K),Venezia (K),52,84,İY 17-50
+2849,2020-10-31,20:00,Castelnuovo(K),Carugate (K),69,40,İY 35-21
+2850,2020-10-31,22:00,S. Giorgio (K),Sarcedo (K),54,50,İY 23-27
+2851,2020-10-31,20:00,KK TFT,Kumanovo,82,83,İY 33-47
+2852,2020-10-31,19:00,BC Obra Kościan,KS Sudety Jelenia Góra,71,96,İY 38-53
+2853,2020-10-31,19:00,Dijo Maximus GOKiS Kąty Wrocławskie,Lider Swarzędz,57,79,İY 26-43
+2854,2020-10-31,18:00,Iskra Svit,Handlova,99,80,İY 47-34
+2855,2020-10-31,09:00,Pauian Archiland Basketball Team,Taiwan Beer,65,71,İY 34-36
+2856,2020-10-31,11:00,Kinmen,Luxgen Dinos,59,74,İY 33-29
+2857,2020-10-31,13:00,Chinese White,Bank of Taiwan,76,74,İY 35-32
+2858,2020-10-31,15:00,Mariupol,DYSUSSH,92,56,İY 48-32
+2859,2020-10-31,16:30,Niko,Dnipro II,84,72,İY 54-39
+2860,2020-10-30,20:00,BC Khimki,KK Crvena Zvezda,83,77,İY 44-40
+2861,2020-10-30,22:00,Olympiacos BC,Anadolu Efes Spor Kulübü,79,84,İY 38-44
+2862,2020-10-30,22:30,CD Saski Baskonia,FC Barcelona Lassa Bàsquet,71,72,İY 37-39
+2863,2020-10-30,20:30,Zaragoza,Unicaja Baloncesto Málaga,63,92,İY 37-37
+2864,2020-10-30,23:15,Fuenlabrada,Club Joventut de Badalona,93,84,İY 48-48
+2865,2020-10-30,19:35,KK Anwil,Zielona Gora,67,90,İY 41-45
+2866,2020-10-30,21:30,Asseco Gdynia,Astoria,75,78,İY 39-37
+2867,2020-10-30,23:00,Caceres,CB Ourense,75,66,İY 33-36
+2868,2020-10-30,22:45,Fundacion,Bahia San Agustin,96,89,İY 37-41
+2869,2020-10-30,06:00,Tianjin,GZ Long-Lions,95,108,İY 42-58
+2870,2020-10-30,06:00,BF Dragons,Jilin Tigers,81,99,İY 37-54
+2871,2020-10-30,10:30,Xinjiang Tiger,JS Dragons,113,100,İY 52-45
+2872,2020-10-30,10:30,ZJ Gold Bulls,SH Leopards,91,74,İY 48-36
+2873,2020-10-30,15:00,QD Eagles,SD Tigers,103,91,İY 50-41
+2874,2020-10-30,15:00,LF Leopards,Tongxi King,125,99,İY 57-37
+2875,2020-10-30,21:00,Zadar,Hermes,94,73,İY 47-37
+2876,2020-10-30,21:00,KK Pirot,Kolubara LA,88,95,İY 32-35
+2877,2020-10-30,22:00,Vojvodina,Dunav,90,62,İY 38-42
+2878,2020-10-30,21:00,Graz,Flyers Wels,105,100,İY 42-55
+2879,2020-10-30,15:30,Novosibirsk,Univ Yugra,90,74,İY 53-44
+2880,2020-10-30,20:00,Ventspils,Liepajas,73,64,İY 36-31
+2881,2020-10-30,20:00,RSK Tarvas,Tallinna Kalev,82,75,İY 43-42
+2882,2020-10-30,23:00,Franca,Pinheiros/SKY,79,74,İY 34-30
+2883,2020-10-30,01:00,Apage Bask / Guarulhos,Vera Cruz (K),44,98,İY 21-40
+2884,2020-10-30,19:30,Tartu Kalev,Viimsi,73,66,İY 50-32
+2885,2020-10-30,19:30,Audentes,TSKK / Nord,86,77,İY 43-40
+2886,2020-10-30,20:30,Keila KK,Rae Koss/Hansaviimistlus,68,89,İY 38-41
+2887,2020-10-30,21:15,Paide Viking,Maaülikooli,95,92,İY 53-34
+2888,2020-10-30,19:30,KTP,BC Nokia,90,95,İY 44-45
+2889,2020-10-30,13:00,Goyang Orions,Seoul Knights,66,75,İY 44-32
+2890,2020-10-30,19:00,LCC tarptautinis universitetas,Neptūnas (K),63,83,İY 32-48
+2891,2020-10-30,23:30,Lusitania,Barreirense,87,67,İY 35-31
+2892,2020-10-30,10:00,Taiwan Beer,Bank of Taiwan,83,77,İY 40-34
+2893,2020-10-30,12:00,Luxgen Dinos,Chinese White,85,55,İY 36-26
+2894,2020-10-30,14:00,Kinmen,Pauian Archiland Basketball Team,82,90,İY 49-42
+2895,2020-10-30,21:30,Niko,Dnipro II,85,83,İY 37-40
+2896,2020-10-30,17:00,Khimik II,Hoverla,81,72,İY 45-46
+2897,2020-10-29,20:00,PBK CSKA Moskva,Valencia,84,75,İY 44-35
+2898,2020-10-29,20:00,Asvel,BC Žalgiris Kaunas,74,83,İY 50-41
+2899,2020-10-29,22:05,M. Tel Aviv,Fenerbahçe,65,75,İY 38-35
+2900,2020-10-29,23:00,Real Madrid,FC Bayern München,100,82,İY 49-45
+2901,2020-10-29,19:35,Trefl Sopot,Wilki Morskie,77,82,İY 29-34
+2902,2020-10-29,07:30,Zhejiang Lions,Shanxi Dragons,103,113,İY 54-53
+2903,2020-10-29,14:35,GS Tigers,SH Sharks,119,105,İY 55-54
+2904,2020-10-29,15:00,Beijing Ducks,Fujian Xunxing,80,71,İY 33-47
+2905,2020-10-29,01:00,SC Corinthians,Paulistano U19,59,71,İY 27-36
+2906,2020-10-29,20:30,Tartu II,T. Kalev II,68,111,İY 29-45
+2907,2020-10-29,19:30,Catz (K),F. Alku (K),50,83,İY 30-41
+2908,2020-10-29,19:30,Espoo (K),Helmi HBA (K),100,41,İY 42-16
+2909,2020-10-29,13:00,Jeonju KCC,Anyang KGC,76,69,İY 31-32
+2910,2020-10-29,23:00,Estudiantes(K),AE Sedis (K),56,59,İY 27-32
+2911,2020-10-29,19:00,Z. Kaunas II,Klaipeda,92,78,İY 49-41
+2912,2020-10-29,00:00,CB Queluz (K),Essa (K),53,79,İY 32-40
+2913,2020-10-29,00:30,Guiföes (K),Olivais (K),65,78,İY 28-44
+2914,2020-10-29,20:00,BK Budivelnyk,MBK Mykolaiv,68,74,İY 38-36
+2915,2020-10-28,20:00,VEF Riga,SIG Basket Strasbourg,46,42,İY 46-42
+2916,2020-10-28,20:00,Limoges Cercle Saint-Pierre,Igokea,80,75,İY 38-41
+2917,2020-10-28,20:00,Darüşşafaka Spor Kulübü,Oostende,79,74,İY 39-33
+2918,2020-10-28,19:00,BC UNICS Kazan,Club Joventut de Badalona,91,93,İY 34-33
+2919,2020-10-28,22:30,Venezia,Bahçeşehir Koleji Spor Kulübü,88,82,İY 42-36
+2920,2020-10-28,22:30,Partizan,Bourg Basket,76,89,İY 40-57
+2921,2020-10-28,21:00,KK Mornar,KK Budućnost VOLI,85,82,İY 39-42
+2922,2020-10-28,21:15,Ratiopharm Ulm,Unicaja Baloncesto Málaga,76,81,İY 41-41
+2923,2020-10-28,22:45,Brescia,Levallois,70,75,İY 37-39
+2924,2020-10-28,20:00,AS Monaco,L. Kuban,72,88,İY 34-44
+2925,2020-10-28,17:00,DVTK (K),İzmit Belediye spor Kulübü,68,85,İY 32-40
+2926,2020-10-28,20:00,UNI Girona (K),Sepsi (K),76,54,İY 31-28
+2927,2020-10-28,20:30,CD Saski Baskonia,Manresa,87,68,İY 41-30
+2928,2020-10-28,23:15,Estudiantes,Gipuzkoa,80,61,İY 27-30
+2929,2020-10-28,19:30,Pau Orthez,Le Mans,90,81,İY 31-33
+2930,2020-10-28,20:00,KK Anwil,D. Gornicza,98,101,İY 42-32
+2931,2020-10-28,06:00,QD Eagles,JS Dragons,113,114,İY 54-47
+2932,2020-10-28,07:30,SD Tigers,Xinjiang Tiger,97,99,İY 57-46
+2933,2020-10-28,10:30,Tianjin,LF Leopards,91,119,İY 44-71
+2934,2020-10-28,14:35,Jilin Tigers,GZ Long-Lions,99,87,İY 53-42
+2935,2020-10-28,15:00,Tongxi King,BF Dragons,82,110,İY 39-64
+2936,2020-10-28,13:05,Chiba Jets,Toyota Alvark,82,73,İY 38-27
+2937,2020-10-28,13:05,Sun Rockers,Akita NH,89,86,İY 51-41
+2938,2020-10-28,13:05,Brave Thunders,Niigata Abirex,92,69,İY 44-33
+2939,2020-10-28,13:05,Toyama Grouses,Yokohama BC,84,64,İY 32-39
+2940,2020-10-28,13:05,NeoPhoenix,Kyoto Hannaryz,94,75,İY 44-34
+2941,2020-10-28,13:05,Dolphins,Shinshu BW,65,61,İY 32-36
+2942,2020-10-28,13:05,Osaka Evessa,SeaHorses,98,76,İY 44-31
+2943,2020-10-28,13:05,H. Dragonflies,Ryukyu,72,74,İY 38-36
+2944,2020-10-28,13:15,Shiga L-Stars,Shimane SM,80,82,İY 35-41
+2945,2020-10-28,13:25,Tochigi Brex,Levanga,85,76,İY 40-29
+2946,2020-10-28,20:00,Krka,KK Rogaska,94,71,İY 44-35
+2947,2020-10-28,22:00,Primorska,Hopsi Polzela,85,80,İY 37-43
+2948,2020-10-28,14:10,BK Irkut,Ufimets,71,84,İY 35-40
+2949,2020-10-28,19:00,Runa,Temp,91,70,İY 44-28
+2950,2020-10-28,19:00,CSKA Moskva II,Kupol Rodniki,88,85,İY 40-50
+2951,2020-10-28,20:00,BC Kalev Cramo,RSK Tarvas,100,74,İY 45-44
+2952,2020-10-28,20:00,Tartu,Rapla KK,74,76,İY 29-30
+2953,2020-10-28,20:30,Tallinna Kalev,TTÜ,85,65,İY 41-24
+2954,2020-10-28,19:00,Montana (K),Orlovi (K),80,63,İY 42-30
+2955,2020-10-28,19:45,ZKK Vojvodina 021,Buducnost (K),50,78,İY 29-40
+2956,2020-10-28,01:00,Sao Jose U19,Paulistano U19,46,56,İY 18-29
+2957,2020-10-28,19:30,Ura,Seagulls,86,102,İY 37-55
+2958,2020-10-28,19:30,T. Honka (K),Kouvottaret (K,113,73,İY 49-35
+2959,2020-10-28,13:00,LG Sakers,Dongu Promy,84,76,İY 41-34
+2960,2020-10-28,13:00,KEB Hana (K),Shinhan (K),72,80,İY 34-42
+2961,2020-10-28,22:00,CD Ibaeta,P. Avenida (K),66,84,İY 30-42
+2962,2020-10-28,22:30,Valencia (K),Ensino (K),77,46,İY 34-30
+2963,2020-10-28,23:00,Clarinos (K),Promete (K),68,56,İY 23-23
+2964,2020-10-28,21:30,MKS Ochota Warszawa,LKS Lodz,70,76,İY 37-33
+2965,2020-10-28,20:00,Gdynia (K),Gdanska (K),103,53,İY 51-19
+2966,2020-10-28,20:00,Handlova,Spisska,76,78,İY 32-37
+2967,2020-10-28,20:00,Lucenec,Prievidza,77,71,İY 35-37
+2968,2020-10-28,20:00,Levicki,Inter,88,80,İY 52-40
+2969,2020-10-28,10:00,Luxgen Dinos,Pauian Archiland Basketball Team,78,70,İY 45-30
+2970,2020-10-28,12:00,Bank of Taiwan,Kinmen,71,76,İY 36-42
+2971,2020-10-28,14:00,Taiwan Beer,Chinese White,92,76,İY 39-36
+2972,2020-10-27,20:30,Vilnius Rytas,Peristeri,88,106,İY 51-51
+2973,2020-10-27,22:00,CB RETAbet Bilbao Berri Basket,Pınar Karşıyaka Spor Kulübü,72,81,İY 46-42
+2974,2020-10-27,22:30,F. Bologna,Brose Baskets,63,100,İY 31-51
+2975,2020-10-27,20:30,Türk Telekom Basketbol Kulübü,H. Jerusalem,98,94,İY 46-49
+2976,2020-10-27,22:00,BC MoraBanc Andorra,Lietkabelis,76,66,İY 39-38
+2977,2020-10-27,22:00,Antwerp,Virtus Bologna,76,95,İY 33-43
+2978,2020-10-27,20:30,Real Betis,Real Madrid,65,84,İY 31-31
+2979,2020-10-27,23:15,Obradoiro,Valencia,77,78,İY 33-39
+2980,2020-10-27,23:15,UCAM Murcia,FC Barcelona Lassa Bàsquet,77,73,İY 43-31
+2981,2020-10-27,20:00,Dijon,Chalons-Reims,87,72,İY 42-29
+2982,2020-10-27,06:00,Shanxi Dragons,SH Leopards,87,96,İY 43-37
+2983,2020-10-27,10:30,SJ Whale,GS Tigers,90,111,İY 38-52
+2984,2020-10-27,14:35,Fujian Xunxing,SH Sharks,87,116,İY 42-55
+2985,2020-10-27,15:00,Zhejiang Lions,ZJ Gold Bulls,104,113,İY 47-42
+2986,2020-10-27,23:00,Quimsa,Almagro,110,97,İY 36-48
+2987,2020-10-27,19:15,BC CBet Prienai,BC Žalgiris Kaunas,108,62,İY 50-35
+2988,2020-10-27,19:30,BC Nevėžis Kėdainiai,BC Vytis,85,56,İY 61-27
+2989,2020-10-27,19:30,Neptunas,BC Siauliai,87,82,İY 45-40
+2990,2020-10-27,21:30,WBC NSA,BC Balkan Botevgrad II,89,88,İY 38-35
+2991,2020-10-27,20:30,SOM Boulogne,Kaysersberg Ammerschwihr,69,62,İY 34-26
+2992,2020-10-27,10:00,Kinmen,Taiwan Beer,63,85,İY 23-48
+2993,2020-10-27,12:00,Pauian Archiland Basketball Team,Chinese White,66,88,İY 29-44
+2994,2020-10-27,14:00,Bank of Taiwan,Luxgen Dinos,66,78,İY 27-42
+2995,2020-10-26,20:00,Beşiktaş,Anadolu Efes Spor Kulübü,74,81,İY 34-40
+2996,2020-10-26,23:00,Levallois,Limoges Cercle Saint-Pierre,82,76,İY 40-32
+2997,2020-10-26,18:00,BC Avtodor Saratov,BC Khimki,85,82,İY 38-44
+2998,2020-10-26,22:30,Crailsheim,FC Bayern München,63,80,İY 28-44
+2999,2020-10-26,20:00,Primorska,Zadar,55,77,İY 29-35
+3000,2020-10-26,23:00,Krka,Cibona,63,80,İY 39-39
+3001,2020-10-26,19:35,Start Lublin,Slask Wroclaw,79,76,İY 32-40
+3002,2020-10-26,21:00,Trefl Sopot,Polski Torun,96,67,İY 47-28
+3003,2020-10-26,14:35,QD Eagles,BF Dragons,127,95,İY 63-47
+3004,2020-10-26,15:00,Xinjiang Tiger,Tongxi King,116,94,İY 57-37
+3005,2020-10-26,19:00,Pieno Pasvalys,BC Jonava,91,76,İY 57-36
+3006,2020-10-26,19:30,Kapfenberg,St. Pölten,86,87,İY 49-48
+3007,2020-10-26,20:30,RSU (K),Latvijas (K),70,68,İY 39-37
+3008,2020-10-26,21:00,SC Corinthians,Sao Jose U19,80,58,İY 30-34
+3009,2020-10-26,13:00,Seoul Thunders,Ulsan,89,102,İY 47-55
+3010,2020-10-25,13:00,Fenerbahçe,Petkim Spor,93,70,İY 51-39
+3011,2020-10-25,15:15,Galatasaray,Gaziantep BB,86,90,İY 45-45
+3012,2020-10-25,17:30,OGM Orman Spor Kulübü,Fethiye Belediye Basketbol Kulübü,77,66,İY 42-24
+3013,2020-10-25,16:00,Fenerbahçe Spor Kulübü,Kayseri BB (K),91,69,İY 42-31
+3014,2020-10-25,14:30,Unicaja Baloncesto Málaga,Tenerife,79,86,İY 44-40
+3015,2020-10-25,15:00,CB Herbalife Gran Canaria Claret,Obradoiro,75,85,İY 43-46
+3016,2020-10-25,20:30,Real Madrid,Estudiantes,93,77,İY 44-34
+3017,2020-10-25,22:00,FC Barcelona Lassa Bàsquet,BC MoraBanc Andorra,82,71,İY 41-30
+3018,2020-10-25,19:00,F. Bologna,Olimpia Milano,71,82,İY 42-38
+3019,2020-10-25,19:30,Venezia,Dinamo Sassari,99,92,İY 50-44
+3020,2020-10-25,21:30,Trieste,Enel Brindisi,76,79,İY 40-45
+3021,2020-10-25,22:45,Trento,Vanoli,85,83,İY 32-49
+3022,2020-10-25,13:00,BC UNICS Kazan,BC Enisey Krasnoyarsk,75,64,İY 47-38
+3023,2020-10-25,22:00,Zielona Gora,L. Kuban,99,114,İY 51-50
+3024,2020-10-25,22:30,ALBA Berlin,Oldenburg,,,
+3025,2020-10-25,17:00,Rasta Vechta,S. Frankfurt,80,89,İY 36-47
+3026,2020-10-25,22:30,Giessen 46ers,BG Göttingen,119,123,İY 49-53
+3027,2020-10-25,17:00,Ratiopharm Ulm,Würzburg,80,75,İY 36-28
+3028,2020-10-25,22:30,Brose Baskets,Riesen,72,99,İY 29-43
+3029,2020-10-25,20:00,Mitteldeutsche,FC Bayern München,60,97,İY 28-49
+3030,2020-10-25,20:30,Panathinaikos BC Superfoods,Ermis Agias,69,60,İY 31-30
+3031,2020-10-25,14:00,Mega,KK Crvena Zvezda,73,76,İY 35-40
+3032,2020-10-25,19:00,KK Budućnost VOLI,FMP Beograd,77,76,İY 42-32
+3033,2020-10-25,20:45,Partizan,Cedevita,86,77,İY 38-40
+3034,2020-10-25,19:35,Spojnia,Astoria,86,95,İY 52-49
+3035,2020-10-25,16:00,BC Nevėžis Kėdainiai,BC Siauliai,96,77,İY 47-36
+3036,2020-10-25,16:30,BC CBet Prienai,Dzukija Alytus,81,74,İY 42-33
+3037,2020-10-25,18:00,Vilnius Rytas,BC Žalgiris Kaunas,72,84,İY 42-34
+3038,2020-10-25,20:00,Bahia San Agustin,Girona,78,81,İY 41-42
+3039,2020-10-25,19:00,Rouen Basket,Denain Voltair,94,89,İY 45-41
+3040,2020-10-25,06:00,SD Tigers,GZ Long-Lions,94,96,İY 47-51
+3041,2020-10-25,06:00,Tianjin,Jilin Tigers,97,105,İY 55-47
+3042,2020-10-25,10:30,Zhejiang Lions,SH Leopards,99,88,İY 47-41
+3043,2020-10-25,15:00,GS Tigers,Fujian Xunxing,123,111,İY 64-56
+3044,2020-10-25,15:00,JS Dragons,LF Leopards,86,107,İY 45-51
+3045,2020-10-25,08:05,Levanga,Shiga L-Stars,87,98,İY 43-40
+3046,2020-10-25,08:05,Akita NH,Yokohama BC,68,48,İY 27-18
+3047,2020-10-25,08:05,Shinshu BW,Brave Thunders,62,80,İY 35-39
+3048,2020-10-25,08:05,SeaHorses,Toyama Grouses,99,77,İY 45-45
+3049,2020-10-25,08:05,Kyoto Hannaryz,Niigata Abirex,81,86,İY 34-36
+3050,2020-10-25,08:05,H. Dragonflies,NeoPhoenix,115,109,İY 46-47
+3051,2020-10-25,08:05,Ryukyu,Shimane SM,82,75,İY 35-42
+3052,2020-10-25,09:05,Tochigi Brex,Sun Rockers,78,77,İY 34-37
+3053,2020-10-25,09:05,Osaka Evessa,Toyota Alvark,77,85,İY 38-43
+3054,2020-10-25,10:05,Chiba Jets,Dolphins,95,72,İY 44-37
+3055,2020-10-25,15:00,Uralmash,Runa,72,62,İY 41-34
+3056,2020-10-25,16:00,Temp,Cheboksary,88,92,İY 41-42
+3057,2020-10-25,16:00,Kupol Rodniki,Rusichi,112,62,İY 56-33
+3058,2020-10-25,19:30,MBA Moskva,Lokomotiv II,95,60,İY 53-33
+3059,2020-10-25,18:00,Parnu,RSK Tarvas,81,69,İY 30-36
+3060,2020-10-25,01:00,Corinthians,São Paulo Futebol Clube,77,103,İY 39-56
+3061,2020-10-25,17:00,Pinheiros/SKY,Paulistano,65,63,İY 30-40
+3062,2020-10-25,16:00,Franca U19,FR/Semelp Pindamonhangaba Under 19,95,56,İY 40-25
+3063,2020-10-25,20:00,Athletic Sofia,BC Slavia Sofia,72,86,İY 31-43
+3064,2020-10-25,17:00,Belfius Mons Hainaut,Kangoeroes,95,99,İY 52-46
+3065,2020-10-25,09:00,Dongu Promy,Jeonju KCC,69,85,İY 36-41
+3066,2020-10-25,09:00,Goyang Orions,Incheon ET,71,73,İY 38-30
+3067,2020-10-25,11:00,Anyang KGC,LG Sakers,77,64,İY 45-28
+3068,2020-10-25,11:00,Seoul Knights,KT Sonicboom,92,88,İY 37-40
+3069,2020-10-25,20:00,Caceres II,Xerez CD,73,64,İY 38-27
+3070,2020-10-25,20:00,TAU Castello II,Paterna,60,77,İY 33-40
+3071,2020-10-25,20:30,Aldaia,Nou Basquet Torrent,74,67,İY 34-34
+3072,2020-10-25,21:00,Clavijo,Zamora,68,73,İY 40-37
+3073,2020-10-25,14:00,Nou Basquet Paterna,Almeria (K),53,59,İY 34-34
+3074,2020-10-25,14:00,Club Joventut Badalona,Barcelona (K),57,73,İY 28-41
+3075,2020-10-25,17:04,Boras,Norrköping,67,68,İY 47-33
+3076,2020-10-25,20:00,Martino II (K),BC Bolzano (K),55,61,İY 34-38
+3077,2020-10-25,18:00,A. Gdynia II (,Polkowice (K),39,102,İY 17-56
+3078,2020-10-25,18:00,Belenenses,Benfica II,77,67,İY 40-28
+3079,2020-10-25,21:30,Academia,Coracao do Ribatejo,79,59,İY 42-31
+3080,2020-10-25,14:00,Essa (K),Benfica (K),58,63,İY 26-35
+3081,2020-10-25,18:30,Guiföes (K),Galitos (K),70,66,İY 34-28
+3082,2020-10-25,19:00,CAB Madeira(K),Quinta (K),82,81,İY 36-43
+3083,2020-10-25,21:00,Marítimo,Carnide (K),85,81,İY 41-31
+3084,2020-10-25,14:00,Sparta&K II(K),Petersburg (K),68,63,İY 30-31
+3085,2020-10-25,09:00,Taiwan Beer,Luxgen Dinos,78,77,İY 29-35
+3086,2020-10-25,11:00,Pauian Archiland Basketball Team,Bank of Taiwan,61,68,İY 27-23
+3087,2020-10-25,13:00,Chinese White,Kinmen,69,72,İY 32-38
+3088,2020-10-25,15:00,Kyiv Basket,BK Dnipro,76,75,İY 39-34
+3089,2020-10-25,17:00,MBK Mykolaiv,Zaporizhya,66,90,İY 35-50
+3090,2020-10-25,13:00,Chania (K),PAOK (K),74,64,İY 49-24
+3091,2020-10-24,13:00,FruttiEx Bursa,TOFAŞ Spor Kulübü,83,70,İY 40-42
+3092,2020-10-24,15:15,M.Y. Afyon Bld,Türk Telekom Basketbol Kulübü,84,89,İY 33-44
+3093,2020-10-24,17:30,Pınar Karşıyaka Spor Kulübü,Darüşşafaka Spor Kulübü,89,78,İY 44-33
+3094,2020-10-24,20:00,Büyükçekmece,Bahçeşehir Koleji Spor Kulübü,66,92,İY 28-39
+3095,2020-10-24,15:00,Manisa Bşb,Ist. Basket,82,63,İY 44-28
+3096,2020-10-24,15:00,Bornova Belediye Spor Kulübü,Final Spor,82,71,İY 44-37
+3097,2020-10-24,16:00,Selçuklu Bld,Düzce Bld.,72,92,İY 33-53
+3098,2020-10-24,17:00,Semt77 Yalova,Sigortam.net,83,86,İY 41-38
+3099,2020-10-24,17:00,Kocaeli,Samsunspor,75,62,İY 35-31
+3100,2020-10-24,14:00,Adana BK,Samsun Canik Belediye Spor Kulübü,96,47,İY 38-15
+3101,2020-10-24,14:00,Orman G. (K),Çukurova (K),100,101,İY 43-46
+3102,2020-10-24,16:00,İzmit Belediye spor Kulübü,Çankaya Üniversitesi Spor Kulübü,64,72,İY 43-37
+3103,2020-10-24,16:00,Galatasaray Spor Kulübü,Botaş (K),75,60,İY 42-32
+3104,2020-10-24,16:00,Nesibe Aydın Spor Kulübü,Elazığ İl Özel İdare Basketbol,90,74,İY 48-27
+3105,2020-10-24,19:00,Manresa,Real Betis,93,81,İY 49-37
+3106,2020-10-24,19:00,Valencia,Zaragoza,93,84,İY 39-55
+3107,2020-10-24,21:45,Gipuzkoa,Fuenlabrada,72,100,İY 39-43
+3108,2020-10-24,21:45,Club Joventut de Badalona,CD Saski Baskonia,83,82,İY 47-32
+3109,2020-10-24,21:30,Varese,Virtus Bologna,73,85,İY 39-53
+3110,2020-10-24,21:30,Reggio Emilia,Brescia,83,67,İY 45-44
+3111,2020-10-24,18:00,Pau Orthez,Boulazac,89,60,İY 44-29
+3112,2020-10-24,18:00,SIG Basket Strasbourg,Le Portel,83,94,İY 52-41
+3113,2020-10-24,18:30,Gravelines,Dijon,67,81,İY 30-34
+3114,2020-10-24,21:00,Le Mans,Chalons-Reims,84,87,İY 48-44
+3115,2020-10-24,16:00,Oldenburg,Braunschweig,88,97,İY 53-51
+3116,2020-10-24,16:00,S. Frankfurt,Giessen 46ers,86,70,İY 46-37
+3117,2020-10-24,21:30,Rasta Vechta,BG Göttingen,87,99,İY 38-62
+3118,2020-10-24,16:00,Würzburg,Brose Baskets,68,89,İY 38-45
+3119,2020-10-24,21:30,Ratiopharm Ulm,Riesen,92,72,İY 42-33
+3120,2020-10-24,17:15,Charilaos Trikoupis,Aris,73,70,İY 37-40
+3121,2020-10-24,17:15,Ionikos,AEK,68,81,İY 39-32
+3122,2020-10-24,17:15,Peristeri,C. Rodos,84,81,İY 41-44
+3123,2020-10-24,19:30,Iraklis,PAOK,75,57,İY 37-32
+3124,2020-10-24,20:00,Split,Igokea,78,79,İY 28-41
+3125,2020-10-24,18:35,Legia Warszawa,Stal Ostrow,89,73,İY 41-33
+3126,2020-10-24,17:00,BC Juventus Utena,Lietkabelis,76,78,İY 42-40
+3127,2020-10-24,18:00,Leyma Coruna,Valladolid,67,80,İY 22-47
+3128,2020-10-24,21:00,CB Ourense,Palencia,75,68,İY 43-31
+3129,2020-10-24,20:00,Almansa,CB Granada,64,89,İY 31-41
+3130,2020-10-24,17:00,Saint Chamond,Poitiers,83,61,İY 42-35
+3131,2020-10-24,17:30,Paris,Lille BC,80,57,İY 48-30
+3132,2020-10-24,18:00,Nancy Basket,Blois 41,76,87,İY 44-32
+3133,2020-10-24,14:35,ZJ Gold Bulls,SJ Whale,116,106,İY 59-48
+3134,2020-10-24,15:00,SH Sharks,Beijing Ducks,99,102,İY 54-45
+3135,2020-10-24,09:05,Tochigi Brex,Sun Rockers,97,66,İY 50-34
+3136,2020-10-24,09:05,Shinshu BW,Brave Thunders,72,66,İY 36-32
+3137,2020-10-24,10:05,Chiba Jets,Dolphins,92,76,İY 49-33
+3138,2020-10-24,19:00,Zlatibor,OKK Beograd,80,82,İY 39-47
+3139,2020-10-24,19:00,Vrsac,Novi Pazar,74,76,İY 32-37
+3140,2020-10-24,20:30,Kolubara LA,Metalac,77,70,İY 33-37
+3141,2020-10-24,20:30,Sloga,Napredak,83,76,İY 30-39
+3142,2020-10-24,21:00,Dunav,KK Pirot,86,72,İY 35-24
+3143,2020-10-24,20:00,Sentjur,KK Sencur,82,70,İY 39-38
+3144,2020-10-24,18:30,Dukes,Graz,97,91,İY 40-42
+3145,2020-10-24,18:30,Timberwolves,Swans Gmunden,55,94,İY 31-47
+3146,2020-10-24,18:30,Oberwart,Flyers Wels,88,90,İY 33-38
+3147,2020-10-24,21:00,Traiskirchen,BC Hallmann,77,89,İY 36-44
+3148,2020-10-24,14:00,BK Ogre,Liepajas,94,77,İY 45-38
+3149,2020-10-24,17:00,Ventspils,Vidzemes,113,90,İY 59-47
+3150,2020-10-24,17:00,Rapla KK,Tallinna Kalev,92,76,İY 39-43
+3151,2020-10-24,17:00,TTÜ,Tartu,67,79,İY 25-35
+3152,2020-10-24,19:00,VEF Riga,Latvijas Univ.,95,54,İY 40-21
+3153,2020-10-24,00:00,Franca U19,America Esporte Clube U19,141,24,İY 75-15
+3154,2020-10-24,01:00,Funvic (K),Apage Bask / Guarulhos,83,45,İY 57-23
+3155,2020-10-24,14:00,Cherno More (K,Montana (K),40,106,İY 22-58
+3156,2020-10-24,15:00,Bakken Bears,Naestved,110,80,İY 56-34
+3157,2020-10-24,11:00,Seoul Knights,Anyang KGC,83,80,İY 38-48
+3158,2020-10-24,19:15,Puerto Sagunto,Godella,64,63,İY 26-30
+3159,2020-10-24,21:30,Zentro,Circulo Gijon,91,79,İY 41-40
+3160,2020-10-24,19:30,Pardinyas,Benicarlo,56,72,İY 34-39
+3161,2020-10-24,21:45,Barcelona II,Navarra,110,58,İY 48-29
+3162,2020-10-24,20:15,Ensino (K),Clarinos (K),60,73,İY 27-41
+3163,2020-10-24,21:00,Al Qazeres (K),Islas Can. (K),66,80,İY 32-45
+3164,2020-10-24,21:00,Zamarat (K),CD Ibaeta,66,82,İY 29-41
+3165,2020-10-24,18:30,CB Pozuelo (K),CD Baloncesto Sevilla Femenino,69,45,İY 34-22
+3166,2020-10-24,17:04,Jamtland,Lulea,68,80,İY 33-40
+3167,2020-10-24,19:30,Piero Manetti,Chieti,79,76,İY 33-37
+3168,2020-10-24,21:00,Costa (K),USE (K),77,69,İY 36-36
+3169,2020-10-24,21:30,Lucca (K),Venezia (K),52,74,İY 27-45
+3170,2020-10-24,21:30,GEAS (K),Dinamo Banco di Sardegna Sassari,67,76,İY 30-25
+3171,2020-10-24,20:30,Sarcedo (K),Moncalieri (K),82,74,İY 36-32
+3172,2020-10-24,16:00,Gargzdu,Vilkaviskio Perlas,74,71,İY 32-37
+3173,2020-10-24,16:00,BC Jonava,BC Šilalės Lūšis,92,70,İY 47-33
+3174,2020-10-24,16:00,Z. Kaunas II,Perlas MRU,86,81,İY 45-42
+3175,2020-10-24,15:00,Warszawski (K),Pruszków (K),67,90,İY 37-43
+3176,2020-10-24,19:00,Energa Czarni,TS Wisla Krakow,102,53,İY 57-32
+3177,2020-10-24,17:00,CAB Madeira,Sporting Clube de Portugal,72,87,İY 38-57
+3178,2020-10-24,18:00,Imortal,Esgueira,101,50,İY 59-23
+3179,2020-10-24,18:00,Ovarense,Galitos FC,83,73,İY 47-44
+3180,2020-10-24,20:00,Vitoria,Lusitania,71,81,İY 34-42
+3181,2020-10-24,20:00,Maia,Oliveirense,68,80,İY 35-41
+3182,2020-10-24,17:00,Povoa,Sanjoanense,84,72,İY 38-35
+3183,2020-10-24,23:30,Vasco da Gama,Illiabum Clube,64,81,İY 32-43
+3184,2020-10-24,20:00,Marítimo,ESA (K),81,85,İY 39-39
+3185,2020-10-24,19:00,Spisska,Inter,80,50,İY 46-23
+3186,2020-10-24,15:00,Spisska (K),Samorín (K),40,82,İY 17-45
+3187,2020-10-24,18:00,UMB (K),Banska (K),26,75,İY 13-32
+3188,2020-10-24,10:00,Taiwan Beer,Pauian Archiland Basketball Team,67,55,İY 33-24
+3189,2020-10-24,12:00,Luxgen Dinos,Kinmen,75,82,İY 41-53
+3190,2020-10-24,14:00,Bank of Taiwan,Chinese White,56,79,İY 23-47
+3191,2020-10-24,16:00,BK Khimik,BK Budivelnyk,74,84,İY 36-42
+3192,2020-10-23,20:00,BC Khimki,M. Tel Aviv,87,89,İY 33-36
+3193,2020-10-23,21:30,FC Bayern München,Olympiacos BC,74,68,İY 39-34
+3194,2020-10-23,22:00,FC Barcelona Lassa Bàsquet,Real Madrid,79,72,İY 48-27
+3195,2020-10-23,19:00,Merkezefendi,Gemlik Basketbol Kulübü,85,86,İY 40-36
+3196,2020-10-23,19:00,Ankara Anadolu,Balıkesir BŞB,81,62,İY 38-34
+3197,2020-10-23,21:25,Trefl Sopot,Gliwice,80,110,İY 45-61
+3198,2020-10-23,22:00,Melilla,Caceres,74,75,İY 33-34
+3199,2020-10-23,21:00,Fundacion,Lleida,82,65,İY 43-32
+3200,2020-10-23,21:00,Amics Castello,Real Canoe NC,92,63,İY 42-37
+3201,2020-10-23,22:00,Penas Huesca,Myrtia,69,82,İY 35-51
+3202,2020-10-23,19:00,Fos Provence,Hermine,78,83,İY 44-34
+3203,2020-10-23,21:00,Aix Maurienne,Gries,93,83,İY 41-36
+3204,2020-10-23,21:30,Antibes,Saint Quentin,83,79,İY 42-47
+3205,2020-10-23,06:00,SD Tigers,Tongxi King,87,69,İY 30-44
+3206,2020-10-23,06:00,Xinjiang Tiger,Jilin Tigers,97,108,İY 42-58
+3207,2020-10-23,10:30,QD Eagles,Tianjin,104,96,İY 50-44
+3208,2020-10-23,15:00,BF Dragons,LF Leopards,91,111,İY 48-58
+3209,2020-10-23,15:00,GS Tigers,Zhejiang Lions,115,106,İY 63-48
+3210,2020-10-23,19:00,Vojvodina,Dynamic,80,74,İY 40-42
+3211,2020-10-23,19:30,Tamis,Mladost,85,91,İY 39-43
+3212,2020-10-23,16:00,Temp,BK Irkut,115,74,İY 60-43
+3213,2020-10-23,18:30,Liepajas SSS,RSU (K),82,52,İY 44-34
+3214,2020-10-23,01:00,Franca,Cruzes,98,80,İY 52-39
+3215,2020-10-23,14:00,Champion (K),Beroe (K),47,74,İY 23-37
+3216,2020-10-23,20:30,Enigma Fireworks,Mix,67,45,İY 38-24
+3217,2020-10-23,18:30,F. Alku (K),Peli-Karhut(K),73,76,İY 37-33
+3218,2020-10-23,13:00,Dongu Promy,Goyang Orions,67,74,İY 35-39
+3219,2020-10-23,22:00,Carugate (K),Crema (K),66,84,İY 32-40
+3220,2020-10-23,13:00,Avtodor U21,Parma,70,61,İY 37-29
+3221,2020-10-23,15:00,MBA Moskva Under 21,CSKA U21,82,76,İY 34-45
+3222,2020-10-23,12:00,Pauian Archiland Basketball Team,Luxgen Dinos,82,75,İY 34-28
+3223,2020-10-23,14:00,Kinmen,Bank of Taiwan,68,63,İY 40-26
+3224,2020-10-23,18:30,Mavpi,Zaporizhya,66,98,İY 30-52
+3225,2020-10-23,19:00,MBK Mykolaiv,Prometei,89,112,İY 54-52
+3226,2020-10-23,20:00,Kyiv Basket,BK Kharkivski Sokoli,116,94,İY 55-44
